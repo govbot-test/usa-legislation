@@ -1,0 +1,101 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 6128",
+  "title": "To transfer $160,000,000 from the Travel Promotion Fund to Brand USA.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr6128"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Energy and Commerce.",
+      "date": "2025-11-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:12Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-11-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:12Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kathy Castor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kathy Castor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dina Titus",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dina Titus\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gus M. Bilirakis",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gus M. Bilirakis\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6128.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/6128",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "C001066",
+      "T000468"
+    ],
+    "sponsor_bioguides": [
+      "B001257"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:12Z"
+  }
+}

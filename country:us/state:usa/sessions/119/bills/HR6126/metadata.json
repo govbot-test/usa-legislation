@@ -1,0 +1,146 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 6126",
+  "title": "To require the Secretary of the Treasury to mint a coin in recognition of the Foreign Service of the United States and its contribution to United States diplomacy.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr6126"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Financial Services.",
+      "date": "2025-11-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:14Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-11-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Maria Elvira Salazar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maria Elvira Salazar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ted Lieu",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ted Lieu\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James C. Moylan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James C. Moylan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eleanor Holmes Norton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eleanor Holmes Norton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jefferson Van Drew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jefferson Van Drew\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julie Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Julie Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael R. Turner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael R. Turner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ami Bera",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ami Bera\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6126.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/6126",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "S000168",
+      "L000582",
+      "M001219",
+      "N000147",
+      "V000133",
+      "J000310",
+      "T000463"
+    ],
+    "sponsor_bioguides": [
+      "B001287"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:14Z"
+  }
+}

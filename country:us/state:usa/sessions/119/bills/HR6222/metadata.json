@@ -1,0 +1,102 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 6222",
+  "title": "To require all aircraft to be equipped with Automatic Dependent Surveillance-Broadcast In, to improve aviation safety, and for other purposes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr6222"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "date": "2025-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:14Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:14Z"
+      }
+    },
+    {
+      "description": "Sponsor introductory remarks on measure. (CR H4853)",
+      "date": "2025-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Donald S. Beyer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donald S. Beyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert F. Onder",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Robert F. Onder\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6222.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/6222",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "B001292"
+    ],
+    "sponsor_bioguides": [
+      "O000177"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:14Z"
+  }
+}

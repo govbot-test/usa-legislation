@@ -1,0 +1,128 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 6293",
+  "title": "To update the definition of manufactured home, and for other purposes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr6293"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Financial Services.",
+      "date": "2025-11-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:18Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-11-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:18Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mike Flood",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Flood\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emanuel Cleaver",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emanuel Cleaver\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott H. Peters",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott H. Peters\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Monica De La Cruz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Monica De La Cruz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Luis Correa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"J. Luis Correa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John W. Rose",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"John W. Rose\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6293.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/6293",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "F000474",
+      "C001061",
+      "P000608",
+      "D000594",
+      "C001110"
+    ],
+    "sponsor_bioguides": [
+      "R000612"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:18Z"
+  }
+}

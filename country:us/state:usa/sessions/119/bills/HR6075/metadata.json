@@ -1,0 +1,119 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 6075",
+  "title": "To amend the Federal Water Pollution Control Act to reauthorize the pilot program for alternative water source projects, and for other purposes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr6075"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Transportation and Infrastructure.",
+      "date": "2025-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:15Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kristen McDonald Rivet",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristen McDonald Rivet\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cleo Fields",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cleo Fields\"}",
+      "organization_id": null
+    },
+    {
+      "name": "April McClain Delaney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"April McClain Delaney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nellie Pou",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nellie Pou\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert P. Bresnahan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Robert P. Bresnahan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6075.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/6075",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "M001237",
+      "F000110",
+      "M001232",
+      "P000621"
+    ],
+    "sponsor_bioguides": [
+      "B001327"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:15Z"
+  }
+}

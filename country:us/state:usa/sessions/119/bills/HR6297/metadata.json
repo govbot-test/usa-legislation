@@ -1,0 +1,117 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 6297",
+  "title": "PEACE Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Protecting Europe from Antisemitic Crime and Extremism Act"
+    },
+    {
+      "note": "",
+      "title": "To require the Department of State to provide briefings on antisemitism in Europe."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr6297"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Foreign Affairs.",
+      "date": "2025-11-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:11Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-11-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:11Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Max L. Miller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Max L. Miller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Randy Fine",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Randy Fine\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6297ih/xml/BILLS-119hr6297ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6297ih/pdf/BILLS-119hr6297ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-25",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6297.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/6297",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "M001222"
+    ],
+    "sponsor_bioguides": [
+      "F000484"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:11Z"
+  }
+}

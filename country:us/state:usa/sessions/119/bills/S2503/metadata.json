@@ -1,0 +1,286 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 2503",
+  "title": "ROTOR Act",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to require all aircraft to be equipped with Automatic Dependent Surveillance-Broadcast In, to improve aviation safety, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Rotorcraft Operations Transparency and Oversight Reform Act"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-s2503"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 269.",
+      "date": "2025-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:10Z"
+      }
+    },
+    {
+      "description": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. Without written report.",
+      "date": "2025-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:10Z"
+      }
+    },
+    {
+      "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2025-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:10Z"
+      }
+    },
+    {
+      "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "date": "2025-07-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:10Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-07-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:10Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jerry Moran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jerry Moran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marsha Blackburn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marsha Blackburn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ted Budd",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ted Budd\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shelley Moore Capito",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shelley Moore Capito\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Roger Marshall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Roger Marshall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric S. Schmitt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eric S. Schmitt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Sheehy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Sheehy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Todd Young",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Todd Young\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maria Cantwell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maria Cantwell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tammy Duckworth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Timothy M. Kaine",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timothy M. Kaine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark R. Warner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark R. Warner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edward J. Markey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Edward J. Markey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Raphael Warnock",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Raphael Warnock\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richard Blumenthal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richard Blumenthal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ted Cruz",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ted Cruz\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2503rs/xml/BILLS-119s2503rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2503rs/pdf/BILLS-119s2503rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    },
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2503is/xml/BILLS-119s2503is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2503is/pdf/BILLS-119s2503is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-29",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2503.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/2503",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "M000934",
+      "B001243",
+      "B001305",
+      "C001047",
+      "M001198",
+      "S001227",
+      "S001232",
+      "Y000064",
+      "C000127",
+      "D000622",
+      "K000384",
+      "W000805",
+      "M000133",
+      "W000790",
+      "B001277"
+    ],
+    "sponsor_bioguides": [
+      "C001098"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:10Z"
+  }
+}

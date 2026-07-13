@@ -1,0 +1,82 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 6005",
+  "title": "To amend the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 to direct the Interagency Working Group on Toxic Exposure to conduct research on the diagnosis and treatment of health conditions of descendants of individuals exposed to toxic substances while serving as members of the Armed Forces, and for other purposes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr6005"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Veterans' Affairs.",
+      "date": "2025-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:15Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Debbie Dingell",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Debbie Dingell\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6005.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/6005",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [],
+    "sponsor_bioguides": [
+      "D000624"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:15Z"
+  }
+}

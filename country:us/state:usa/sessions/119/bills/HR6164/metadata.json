@@ -1,0 +1,155 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 6164",
+  "title": "To designate the facility of the United States Postal Service located at 28201 Franklin Parkway in Santa Clarita, California, as the \"Deputy Ryan Clinkunbroomer Post Office Building\".",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr6164"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Oversight and Government Reform.",
+      "date": "2025-11-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:11Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-11-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:11Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Doris O. Matsui",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Doris O. Matsui\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zoe Lofgren",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zoe Lofgren\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jimmy Panetta",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jimmy Panetta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jim Costa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jim Costa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julia Brownley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Julia Brownley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ted Lieu",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ted Lieu\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert Garcia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Garcia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott H. Peters",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott H. Peters\"}",
+      "organization_id": null
+    },
+    {
+      "name": "George Whitesides",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"George Whitesides\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6164.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/6164",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "M001163",
+      "L000397",
+      "P000613",
+      "C001059",
+      "B001285",
+      "L000582",
+      "G000598",
+      "P000608"
+    ],
+    "sponsor_bioguides": [
+      "W000830"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:11Z"
+  }
+}

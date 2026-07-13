@@ -1,0 +1,329 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 5973",
+  "title": "Stop Excessive Force in Immigration Act of 2025",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To establish certain limitations on Federal immigration enforcement personnel."
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr5973"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on the Judiciary.",
+      "date": "2025-11-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:20Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-11-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Daniel S. Goldman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniel S. Goldman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Raja Krishnamoorthi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Raja Krishnamoorthi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nydia M. Vel\u00e1zquez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nydia M. Vel\\u00e1zquez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yvette D. Clarke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yvette D. Clarke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ro Khanna",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ro Khanna\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gilbert Ray Cisneros",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gilbert Ray Cisneros\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Judy Chu",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Judy Chu\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bradley Scott Schneider",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bradley Scott Schneider\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Juan Vargas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Juan Vargas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emily Randall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emily Randall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sylvia R. Garcia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sylvia R. Garcia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Quigley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Quigley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robin L. Kelly",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robin L. Kelly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Veronica Escobar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Veronica Escobar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jimmy Panetta",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jimmy Panetta\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Seth Moulton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Seth Moulton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Linda T. S\u00e1nchez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Linda T. S\\u00e1nchez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Doris O. Matsui",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Doris O. Matsui\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Thompson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Thompson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jerrold Nadler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jerrold Nadler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luz M. Rivas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Luz M. Rivas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shri Thanedar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shri Thanedar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julia Brownley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Julia Brownley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Darren Soto",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Darren Soto\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yassamin Ansari",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yassamin Ansari\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott H. Peters",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Scott H. Peters\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5973ih/xml/BILLS-119hr5973ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5973ih/pdf/BILLS-119hr5973ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-07",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5973.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/5973",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "G000599",
+      "K000391",
+      "V000081",
+      "C001067",
+      "K000389",
+      "C001123",
+      "C001080",
+      "S001190",
+      "V000130",
+      "R000621",
+      "G000587",
+      "Q000023",
+      "K000385",
+      "E000299",
+      "P000613",
+      "M001196",
+      "S001156",
+      "M001163",
+      "T000460",
+      "N000002",
+      "R000620",
+      "T000488",
+      "B001285",
+      "S001200",
+      "A000381"
+    ],
+    "sponsor_bioguides": [
+      "P000608"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:20Z"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 6196",
+  "title": "To authorize and encourage the United States to pursue a model of locally-led development and humanitarian response and expand engagement with local actors and increase its local partner base.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr6196"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Foreign Affairs.",
+      "date": "2025-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:14Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:14Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Young Kim",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Young Kim\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sara Jacobs",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sara Jacobs\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6196.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/6196",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "K000397"
+    ],
+    "sponsor_bioguides": [
+      "J000305"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:14Z"
+  }
+}

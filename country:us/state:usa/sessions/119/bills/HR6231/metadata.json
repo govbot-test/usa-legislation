@@ -1,0 +1,164 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 6231",
+  "title": "To amend the Internal Revenue Code of 1986 to improve and enhance the work opportunity tax credit, to encourage longer-service employment, and to modernize the credit to make it more effective as a hiring incentive for targeted workers, and for other purposes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr6231"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Ways and Means.",
+      "date": "2025-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:15Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Steven Horsford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven Horsford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Kelly",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Kelly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donald S. Beyer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donald S. Beyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Kustoff",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Kustoff\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blake D. Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blake D. Moore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Max L. Miller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Max L. Miller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Suzan K. DelBene",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Suzan K. DelBene\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel Webster",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniel Webster\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas R. Suozzi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas R. Suozzi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lloyd Smucker",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Lloyd Smucker\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6231.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/6231",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "H001066",
+      "K000376",
+      "B001292",
+      "K000392",
+      "M001213",
+      "M001222",
+      "D000617",
+      "W000806",
+      "S001201"
+    ],
+    "sponsor_bioguides": [
+      "S001199"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:15Z"
+  }
+}

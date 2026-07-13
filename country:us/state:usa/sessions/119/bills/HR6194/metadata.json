@@ -1,0 +1,137 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 6194",
+  "title": "To limit the availability of civil actions affected by United States sanctions.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr6194"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on the Judiciary.",
+      "date": "2025-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:20Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:20Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Scott Fitzgerald",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott Fitzgerald\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brandon Gill",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brandon Gill\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laurel M. Lee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Laurel M. Lee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jerrold Nadler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jerrold Nadler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ted Lieu",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ted Lieu\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sydney Kamlager-Dove",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sydney Kamlager-Dove\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wesley Hunt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Wesley Hunt\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6194.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/6194",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "F000471",
+      "G000603",
+      "L000597",
+      "N000002",
+      "L000582",
+      "K000400"
+    ],
+    "sponsor_bioguides": [
+      "H001095"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:20Z"
+  }
+}

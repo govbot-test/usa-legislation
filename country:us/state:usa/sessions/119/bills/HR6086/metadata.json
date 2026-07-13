@@ -1,0 +1,128 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 6086",
+  "title": "To provide for funding from the Aviation Insurance Revolving Fund to continue certain Federal Aviation Administration activities in the event of a Government shutdown, and for other purposes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr6086"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Transportation and Infrastructure.",
+      "date": "2025-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:11Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:11Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rick Larsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rick Larsen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Troy E. Nehls",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Troy E. Nehls\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andr\u00e9 Carson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andr\\u00e9 Carson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer A. Kiggans",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer A. Kiggans\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura Gillen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Laura Gillen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sam Graves",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Sam Graves\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6086.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/6086",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "L000560",
+      "N000026",
+      "C001072",
+      "K000399",
+      "G000602"
+    ],
+    "sponsor_bioguides": [
+      "G000546"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:11Z"
+  }
+}

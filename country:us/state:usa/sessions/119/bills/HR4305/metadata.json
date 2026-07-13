@@ -1,0 +1,206 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 4305",
+  "title": "DUMP Red Tape Act",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To direct the Chief Counsel for Advocacy of the Small Business Administration to establish a Red Tape Hotline to receive notifications of burdensome agency rules, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Destroying Unnecessary, Misaligned, and Prohibitive Red Tape Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "Destroying Unnecessary, Misaligned, and Prohibitive Red Tape Act"
+    }
+  ],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr4305"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 333.",
+      "date": "2025-11-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:15Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Small Business. H. Rept. 119-383.",
+      "date": "2025-11-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:15Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 9.",
+      "date": "2025-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:15Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2025-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:15Z"
+      }
+    },
+    {
+      "description": "Referred to the House Committee on Small Business.",
+      "date": "2025-07-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:15Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-07-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Beth Van Duyne",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Beth Van Duyne\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Derek Schmidt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Derek Schmidt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jimmy Patronis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jimmy Patronis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tony Wied",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tony Wied\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4305rh/xml/BILLS-119hr4305rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4305rh/pdf/BILLS-119hr4305rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-21",
+      "classification": ""
+    },
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4305ih/xml/BILLS-119hr4305ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4305ih/pdf/BILLS-119hr4305ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-07-10",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "H. Rept. 119-383",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt383/CRPT-119hrpt383.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4305.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/4305",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "V000134",
+      "S001228",
+      "P000622"
+    ],
+    "sponsor_bioguides": [
+      "W000829"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:15Z"
+  }
+}

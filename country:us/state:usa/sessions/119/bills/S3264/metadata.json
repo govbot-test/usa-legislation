@@ -1,0 +1,80 @@
+{
+  "legislative_session": "119",
+  "identifier": "S 3264",
+  "title": "A bill to establish a health freedom waiver program, to promote better price reporting and outcomes, and for other purposes.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-s3264"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read twice and referred to the Committee on Finance.",
+      "date": "2025-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:15Z"
+      }
+    },
+    {
+      "description": "Introduced in Senate",
+      "date": "2025-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:15Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Rick Scott",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Rick Scott\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s3264.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/senate-bill/3264",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [],
+    "sponsor_bioguides": [
+      "S001217"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:15Z"
+  }
+}

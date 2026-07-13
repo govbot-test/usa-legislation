@@ -1,0 +1,155 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 6247",
+  "title": "To designate the facility of the United States Postal Service located at 13355 North Lon Adams Road in Marana, Arizona, as the \"Mayor Ed Honea Memorial Post Office\".",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr6247"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Oversight and Government Reform.",
+      "date": "2025-11-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:10Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-11-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:10Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Greg Stanton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Greg Stanton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yassamin Ansari",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yassamin Ansari\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andy Biggs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andy Biggs\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elijah Crane",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elijah Crane\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul A. Gosar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paul A. Gosar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adelita S. Grijalva",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adelita S. Grijalva\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Abraham J. Hamadeh",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Abraham J. Hamadeh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Schweikert",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Schweikert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Juan Ciscomani",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Juan Ciscomani\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6247.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/6247",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "S001211",
+      "A000381",
+      "B001302",
+      "C001132",
+      "G000565",
+      "G000606",
+      "H001098",
+      "S001183"
+    ],
+    "sponsor_bioguides": [
+      "C001133"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:10Z"
+  }
+}

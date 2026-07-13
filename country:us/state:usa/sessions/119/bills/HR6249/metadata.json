@@ -1,0 +1,173 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 6249",
+  "title": "To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to authorize the President to provide substance use and alcohol use disorder services, and for other purposes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr6249"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Transportation and Infrastructure.",
+      "date": "2025-11-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:16Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-11-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:16Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jill N. Tokuda",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jill N. Tokuda\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eleanor Holmes Norton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eleanor Holmes Norton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cleo Fields",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cleo Fields\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Seth Moulton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Seth Moulton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andr\u00e9 Carson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andr\\u00e9 Carson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Darren Soto",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Darren Soto\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jim Costa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jim Costa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shri Thanedar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shri Thanedar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nikki Budzinski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nikki Budzinski\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sharice Davids",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sharice Davids\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Becca Balint",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Becca Balint\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6249.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/6249",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "T000487",
+      "N000147",
+      "F000110",
+      "M001196",
+      "C001072",
+      "S001200",
+      "C001059",
+      "T000488",
+      "B001315",
+      "D000629"
+    ],
+    "sponsor_bioguides": [
+      "B001318"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:16Z"
+  }
+}

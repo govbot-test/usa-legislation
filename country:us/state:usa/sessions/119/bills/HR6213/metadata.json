@@ -1,0 +1,308 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 6213",
+  "title": "To prohibit the Secretary of Labor from finalizing, implementing, or enforcing a proposed standard with respect to heat injury and illness prevention.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr6213"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Education and Workforce.",
+      "date": "2025-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:17Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:17Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Glenn Grothman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Glenn Grothman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harriet M. Hageman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harriet M. Hageman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel Webster",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniel Webster\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Baumgartner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Baumgartner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert J. Wittman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert J. Wittman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mary E. Miller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mary E. Miller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brad Finstad",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brad Finstad\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul A. Gosar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paul A. Gosar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andy Harris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andy Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Virginia Foxx",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Virginia Foxx\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ben Cline",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ben Cline\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert F. Onder",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert F. Onder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chip Roy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chip Roy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John J. McGuire",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John J. McGuire\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sheri Biggs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sheri Biggs\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julie Fedorchak",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Julie Fedorchak\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adrian Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adrian Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Rouzer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Rouzer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pat Harrigan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pat Harrigan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Jack",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Jack\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe Wilson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe Wilson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer A. Kiggans",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer A. Kiggans\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lance Gooden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lance Gooden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Haridopolos",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Haridopolos\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bruce Westerman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bruce Westerman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark B. Messmer",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mark B. Messmer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6213.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/6213",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "G000576",
+      "H001096",
+      "W000806",
+      "B001322",
+      "W000804",
+      "M001211",
+      "F000475",
+      "G000565",
+      "H001052",
+      "F000450",
+      "C001118",
+      "O000177",
+      "R000614",
+      "M001239",
+      "B001325",
+      "F000482",
+      "S001172",
+      "R000603",
+      "H001101",
+      "J000311",
+      "W000795",
+      "K000399",
+      "G000589",
+      "H001099",
+      "W000821"
+    ],
+    "sponsor_bioguides": [
+      "M001233"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:17Z"
+  }
+}

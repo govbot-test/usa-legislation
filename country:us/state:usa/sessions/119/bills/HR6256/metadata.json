@@ -1,0 +1,110 @@
+{
+  "legislative_session": "119",
+  "identifier": "HR 6256",
+  "title": "To amend the Homeowner Flood Insurance Affordability Act of 2014 to address ecosystem restoration projects, and for other purposes.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-us-119-hr6256"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to the House Committee on Financial Services.",
+      "date": "2025-11-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:10Z"
+      }
+    },
+    {
+      "description": "Introduced in House",
+      "date": "2025-11-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T05:35:10Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Janelle S. Bynum",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Janelle S. Bynum\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan Steil",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bryan Steil\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marie Gluesenkamp Perez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marie Gluesenkamp Perez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Troy Downing",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Troy Downing\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6256.xml",
+      "note": ""
+    },
+    {
+      "url": "https://congress.gov/bill/119th-congress/house-bill/6256",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "cosponsor_bioguides": [
+      "B001326",
+      "S001213",
+      "G000600"
+    ],
+    "sponsor_bioguides": [
+      "D000634"
+    ]
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T05:35:10Z"
+  }
+}
