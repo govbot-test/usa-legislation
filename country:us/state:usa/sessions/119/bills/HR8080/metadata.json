@@ -506,6 +506,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:55Z"
+    "logs_latest_update": "2026-07-14T13:14:55Z",
+    "text_extraction_latest_update": "2026-07-14T19:29:06.535141Z"
   }
 }
