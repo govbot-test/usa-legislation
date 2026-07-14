@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 422.",
+      "date": "2026-06-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-122.",
+      "date": "2026-06-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
       "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
       "date": "2025-10-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -63,6 +83,22 @@
       "organization_id": null
     },
     {
+      "name": "Jon Husted",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jon Husted\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Raphael Warnock",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Raphael Warnock\"}",
+      "organization_id": null
+    },
+    {
       "name": "Ted Budd",
       "classification": "primary",
       "entity_type": "person",
@@ -73,6 +109,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2666rs/xml/BILLS-119s2666rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2666rs/pdf/BILLS-119s2666rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-01",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -89,7 +140,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: S. 2666, Foreign Robocall Elimination Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62470",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S. Rept. 119-122",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/srpt122/CRPT-119srpt122.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -103,7 +177,9 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "W000800"
+      "W000800",
+      "H001104",
+      "W000790"
     ],
     "sponsor_bioguides": [
       "B001305"
@@ -116,7 +192,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:54Z",
     "text_extraction_latest_update": "2026-07-13T08:08:45.470568Z"
   }
 }

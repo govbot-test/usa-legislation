@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+      "date": "2025-11-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on House Administration, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-11-25T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -61,7 +71,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6308ih/xml/BILLS-119hr6308ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6308ih/pdf/BILLS-119hr6308ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-25",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -87,7 +113,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:44Z",
     "text_extraction_latest_update": "2026-07-14T09:47:37.993200Z"
   }
 }

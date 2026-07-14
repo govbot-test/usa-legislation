@@ -21,6 +21,80 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+      "date": "2025-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2025-12-01T22:28:26+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4940-4941)",
+      "date": "2025-12-01T22:28:24+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4940-4941)",
+      "date": "2025-12-01T22:28:24+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5346.",
+      "date": "2025-12-01T22:19:52+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules. (consideration: CR H4940-4942)",
+      "date": "2025-12-01T22:19:51+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.",
+      "date": "2025-12-01T22:19:23+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
       "description": "Placed on the Union Calendar, Calendar No. 272.",
       "date": "2025-09-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -106,6 +180,36 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5346rfs/xml/BILLS-119hr5346rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5346rfs/pdf/BILLS-119hr5346rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-02",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5346eh/xml/BILLS-119hr5346eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5346eh/pdf/BILLS-119hr5346eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-01",
+      "classification": ""
+    },
+    {
       "note": "Reported in House",
       "links": [
         {
@@ -186,7 +290,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:39Z",
     "text_extraction_latest_update": "2026-07-13T08:32:30.679066Z"
   }
 }

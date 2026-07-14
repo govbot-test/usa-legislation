@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee Hearings Held",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
       "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
       "date": "2025-04-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -147,7 +157,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:20Z",
+    "logs_latest_update": "2026-07-14T13:14:35Z",
     "text_extraction_latest_update": "2026-07-13T09:24:57.591228Z"
   }
 }

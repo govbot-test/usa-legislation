@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "S 1369",
-  "title": "Protecting Global Fisheries Act of 2025",
+  "title": "Protecting Global Fisheries Act of 2026",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -12,6 +12,10 @@
     {
       "note": "",
       "title": "A bill to support the execution of bilateral agreements concerning illicit transnational maritime activity and to authorize the President to impose sanctions with respect to illegal, unreported, or unregulated fishing and the sale, supply, purchase, or transfer of endangered species, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Protecting Global Fisheries Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -20,6 +24,36 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 322.",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-01-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
     {
       "description": "Read twice and referred to the Committee on Foreign Relations.",
       "date": "2025-04-09T04:00:00+00:00",
@@ -77,6 +111,14 @@
       "organization_id": null
     },
     {
+      "name": "David H. McCormick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David H. McCormick\"}",
+      "organization_id": null
+    },
+    {
       "name": "Timothy M. Kaine",
       "classification": "primary",
       "entity_type": "person",
@@ -87,6 +129,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1369rs/xml/BILLS-119s1369rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1369rs/pdf/BILLS-119s1369rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-10",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -103,7 +160,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: S. 1369, Protecting Global Fisheries Act of 2026",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62125",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -120,7 +189,8 @@
       "C001075",
       "H001046",
       "C001114",
-      "S001217"
+      "S001217",
+      "M001243"
     ],
     "sponsor_bioguides": [
       "K000384"
@@ -133,7 +203,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:39Z",
     "text_extraction_latest_update": "2026-07-13T11:16:33.834792Z"
   }
 }

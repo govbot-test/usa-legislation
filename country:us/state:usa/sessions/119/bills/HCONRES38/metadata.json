@@ -16,6 +16,106 @@
   ],
   "actions": [
     {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-03-05T21:38:01+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "On agreeing to the resolution Failed by the Yeas and Nays: 212 - 219 (Roll no. 85).",
+      "date": "2026-03-05T21:37:58+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Failed of passage/not agreed to in House On agreeing to the resolution Failed by the Yeas and Nays: 212 - 219 (Roll no. 85).",
+      "date": "2026-03-05T21:37:58+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H2449)",
+      "date": "2026-03-05T21:31:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.Con.Res. 38, the Chair put the question on agreeing to the resolution and by voice vote, announced the noes had prevailed. Mr. Meeks demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2026-03-04T22:41:09+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to a previous order of the House.",
+      "date": "2026-03-04T22:40:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "DEBATE - Pursuant to a previous order, the House proceeded with two hours of debate on H. Con. Res. 38.",
+      "date": "2026-03-04T20:06:59+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Considered pursuant to a previous order. (consideration: CR H2395-2412; text: CR H2395-2396)",
+      "date": "2026-03-04T20:06:54+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Consideration initiated pursuant to a previous order.",
+      "date": "2026-03-04T20:06:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Mr. Mast asked unanimous consent That, it be in order at any time to consider H. Con. Res. 38 in the House if called up by the chair of the Committee on Foreign Affairs or his designee; that the concurrent resolution be considered as read; and that the previous question be considered as ordered on the concurrent resolution to adoption without intervening motion except for two hours of debate equally divided and controlled by the chair and ranking minority member of the Committee on Foreign Affairs or their respective designees. Agreed to without objection.",
+      "date": "2026-03-03T19:03:04+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Foreign Affairs.",
       "date": "2025-06-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -650,6 +750,150 @@
       "organization_id": null
     },
     {
+      "name": "Mike Quigley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Quigley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maggie Goodlander",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maggie Goodlander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe Courtney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe Courtney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James R. Walkinshaw",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James R. Walkinshaw\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emanuel Cleaver",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emanuel Cleaver\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick Ryan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Patrick Ryan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adam Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adam Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donald Norcross",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donald Norcross\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer L. McClellan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer L. McClellan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jill N. Tokuda",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jill N. Tokuda\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lori Trahan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lori Trahan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Teresa Leger Fernandez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Teresa Leger Fernandez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Levin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Levin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jasmine Crockett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jasmine Crockett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zoe Lofgren",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zoe Lofgren\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Cohen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Cohen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Suhas Subramanyam",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Suhas Subramanyam\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nancy Pelosi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nancy Pelosi\"}",
+      "organization_id": null
+    },
+    {
       "name": "Thomas Massie",
       "classification": "primary",
       "entity_type": "person",
@@ -765,7 +1009,25 @@
       "G000559",
       "B001287",
       "M001241",
-      "P000608"
+      "P000608",
+      "Q000023",
+      "G000604",
+      "C001069",
+      "W000831",
+      "C001061",
+      "R000579",
+      "S000510",
+      "N000188",
+      "M001227",
+      "T000487",
+      "T000482",
+      "L000273",
+      "L000593",
+      "C001130",
+      "L000397",
+      "C001068",
+      "S001230",
+      "P000197"
     ],
     "sponsor_bioguides": [
       "M001184"
@@ -778,7 +1040,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:56Z",
     "text_extraction_latest_update": "2026-07-13T07:35:25.707469Z"
   }
 }

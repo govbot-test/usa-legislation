@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "ASSUMING FIRST SPONSORSHIP - Mr. Alford asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 4327, a bill originally introduced by Representative Greene (GA), for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection.",
+      "date": "2026-01-21T21:48:50+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Ways and Means.",
       "date": "2025-07-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -71,6 +81,38 @@
       "organization_id": null
     },
     {
+      "name": "Mark Alford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Alford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Harris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Harris\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Luis Correa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"J. Luis Correa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tracey Mann",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tracey Mann\"}",
+      "organization_id": null
+    },
+    {
       "name": "Marjorie Taylor Greene",
       "classification": "primary",
       "entity_type": "person",
@@ -79,7 +121,18 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 7034",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 7131",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in House",
@@ -113,7 +166,11 @@
     "cosponsor_bioguides": [
       "O000086",
       "T000490",
-      "H001098"
+      "H001098",
+      "A000379",
+      "H001102",
+      "C001110",
+      "M000871"
     ],
     "sponsor_bioguides": [
       "G000596"
@@ -126,7 +183,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:48Z",
     "text_extraction_latest_update": "2026-07-13T11:54:25.755089Z"
   }
 }

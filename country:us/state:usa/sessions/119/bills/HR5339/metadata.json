@@ -21,6 +21,36 @@
   ],
   "actions": [
     {
+      "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "date": "2026-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Subcommittee Consideration and Mark-up Session Held",
+      "date": "2026-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Subcommittee Hearings Held",
+      "date": "2026-02-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
       "description": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
       "date": "2025-10-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -115,6 +145,22 @@
       "organization_id": null
     },
     {
+      "name": "Eugene Simon Vindman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eugene Simon Vindman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Lawler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Lawler\"}",
+      "organization_id": null
+    },
+    {
       "name": "Suhas Subramanyam",
       "classification": "primary",
       "entity_type": "person",
@@ -160,7 +206,9 @@
       "S000185",
       "R000621",
       "W000831",
-      "N000191"
+      "N000191",
+      "V000138",
+      "L000599"
     ],
     "sponsor_bioguides": [
       "S001230"
@@ -173,7 +221,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:45Z",
     "text_extraction_latest_update": "2026-07-13T06:20:54.173090Z"
   }
 }

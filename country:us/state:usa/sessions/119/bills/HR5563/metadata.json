@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Developing Responsible Individuals for a Vibrant Economy Act"
+      "title": "To establish an apprenticeship program for commercial drivers under the age of 21, and for other purposes."
     },
     {
       "note": "",
-      "title": "To establish an apprenticeship program for commercial drivers under the age of 21, and for other purposes."
+      "title": "Developing Responsible Individuals for a Vibrant Economy Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Highways and Transit.",
+      "date": "2025-12-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Transportation and Infrastructure.",
       "date": "2025-09-26T04:00:00+00:00",
@@ -219,6 +229,70 @@
       "organization_id": null
     },
     {
+      "name": "Steve Womack",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Womack\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David J. Taylor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David J. Taylor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Harold Rogers",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Harold Rogers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William R. Timmons",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William R. Timmons\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Ezell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Ezell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Byron Donalds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Byron Donalds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tom Barrett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tom Barrett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian J. Mast",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian J. Mast\"}",
+      "organization_id": null
+    },
+    {
       "name": "Eric A. \"Rick\" Crawford",
       "classification": "primary",
       "entity_type": "person",
@@ -279,7 +353,15 @@
       "M001212",
       "F000471",
       "V000134",
-      "G000558"
+      "G000558",
+      "W000809",
+      "T000490",
+      "R000395",
+      "T000480",
+      "E000235",
+      "D000032",
+      "B001321",
+      "M001199"
     ],
     "sponsor_bioguides": [
       "C001087"
@@ -292,7 +374,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:17Z",
+    "logs_latest_update": "2026-07-14T13:14:41Z",
     "text_extraction_latest_update": "2026-07-13T07:44:10.915558Z"
   }
 }

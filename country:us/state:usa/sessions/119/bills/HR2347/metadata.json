@@ -21,6 +21,120 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate.",
+      "date": "2026-04-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-04-27T20:27:06+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3110)",
+      "date": "2026-04-27T20:27:03+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3110)",
+      "date": "2026-04-27T20:27:03+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2347.",
+      "date": "2026-04-27T20:15:48+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules. (consideration: CR H3110-3111)",
+      "date": "2026-04-27T20:15:47+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-04-27T20:15:21+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 519.",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-599.",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 41 - 0.",
+      "date": "2026-03-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-03-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Ways and Means.",
       "date": "2025-03-25T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -63,6 +177,14 @@
       "organization_id": null
     },
     {
+      "name": "Claudia Tenney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Claudia Tenney\"}",
+      "organization_id": null
+    },
+    {
       "name": "Lloyd Smucker",
       "classification": "primary",
       "entity_type": "person",
@@ -73,6 +195,36 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2347eh/xml/BILLS-119hr2347eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2347eh/pdf/BILLS-119hr2347eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-27",
+      "classification": ""
+    },
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2347rh/xml/BILLS-119hr2347rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2347rh/pdf/BILLS-119hr2347rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-09",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -89,7 +241,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 2347, Survivor Justice Tax Prevention Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62383",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-599",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt599/CRPT-119hrpt599.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -104,7 +279,8 @@
   "extras": {
     "cosponsor_bioguides": [
       "M001160",
-      "M001137"
+      "M001137",
+      "T000478"
     ],
     "sponsor_bioguides": [
       "S001199"
@@ -117,7 +293,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:16Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T06:11:24.040442Z"
   }
 }

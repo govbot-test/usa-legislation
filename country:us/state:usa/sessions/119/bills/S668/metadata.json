@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Supporting Access to Falls Education and Prevention and Strengthening Training Efforts and Promoting Safety Initiatives for Veterans Act of 2025"
+      "title": "A bill to amend title 38, United States Code, to establish the Office of Falls Prevention of the Department of Veterans Affairs, and for other purposes."
     },
     {
       "note": "",
-      "title": "A bill to amend title 38, United States Code, to establish the Office of Falls Prevention of the Department of Veterans Affairs, and for other purposes."
+      "title": "Supporting Access to Falls Education and Prevention and Strengthening Training Efforts and Promoting Safety Initiatives for Veterans Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Committee on Veterans' Affairs. Hearings held.",
+      "date": "2025-12-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
     {
       "description": "Read twice and referred to the Committee on Veterans' Affairs.",
       "date": "2025-02-20T05:00:00+00:00",
@@ -54,6 +64,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Mike Rounds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richard Blumenthal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richard Blumenthal\"}",
       "organization_id": null
     },
     {
@@ -103,7 +121,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "R000605"
+      "R000605",
+      "B001277"
     ],
     "sponsor_bioguides": [
       "K000383"
@@ -116,7 +135,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:17Z",
+    "logs_latest_update": "2026-07-14T13:14:32Z",
     "text_extraction_latest_update": "2026-07-13T09:08:48.388402Z"
   }
 }

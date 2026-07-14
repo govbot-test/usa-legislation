@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+      "date": "2025-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-11-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -66,6 +76,30 @@
       "organization_id": null
     },
     {
+      "name": "Eugene Simon Vindman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eugene Simon Vindman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maria Elvira Salazar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maria Elvira Salazar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe Neguse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe Neguse\"}",
+      "organization_id": null
+    },
+    {
       "name": "Darrell Issa",
       "classification": "primary",
       "entity_type": "person",
@@ -108,7 +142,10 @@
     "cosponsor_bioguides": [
       "M001215",
       "C001121",
-      "H001085"
+      "H001085",
+      "V000138",
+      "S000168",
+      "N000191"
     ],
     "sponsor_bioguides": [
       "I000056"
@@ -121,7 +158,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:53Z",
     "text_extraction_latest_update": "2026-07-13T07:30:52.445698Z"
   }
 }

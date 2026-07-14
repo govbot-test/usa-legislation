@@ -1,20 +1,103 @@
 {
   "legislative_session": "119",
   "identifier": "HR 1008",
-  "title": "To designate the facility of the United States Postal Service located at 298 Route 292 in Holmes, New York, as the \"Sheriff Adrian 'Butch' Anderson Post Office Building\".",
+  "title": "To designate the facility of the United States Postal Service located at 298 Route 292 in Holmes, New York, as the Sheriff Adrian Butch Anderson Post Office Building.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To designate the facility of the United States Postal Service located at 298 Route 292 in Holmes, New York, as the \"Sheriff Adrian 'Butch' Anderson Post Office Building\"."
+    },
+    {
+      "note": "",
+      "title": "To designate the facility of the United States Postal Service located at 298 Route 292 in Holmes, New York, as the \"Sheriff Adrian \"Butch\" Anderson Post Office Building\"."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr1008"
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "date": "2025-12-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2025-12-09T22:12:42+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5094)",
+      "date": "2025-12-09T22:12:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5094)",
+      "date": "2025-12-09T22:12:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1008.",
+      "date": "2025-12-09T22:07:50+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules. (consideration: CR H5094-5095)",
+      "date": "2025-12-09T22:07:49+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Mr. Gill (TX) moved to suspend the rules and pass the bill.",
+      "date": "2025-12-09T22:07:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
     {
       "description": "Ordered to be Reported by Voice Vote.",
       "date": "2025-05-21T04:00:00+00:00",
@@ -265,6 +348,36 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1008rfs/xml/BILLS-119hr1008rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1008rfs/pdf/BILLS-119hr1008rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-10",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1008eh/xml/BILLS-119hr1008eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1008eh/pdf/BILLS-119hr1008eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-09",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -342,7 +455,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:32Z",
     "text_extraction_latest_update": "2026-07-13T12:16:13.852288Z"
   }
 }

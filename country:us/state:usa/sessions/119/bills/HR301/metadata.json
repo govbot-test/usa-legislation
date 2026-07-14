@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Geothermal Energy Opportunity Act"
+      "title": "To amend the Geothermal Steam Act of 1970 to establish a deadline for processing applications related to geothermal leasing."
     },
     {
       "note": "",
-      "title": "To amend the Geothermal Steam Act of 1970 to establish a deadline for processing applications related to geothermal leasing."
+      "title": "Geothermal Energy Opportunity Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,76 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 568.",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Reported by the Committee on Natural Resources. H. Rept. 119-654.",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported by Unanimous Consent.",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Subcommittee on Energy and Mineral Resources Discharged",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Subcommittee Hearings Held",
+      "date": "2025-12-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Energy and Mineral Resources.",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Natural Resources.",
       "date": "2025-01-09T05:00:00+00:00",
@@ -99,6 +169,14 @@
       "organization_id": null
     },
     {
+      "name": "Sarah Elfreth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarah Elfreth\"}",
+      "organization_id": null
+    },
+    {
       "name": "Celeste Maloy",
       "classification": "primary",
       "entity_type": "person",
@@ -109,6 +187,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr301rh/xml/BILLS-119hr301rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr301rh/pdf/BILLS-119hr301rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-20",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -125,7 +218,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "H. Rept. 119-654",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt654/CRPT-119hrpt654.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -144,7 +249,8 @@
       "H001090",
       "S001212",
       "M001240",
-      "F000469"
+      "F000469",
+      "E000301"
     ],
     "sponsor_bioguides": [
       "M001228"
@@ -157,7 +263,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:17Z",
+    "logs_latest_update": "2026-07-14T13:14:46Z",
     "text_extraction_latest_update": "2026-07-13T13:06:25.174452Z"
   }
 }

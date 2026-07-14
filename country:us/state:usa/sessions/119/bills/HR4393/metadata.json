@@ -11,15 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "American Prosperity and Competitiveness Act"
-    },
-    {
-      "note": "",
-      "title": "To secure the border and reform the immigration laws."
-    },
-    {
-      "note": "",
-      "title": "Dignity for Immigrants while Guarding our Nation to Ignite and Deliver the American Dream Act of 2025"
+      "title": "Legal Workforce Act"
     },
     {
       "note": "",
@@ -27,7 +19,15 @@
     },
     {
       "note": "",
-      "title": "Legal Workforce Act"
+      "title": "Dignity for Immigrants while Guarding our Nation to Ignite and Deliver the American Dream Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "American Prosperity and Competitiveness Act"
+    },
+    {
+      "note": "",
+      "title": "To secure the border and reform the immigration laws."
     }
   ],
   "other_identifiers": [
@@ -36,6 +36,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Border Security and Enforcement.",
+      "date": "2025-07-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
     {
       "description": "Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, Ways and Means, Transportation and Infrastructure, Education and Workforce, Oversight and Government Reform, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-07-15T04:00:00+00:00",
@@ -279,6 +289,102 @@
       "organization_id": null
     },
     {
+      "name": "James C. Moylan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James C. Moylan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emilia Strong Sykes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emilia Strong Sykes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Monica De La Cruz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Monica De La Cruz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jim Costa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jim Costa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nick LaLota",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nick LaLota\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Henry Cuellar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Henry Cuellar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Neal P. Dunn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Neal P. Dunn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chrissy Houlahan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chrissy Houlahan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer A. Kiggans",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer A. Kiggans\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yassamin Ansari",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yassamin Ansari\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zachary Nunn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zachary Nunn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Betty McCollum",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Betty McCollum\"}",
+      "organization_id": null
+    },
+    {
       "name": "Maria Elvira Salazar",
       "classification": "primary",
       "entity_type": "person",
@@ -287,7 +393,33 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 5297",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 251",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 2366",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 2886",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 5528",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in House",
@@ -345,7 +477,19 @@
       "S001199",
       "R000579",
       "K000404",
-      "T000468"
+      "T000468",
+      "M001219",
+      "S001223",
+      "D000594",
+      "C001059",
+      "L000598",
+      "C001063",
+      "D000628",
+      "H001085",
+      "K000399",
+      "A000381",
+      "N000193",
+      "M001143"
     ],
     "sponsor_bioguides": [
       "S000168"
@@ -358,7 +502,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:41Z",
     "text_extraction_latest_update": "2026-07-13T06:26:54.294956Z"
   }
 }

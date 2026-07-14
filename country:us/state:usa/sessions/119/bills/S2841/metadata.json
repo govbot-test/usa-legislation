@@ -25,6 +25,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Health, Education, Labor, and Pensions. Hearings held.",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "date": "2025-09-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -146,7 +156,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:43Z",
     "text_extraction_latest_update": "2026-07-13T12:28:45.885671Z"
   }
 }

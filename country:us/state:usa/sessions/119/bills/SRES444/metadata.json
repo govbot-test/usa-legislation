@@ -16,13 +16,45 @@
   ],
   "actions": [
     {
-      "description": "Referred to the Committee on Foreign Relations.",
+      "description": "Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S2813)",
+      "date": "2026-06-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.",
+      "date": "2026-06-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Foreign Relations discharged by Unanimous Consent.",
+      "date": "2026-06-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Referred to the Committee on Foreign Relations. (text: CR S7095-7096)",
       "date": "2025-10-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:18Z"
+        "log_file_created": "2026-07-14T13:14:38Z"
       }
     },
     {
@@ -50,6 +82,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Agreed to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres444ats/xml/BILLS-119sres444ats.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sres444ats/pdf/BILLS-119sres444ats.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-16",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -91,7 +138,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:42Z",
     "text_extraction_latest_update": "2026-07-13T12:23:22.202841Z"
   }
 }

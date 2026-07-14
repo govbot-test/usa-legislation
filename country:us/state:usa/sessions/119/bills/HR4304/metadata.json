@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Motion to Discharge Committee filed by Ms. Titus. Petition No: 119-16. (<a href=\"https://clerk.house.gov/DischargePetition/2026021216\">Discharge petition</a> text with signatures.)",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Ways and Means.",
       "date": "2025-07-07T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -207,6 +217,46 @@
       "organization_id": null
     },
     {
+      "name": "Mike Ezell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Ezell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andy Barr",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andy Barr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tom Cole",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tom Cole\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jack Bergman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jack Bergman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Raul Ruiz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Raul Ruiz\"}",
+      "organization_id": null
+    },
+    {
       "name": "Dina Titus",
       "classification": "primary",
       "entity_type": "person",
@@ -266,7 +316,12 @@
       "G000605",
       "V000129",
       "M001220",
-      "L000598"
+      "L000598",
+      "E000235",
+      "B001282",
+      "C001053",
+      "B001301",
+      "R000599"
     ],
     "sponsor_bioguides": [
       "T000468"
@@ -279,7 +334,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:47Z",
     "text_extraction_latest_update": "2026-07-13T08:23:20.801632Z"
   }
 }

@@ -21,6 +21,80 @@
   ],
   "actions": [
     {
+      "description": "Held at the desk.",
+      "date": "2026-05-04T14:33:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:52Z"
+      }
+    },
+    {
+      "description": "Received in the House.",
+      "date": "2026-05-04T14:32:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:52Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-05-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:52Z"
+      }
+    },
+    {
+      "description": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2100-2102; text: CR S2100-2101)",
+      "date": "2026-04-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:52Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "date": "2026-04-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:52Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 289.",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:52Z"
+      }
+    },
+    {
+      "description": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul with an amendment in the nature of a substitute. Without written report.",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:52Z"
+      }
+    },
+    {
       "description": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
       "date": "2025-07-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -71,8 +145,49 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 4631",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 5578",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Engrossed in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s874es/xml/BILLS-119s874es.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s874es/pdf/BILLS-119s874es.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-29",
+      "classification": ""
+    },
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s874rs/xml/BILLS-119s874rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s874rs/pdf/BILLS-119s874rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-09",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -128,7 +243,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:52Z",
     "text_extraction_latest_update": "2026-07-13T09:23:03.215261Z"
   }
 }

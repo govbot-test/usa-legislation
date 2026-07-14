@@ -21,6 +21,66 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported in the Nature of a Substitute by Voice Vote.",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:41Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:41Z"
+      }
+    },
+    {
+      "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:41Z"
+      }
+    },
+    {
+      "description": "Subcommittee Consideration and Mark-up Session Held",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:41Z"
+      }
+    },
+    {
+      "description": "Subcommittee Hearings Held",
+      "date": "2026-01-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:41Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Economic Opportunity.",
+      "date": "2026-01-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:41Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-05-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -183,6 +243,14 @@
       "organization_id": null
     },
     {
+      "name": "Andrea Salinas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andrea Salinas\"}",
+      "organization_id": null
+    },
+    {
       "name": "April McClain Delaney",
       "classification": "primary",
       "entity_type": "person",
@@ -215,7 +283,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 3159, Improving SCRA Benefit Utilization Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62451",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -245,7 +325,8 @@
       "S001216",
       "H001098",
       "B001324",
-      "H001066"
+      "H001066",
+      "S001226"
     ],
     "sponsor_bioguides": [
       "M001232"
@@ -258,7 +339,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:52Z",
     "text_extraction_latest_update": "2026-07-13T07:26:49.756825Z"
   }
 }

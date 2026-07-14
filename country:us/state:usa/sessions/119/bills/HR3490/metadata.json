@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Esophageal Cancer Awareness Act"
+      "title": "To require the Government Accountability Office to produce a report on esophageal cancer, and for other purposes."
     },
     {
       "note": "",
-      "title": "To require the Government Accountability Office to produce a report on esophageal cancer, and for other purposes."
+      "title": "Esophageal Cancer Awareness Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,84 @@
     }
   ],
   "actions": [
+    {
+      "description": "Became Public Law No: 119-96.",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Presented to President.",
+      "date": "2026-05-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S2397-2398)",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
     {
       "description": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
       "date": "2025-06-04T04:00:00+00:00",
@@ -161,8 +239,37 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 1928",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3490enr/uslm/BILLS-119hr3490enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3490enr/uslm/BILLS-119hr3490enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3490enr/xml/BILLS-119hr3490enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3490enr/pdf/BILLS-119hr3490enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Referred in Senate",
       "links": [
@@ -207,6 +314,21 @@
       ],
       "date": "2025-05-19",
       "classification": ""
+    },
+    {
+      "note": "Public Law",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ96/uslm/PLAW-119publ96.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ96/uslm/PLAW-119publ96.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-10",
+      "classification": ""
     }
   ],
   "documents": [
@@ -222,7 +344,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-96",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ96/PLAW-119publ96.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr3490.xml",
@@ -248,7 +379,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:48Z",
     "text_extraction_latest_update": "2026-07-13T09:39:35.575444Z"
   }
 }

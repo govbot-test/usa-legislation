@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+      "date": "2025-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Agriculture.",
       "date": "2025-09-18T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -55,6 +65,22 @@
       "organization_id": null
     },
     {
+      "name": "Mike Flood",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Flood\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donald G. Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donald G. Davis\"}",
+      "organization_id": null
+    },
+    {
       "name": "Trent Kelly",
       "classification": "primary",
       "entity_type": "person",
@@ -63,7 +89,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 4730",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in House",
@@ -95,7 +127,9 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "C001112"
+      "C001112",
+      "F000474",
+      "D000230"
     ],
     "sponsor_bioguides": [
       "K000388"
@@ -108,7 +142,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T09:44:32.241006Z"
   }
 }

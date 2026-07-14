@@ -25,6 +25,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2025-07-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -81,7 +91,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 4604",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in Senate",
@@ -128,7 +144,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:15Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T09:17:03.773001Z"
   }
 }

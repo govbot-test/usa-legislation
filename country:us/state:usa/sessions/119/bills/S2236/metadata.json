@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "S 2236",
-  "title": "YALI Act of 2025",
+  "title": "YALI Act of 2026",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -11,11 +11,19 @@
   "other_titles": [
     {
       "note": "",
+      "title": "Young African Leaders Initiative Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "YALI Act of 2025"
+    },
+    {
+      "note": "",
       "title": "A bill to establish a comprehensive United States Government initiative to build the capacity of young leaders and entrepreneurs in Africa, and for other purposes."
     },
     {
       "note": "",
-      "title": "Young African Leaders Initiative Act of 2025"
+      "title": "Young African Leaders Initiative Act of 2026"
     }
   ],
   "other_identifiers": [
@@ -24,6 +32,36 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 324.",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
+    {
+      "description": "Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
+    {
+      "description": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-01-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
     {
       "description": "Read twice and referred to the Committee on Foreign Relations.",
       "date": "2025-07-10T04:00:00+00:00",
@@ -74,6 +112,21 @@
   ],
   "versions": [
     {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2236rs/xml/BILLS-119s2236rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2236rs/pdf/BILLS-119s2236rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-10",
+      "classification": ""
+    },
+    {
       "note": "Introduced in Senate",
       "links": [
         {
@@ -89,7 +142,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: S. 2236, Young African Leaders Initiative Act of 2026",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62448",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -116,7 +181,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:50Z",
     "text_extraction_latest_update": "2026-07-13T10:10:08.509819Z"
   }
 }

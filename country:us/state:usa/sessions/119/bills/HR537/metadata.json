@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To amend the Internal Revenue Code of 1986 to provide tax credits for the conversion of commercial buildings to residential units, to provide support and technical assistance to State and local housing agencies to identify and advance housing conversion opportunities for underutilized commercial buildings, and for other purposes."
+      "title": "Incentivizing New Conversions to Residential Entities to Accelerate Supply and Expand Housing Affordability Act"
     },
     {
       "note": "",
-      "title": "Incentivizing New Conversions to Residential Entities to Accelerate Supply and Expand Housing Affordability Act"
+      "title": "To amend the Internal Revenue Code of 1986 to provide tax credits for the conversion of commercial buildings to residential units, to provide support and technical assistance to State and local housing agencies to identify and advance housing conversion opportunities for underutilized commercial buildings, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "ASSUMING FIRST SPONSORHSIP - Mr. Magaziner asked unanimous consent that he may be hereafter be considered as the first sponsor of H.R. 537, a bill originally introduced by Representative Sherrill, for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection.",
+      "date": "2026-03-05T21:52:23+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
     {
       "description": "Referred to the Committee on Ways and Means, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-01-16T05:00:00+00:00",
@@ -64,6 +74,30 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Seth Magaziner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eleanor Holmes Norton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eleanor Holmes Norton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Harder",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Harder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eugene Simon Vindman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eugene Simon Vindman\"}",
       "organization_id": null
     },
     {
@@ -108,7 +142,10 @@
   "extras": {
     "cosponsor_bioguides": [
       "G000598",
-      "M001223"
+      "M001223",
+      "N000147",
+      "H001090",
+      "V000138"
     ],
     "sponsor_bioguides": [
       "S001207"
@@ -121,7 +158,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:36Z",
     "text_extraction_latest_update": "2026-07-13T10:01:44.893679Z"
   }
 }

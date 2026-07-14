@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 42 - 5.",
+      "date": "2026-01-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-01-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Foreign Affairs.",
       "date": "2025-07-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -52,6 +72,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Maria Elvira Salazar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brad Sherman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brad Sherman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Lawler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Lawler\"}",
       "organization_id": null
     },
     {
@@ -92,7 +128,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 4368, Caribbean Basin Security Initiative Authorization Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62038",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -106,7 +154,9 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "S000168"
+      "S000168",
+      "S000344",
+      "L000599"
     ],
     "sponsor_bioguides": [
       "E000297"
@@ -119,7 +169,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:54Z",
     "text_extraction_latest_update": "2026-07-13T13:16:47.160321Z"
   }
 }

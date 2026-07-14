@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 1071",
-  "title": "No Censors on our Shores Act",
+  "title": "No Censors on our Shores Act of 2025",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -9,6 +9,10 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [
+    {
+      "note": "",
+      "title": "No Censors on our Shores Act"
+    },
     {
       "note": "",
       "title": "To provide that any foreign government official who engages in censorship of American speech is inadmissible and deportable."
@@ -20,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 523.",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:41Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Judiciary. H. Rept. 119-603.",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:41Z"
+      }
+    },
     {
       "description": "Ordered to be Reported (Amended) by Voice Vote.",
       "date": "2025-02-26T05:00:00+00:00",
@@ -118,6 +142,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1071rh/xml/BILLS-119hr1071rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1071rh/pdf/BILLS-119hr1071rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-09",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -140,6 +179,17 @@
         {
           "url": "https://www.cbo.gov/publication/61432",
           "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-603",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt603/CRPT-119hrpt603.pdf",
+          "media_type": "application/pdf"
         }
       ],
       "date": "",
@@ -176,7 +226,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:54Z",
     "text_extraction_latest_update": "2026-07-13T07:30:36.977247Z"
   }
 }

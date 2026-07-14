@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2025-11-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-11-07T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -60,6 +70,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Adrian Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eugene Simon Vindman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eugene Simon Vindman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer A. Kiggans",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer A. Kiggans\"}",
       "organization_id": null
     },
     {
@@ -104,7 +130,9 @@
   "extras": {
     "cosponsor_bioguides": [
       "S001224",
-      "S001172"
+      "S001172",
+      "V000138",
+      "K000399"
     ],
     "sponsor_bioguides": [
       "F000474"
@@ -117,7 +145,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:17Z",
+    "logs_latest_update": "2026-07-14T13:14:55Z",
     "text_extraction_latest_update": "2026-07-13T12:29:26.707781Z"
   }
 }

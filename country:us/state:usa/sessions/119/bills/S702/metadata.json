@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 287.",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Committee on Veterans' Affairs. Reported by Senator Moran without amendment. Without written report.",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
       "description": "Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.",
       "date": "2025-07-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -31,13 +51,13 @@
       }
     },
     {
-      "description": "Committee on Veterans' Affairs. Hearings held.",
+      "description": "Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 119-35.",
       "date": "2025-03-11T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:11Z"
+        "log_file_created": "2026-07-14T13:14:29Z"
       }
     },
     {
@@ -139,12 +159,37 @@
   ],
   "related_bills": [
     {
+      "identifier": "HR 9237",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 4744",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "HR 2426",
       "legislative_session": "119",
       "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s702rs/xml/BILLS-119s702rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s702rs/pdf/BILLS-119s702rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-09",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -207,7 +252,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T05:57:35.877078Z"
   }
 }

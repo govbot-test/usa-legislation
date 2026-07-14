@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 2189",
-  "title": "Law-Enforcement Innovate to De-Escalate Act of 2025",
+  "title": "To modernize Federal firearms laws to account for advancements in technology and less-than-lethal weapons, and for other purposes.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -11,7 +11,15 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To modernize Federal firearms laws to account for advancements in technology and less-than-lethal weapons, and for other purposes."
+      "title": "Law-Enforcement Innovate to De-Escalate Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "Law-Enforcement Innovate to De-Escalate Act"
+    },
+    {
+      "note": "",
+      "title": "Innovate Less Lethal to De-Escalate Tax Modernization Act"
     }
   ],
   "other_identifiers": [
@@ -20,6 +28,128 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate.",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-02-12T15:46:38+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 233 - 185 (Roll no. 70). (text of amendment in the nature of a substitute: CR H2190-2191)",
+      "date": "2026-02-12T15:46:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 233 - 185 (Roll no. 70). (text of amendment in the nature of a substitute: CR H2190-2191)",
+      "date": "2026-02-12T15:46:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2026-02-12T15:19:30+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 2189.",
+      "date": "2026-02-12T14:14:42+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of S. 1383, H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of S. 1383, H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one motion to recommit H.R. 2189, H.R. 261, and H.R. 3617, and one motion to commit S. 1383.",
+      "date": "2026-02-12T14:13:37+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 1057. (consideration: CR H2190-2204)",
+      "date": "2026-02-12T14:13:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 1057 Reported to House. Rule provides for consideration of S. 1383, H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of S. 1383, H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one motion to recommit H.R. 2189, H.R. 261, and H.R. 3617, and one motion to commit S. 1383.",
+      "date": "2026-02-11T15:46:51+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 1042 Reported to House. Rule provides for consideration of H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one hour of debate and one motion to recommit on each bill.",
+      "date": "2026-02-10T01:50:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 403.",
+      "date": "2026-01-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Judiciary. H. Rept. 119-472.",
+      "date": "2026-01-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
     {
       "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 8.",
       "date": "2025-11-20T05:00:00+00:00",
@@ -795,6 +925,38 @@
       "organization_id": null
     },
     {
+      "name": "Adam Gray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adam Gray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Derrick Van Orden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Derrick Van Orden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yvette D. Clarke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yvette D. Clarke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Moore\"}",
+      "organization_id": null
+    },
+    {
       "name": "Scott Fitzgerald",
       "classification": "primary",
       "entity_type": "person",
@@ -808,9 +970,54 @@
       "identifier": "S 1283",
       "legislative_session": "119",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "HRES 1042",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HRES 1057",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 4242",
+      "legislative_session": "119",
+      "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2189eh/xml/BILLS-119hr2189eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2189eh/pdf/BILLS-119hr2189eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-12",
+      "classification": ""
+    },
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2189rh/xml/BILLS-119hr2189rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2189rh/pdf/BILLS-119hr2189rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-30",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -827,7 +1034,41 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "HAMDT 166",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/166",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "CBO: H.R. 2189, Law-Enforcement Innovate to De-Escalate Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62097",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-472",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt472/CRPT-119hrpt472.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -931,7 +1172,11 @@
       "L000600",
       "H001093",
       "M001222",
-      "S001214"
+      "S001214",
+      "G000605",
+      "V000135",
+      "C001067",
+      "M001236"
     ],
     "sponsor_bioguides": [
       "F000471"
@@ -944,7 +1189,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:52Z",
     "text_extraction_latest_update": "2026-07-13T09:26:14.286234Z"
   }
 }

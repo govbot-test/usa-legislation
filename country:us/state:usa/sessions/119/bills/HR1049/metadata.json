@@ -11,6 +11,10 @@
   "other_titles": [
     {
       "note": "",
+      "title": "To ensure that parents are aware of foreign influence in their child\u2019s public school, and for other purposes."
+    },
+    {
+      "note": "",
       "title": "To ensure that parents are aware of foreign influence in their child's public school, and for other purposes."
     }
   ],
@@ -20,6 +24,118 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "date": "2025-12-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2025-12-04T15:35:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 247 - 166 (Roll no. 314). (text: CR 12/3/2025 H5008)",
+      "date": "2025-12-04T15:35:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 247 - 166 (Roll no. 314). (text: CR 12/3/2025 H5008)",
+      "date": "2025-12-04T15:35:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H5036-5037)",
+      "date": "2025-12-04T15:29:06+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1049, the Chair put the question on passage of the bill and by voice vote announced the ayes had prevailed. Mr. Scott (VA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2025-12-03T17:59:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2025-12-03T17:59:15+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 1049.",
+      "date": "2025-12-03T17:34:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965 and H.R. 4305. The resolution provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965, and H.R. 4305 under a closed rule with one hour of general debate and one motion to recommit on each bill.",
+      "date": "2025-12-03T17:33:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 916. (consideration: CR H5007-5010)",
+      "date": "2025-12-03T17:33:12+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 916 Reported to House. Rule provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965 and H.R. 4305. The resolution provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965, and H.R. 4305 under a closed rule with one hour of general debate and one motion to recommit on each bill.",
+      "date": "2025-12-02T01:46:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
     {
       "description": "Placed on the Union Calendar, Calendar No. 7.",
       "date": "2025-03-05T05:00:00+00:00",
@@ -124,9 +240,44 @@
       "identifier": "S 2509",
       "legislative_session": "119",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "HRES 916",
+      "legislative_session": "119",
+      "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1049rfs/xml/BILLS-119hr1049rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1049rfs/pdf/BILLS-119hr1049rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-04",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1049eh/xml/BILLS-119hr1049eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1049eh/pdf/BILLS-119hr1049eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-04",
+      "classification": ""
+    },
     {
       "note": "Reported in House",
       "links": [
@@ -159,6 +310,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "HAMDT 114",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/114",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "CBO: H.R. 1049, TRACE Act",
       "links": [
@@ -210,7 +372,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:44Z",
     "text_extraction_latest_update": "2026-07-13T12:29:38.812713Z"
   }
 }

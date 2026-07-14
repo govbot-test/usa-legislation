@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Livestock, Dairy, and Poultry.",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-08-15T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -111,6 +131,14 @@
       "organization_id": null
     },
     {
+      "name": "Robert P. Bresnahan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert P. Bresnahan\"}",
+      "organization_id": null
+    },
+    {
       "name": "Chellie Pingree",
       "classification": "primary",
       "entity_type": "person",
@@ -164,7 +192,8 @@
       "C001117",
       "L000599",
       "T000481",
-      "F000462"
+      "F000462",
+      "B001327"
     ],
     "sponsor_bioguides": [
       "P000597"
@@ -177,7 +206,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:09Z",
+    "logs_latest_update": "2026-07-14T13:14:43Z",
     "text_extraction_latest_update": "2026-07-13T07:17:39.905521Z"
   }
 }

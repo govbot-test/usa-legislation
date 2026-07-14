@@ -1,20 +1,149 @@
 {
   "legislative_session": "119",
   "identifier": "HR 2196",
-  "title": "To provide for an extension of the legislative authority of the National Emergency Medical Services Memorial Foundation to establish a commemorative work in the District of Columbia and its environs.",
+  "title": "National Emergency Medical Services Memorial Extension Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To provide for an extension of the legislative authority of the National Emergency Medical Services Memorial Foundation to establish a commemorative work in the District of Columbia and its environs."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr2196"
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+      "date": "2026-03-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-03-16T21:35:21+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2523)",
+      "date": "2026-03-16T21:35:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2523)",
+      "date": "2026-03-16T21:35:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2196.",
+      "date": "2026-03-16T21:29:48+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules. (consideration: CR H2523-2524)",
+      "date": "2026-03-16T21:29:47+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Mr. Wittman moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-03-16T21:29:35+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 443.",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-518.",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Subcommittee on Federal Lands Discharged",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
     {
       "description": "Subcommittee Hearings Held",
       "date": "2025-09-18T04:00:00+00:00",
@@ -121,6 +250,51 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2196rfs/xml/BILLS-119hr2196rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2196rfs/pdf/BILLS-119hr2196rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-17",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2196eh/xml/BILLS-119hr2196eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2196eh/pdf/BILLS-119hr2196eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-16",
+      "classification": ""
+    },
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2196rh/xml/BILLS-119hr2196rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2196rh/pdf/BILLS-119hr2196rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-24",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -136,7 +310,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "H. Rept. 119-518",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt518/CRPT-119hrpt518.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -168,7 +354,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:39Z",
     "text_extraction_latest_update": "2026-07-13T12:39:07.685456Z"
   }
 }

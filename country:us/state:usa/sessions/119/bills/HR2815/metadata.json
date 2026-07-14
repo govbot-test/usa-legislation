@@ -21,6 +21,158 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-93.",
+      "date": "2026-05-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2026-05-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Presented to President.",
+      "date": "2026-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-03-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S697-699)",
+      "date": "2026-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.",
+      "date": "2026-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+      "date": "2025-12-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2025-12-15T21:39:38+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5879-5880)",
+      "date": "2025-12-15T21:39:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5879-5880)",
+      "date": "2025-12-15T21:39:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2815.",
+      "date": "2025-12-15T21:32:58+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules. (consideration: CR H5879-5880)",
+      "date": "2025-12-15T21:32:57+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Mr. Stauber moved to suspend the rules and pass the bill, as amended.",
+      "date": "2025-12-15T21:32:47+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
       "description": "Placed on the Union Calendar, Calendar No. 306.",
       "date": "2025-10-31T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -134,6 +286,59 @@
   ],
   "versions": [
     {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2815enr/uslm/BILLS-119hr2815enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2815enr/uslm/BILLS-119hr2815enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2815enr/xml/BILLS-119hr2815enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2815enr/pdf/BILLS-119hr2815enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2815rfs/xml/BILLS-119hr2815rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2815rfs/pdf/BILLS-119hr2815rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-16",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2815eh/xml/BILLS-119hr2815eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2815eh/pdf/BILLS-119hr2815eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-15",
+      "classification": ""
+    },
+    {
       "note": "Reported in House",
       "links": [
         {
@@ -162,6 +367,21 @@
       ],
       "date": "2025-04-10",
       "classification": ""
+    },
+    {
+      "note": "Public Law",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ93/uslm/PLAW-119publ93.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ93/uslm/PLAW-119publ93.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-20",
+      "classification": ""
     }
   ],
   "documents": [
@@ -177,7 +397,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-93",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ93/PLAW-119publ93.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2815.xml",
@@ -201,7 +430,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:16Z",
+    "logs_latest_update": "2026-07-14T13:14:54Z",
     "text_extraction_latest_update": "2026-07-13T12:55:53.814685Z"
   }
 }

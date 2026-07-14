@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+      "date": "2025-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2025-03-06T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -50,6 +60,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Andy Kim\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jon Ossoff",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jon Ossoff\"}",
       "organization_id": null
     },
     {
@@ -99,7 +117,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "K000394"
+      "K000394",
+      "O000174"
     ],
     "sponsor_bioguides": [
       "S001232"
@@ -112,7 +131,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:55Z",
     "text_extraction_latest_update": "2026-07-13T12:55:20.981955Z"
   }
 }

@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "ASSUMING FIRST SPONSORSHIP - Mr. Walkinshaw asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 3317, a bill originally introduced by Representative Connolly, for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection.",
+      "date": "2026-04-27T23:11:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Transportation and Maritime Security.",
+      "date": "2025-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Foreign Affairs, Armed Services, Veterans' Affairs, Transportation and Infrastructure, Homeland Security, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-05-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -108,7 +128,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:55Z",
     "text_extraction_latest_update": "2026-07-13T12:35:27.144037Z"
   }
 }

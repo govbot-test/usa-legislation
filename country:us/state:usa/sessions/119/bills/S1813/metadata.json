@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Health, Education, Labor, and Pensions. Hearings held.",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Finance.",
       "date": "2025-05-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -50,6 +60,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Bill Cassidy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tommy Tuberville",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tommy Tuberville\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rick Scott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rick Scott\"}",
       "organization_id": null
     },
     {
@@ -99,7 +125,9 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "C001075"
+      "C001075",
+      "T000278",
+      "S001217"
     ],
     "sponsor_bioguides": [
       "S001184"
@@ -112,7 +140,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:38Z",
     "text_extraction_latest_update": "2026-07-13T07:26:47.377414Z"
   }
 }

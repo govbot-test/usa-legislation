@@ -1,20 +1,35 @@
 {
   "legislative_session": "119",
   "identifier": "HR 6203",
-  "title": "To amend title 38, United States Code, to recognize and honor the service of individuals who served in the United States Cadet Nurse Corps during World War II, and for other purposes.",
+  "title": "United States Cadet Nurse Corps Service Recognition Act of 2025",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To amend title 38, United States Code, to recognize and honor the service of individuals who served in the United States Cadet Nurse Corps during World War II, and for other purposes."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr6203"
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
     {
       "description": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-11-20T05:00:00+00:00",
@@ -66,6 +81,54 @@
       "organization_id": null
     },
     {
+      "name": "Diana Harshbarger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Diana Harshbarger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Gottheimer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Gottheimer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristen McDonald Rivet",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristen McDonald Rivet\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eugene Simon Vindman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eugene Simon Vindman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elise M. Stefanik",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elise M. Stefanik\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angie Craig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angie Craig\"}",
+      "organization_id": null
+    },
+    {
       "name": "Michael Lawler",
       "classification": "primary",
       "entity_type": "person",
@@ -74,8 +137,30 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
-  "versions": [],
+  "related_bills": [
+    {
+      "identifier": "S 3329",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6203ih/xml/BILLS-119hr6203ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6203ih/pdf/BILLS-119hr6203ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-20",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -92,7 +177,13 @@
     "cosponsor_bioguides": [
       "N000147",
       "F000466",
-      "D000530"
+      "D000530",
+      "H001086",
+      "G000583",
+      "M001237",
+      "V000138",
+      "S001196",
+      "C001119"
     ],
     "sponsor_bioguides": [
       "L000599"
@@ -105,7 +196,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:31Z",
     "text_extraction_latest_update": "2026-07-14T09:47:36.737529Z"
   }
 }

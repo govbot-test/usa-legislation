@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Small Business and Entrepreneurship. Hearings held.",
+      "date": "2026-01-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Finance.",
       "date": "2025-06-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -69,7 +79,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 9100",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in Senate",
@@ -115,7 +131,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:41Z",
     "text_extraction_latest_update": "2026-07-13T09:34:46.496186Z"
   }
 }

@@ -1,20 +1,35 @@
 {
   "legislative_session": "119",
   "identifier": "HRES 375",
-  "title": "Expressing support for the designation of May 2025 as \"Renewable Fuels Month\" to recognize the important role that renewable fuels play in reducing carbon impacts, lowering fuel prices for consumers, supporting rural communities, and lessening reliance on foreign adversaries.",
+  "title": "Expressing support for the designation of May 2025 as Renewable Fuels Month to recognize the important role that renewable fuels play in reducing carbon impacts, lowering fuel prices for consumers, supporting rural communities, and lessening reliance on foreign adversaries.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Expressing support for the designation of May 2025 as \"Renewable Fuels Month\" to recognize the important role that renewable fuels play in reducing carbon impacts, lowering fuel prices for consumers, supporting rural communities, and lessening reliance on foreign adversaries."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hres375"
     }
   ],
   "actions": [
+    {
+      "description": "Pursuant to the provisions of H. Res. 1014, H. Res. 375 is considered passed House as amended.",
+      "date": "2026-01-22T16:53:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Energy and Commerce.",
       "date": "2025-05-01T04:00:00+00:00",
@@ -172,12 +187,42 @@
   ],
   "related_bills": [
     {
+      "identifier": "SRES 747",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HRES 1315",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HRES 1014",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "SRES 203",
       "legislative_session": "119",
       "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres375eh/xml/BILLS-119hres375eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres375eh/pdf/BILLS-119hres375eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-22",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -235,7 +280,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T08:12:07.099777Z"
   }
 }

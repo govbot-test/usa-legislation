@@ -21,6 +21,94 @@
   ],
   "actions": [
     {
+      "description": "By Senator Lee from Committee on Energy and Natural Resources filed written report. Report No. 119-109.",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Became Public Law No: 119-68.",
+      "date": "2025-12-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2025-12-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Presented to President.",
+      "date": "2025-12-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Passed Senate without amendment by Voice Vote. (consideration: CR S8766-8768)",
+      "date": "2025-12-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.",
+      "date": "2025-12-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.",
+      "date": "2025-12-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
       "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
       "date": "2025-09-11T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -204,6 +292,29 @@
   ],
   "versions": [
     {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1043enr/uslm/BILLS-119hr1043enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1043enr/uslm/BILLS-119hr1043enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1043enr/xml/BILLS-119hr1043enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1043enr/pdf/BILLS-119hr1043enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Referred in Senate",
       "links": [
         {
@@ -262,6 +373,21 @@
       ],
       "date": "2025-02-06",
       "classification": ""
+    },
+    {
+      "note": "Public Law",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ68/uslm/PLAW-119publ68.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ68/uslm/PLAW-119publ68.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-30",
+      "classification": ""
     }
   ],
   "documents": [
@@ -286,9 +412,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "S. Rept. 119-109",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/srpt109/CRPT-119srpt109.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-68",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ68/PLAW-119publ68.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1043.xml",
@@ -315,7 +461,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:34Z",
     "text_extraction_latest_update": "2026-07-13T08:10:51.992658Z"
   }
 }

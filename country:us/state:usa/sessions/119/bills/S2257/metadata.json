@@ -51,6 +51,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T05:35:09Z"
       }
+    },
+    {
+      "description": "Subcommittee on Legislative Branch. Hearings held on the subject prior to the subcommittee ordering to be reported an original measure. With printed Hearing: S.Hrg. 119-69.",
+      "date": "2025-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
     }
   ],
   "sponsorships": [
@@ -134,7 +144,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:09Z",
+    "logs_latest_update": "2026-07-14T13:14:45Z",
     "text_extraction_latest_update": "2026-07-13T09:01:46.625916Z"
   }
 }

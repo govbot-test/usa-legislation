@@ -11,35 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Atomic Energy Testing Liability Act"
-    },
-    {
-      "note": "",
-      "title": "An original bill to authorize appropriations for fiscal year 2026 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes."
-    },
-    {
-      "note": "",
-      "title": "Intelligence Authorization Act for Fiscal Year 2026"
-    },
-    {
-      "note": "",
-      "title": "Renewing Opportunity in the American Dream to Housing Act of 2025"
-    },
-    {
-      "note": "",
-      "title": "MAPS Act"
-    },
-    {
-      "note": "",
-      "title": "CDFI Bond Guarantee Program Improvement Act of 2025"
-    },
-    {
-      "note": "",
-      "title": "Preventing Adversary Influence, Disinformation, and Obscured Foreign Financing Act of 2025"
-    },
-    {
-      "note": "",
-      "title": "Guaranteeing Access and Innovation for National Artificial Intelligence Act of 2025"
+      "title": "Taiwan Non-Discrimination Act of 2025"
     },
     {
       "note": "",
@@ -47,7 +19,11 @@
     },
     {
       "note": "",
-      "title": "Defending International Security by Restricting Unacceptable Partnerships and Tactics Act"
+      "title": "Combating PRC Overseas and Unlawful Networked Threats through Enhanced Resilience Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "CDFI Bond Guarantee Program Improvement Act of 2025"
     },
     {
       "note": "",
@@ -55,27 +31,7 @@
     },
     {
       "note": "",
-      "title": "Foreign Investment Guardrails to Help Thwart China Act of 2025"
-    },
-    {
-      "note": "",
-      "title": "Taiwan Non-Discrimination Act of 2025"
-    },
-    {
-      "note": "",
-      "title": "AUKUS Improvement Act of 2025"
-    },
-    {
-      "note": "",
-      "title": "Coast Guard Authorization Act of 2025"
-    },
-    {
-      "note": "",
-      "title": "International Nuclear Energy Act of 2025"
-    },
-    {
-      "note": "",
-      "title": "PAID OFF Act of 2025"
+      "title": "DFC Modernization and Reauthorization Act of 2025"
     },
     {
       "note": "",
@@ -83,35 +39,19 @@
     },
     {
       "note": "",
-      "title": "FIGHT China Act of 2025"
+      "title": "Coast Guard Authorization Act of 2025"
     },
     {
       "note": "",
-      "title": "Military Construction Authorization Act for Fiscal Year 2026"
+      "title": "MAPS Act"
     },
     {
       "note": "",
-      "title": "DETERRENCE Act"
+      "title": "International Nuclear Energy Act of 2025"
     },
     {
       "note": "",
-      "title": "Holding Foreign Insiders Accountable Act"
-    },
-    {
-      "note": "",
-      "title": "DFC Modernization and Reauthorization Act of 2025"
-    },
-    {
-      "note": "",
-      "title": "GAIN AI Act of 2025"
-    },
-    {
-      "note": "",
-      "title": "DISRUPT Act"
-    },
-    {
-      "note": "",
-      "title": "Department of State Authorization Act for Fiscal Year 2026"
+      "title": "Renewing Opportunity in the American Dream to Housing Act of 2025"
     },
     {
       "note": "",
@@ -119,15 +59,59 @@
     },
     {
       "note": "",
+      "title": "Abducted Ukrainian Children Recovery and Accountability Act"
+    },
+    {
+      "note": "",
+      "title": "Preventing Adversary Influence, Disinformation, and Obscured Foreign Financing Act of 2025"
+    },
+    {
+      "note": "",
       "title": "COUNTER Act of 2025"
     },
     {
       "note": "",
-      "title": "Fighting Foreign Illegal Seafood Harvests Act of 2025"
+      "title": "Department of State Authorization Act for Fiscal Year 2026"
     },
     {
       "note": "",
-      "title": "Combating PRC Overseas and Unlawful Networked Threats through Enhanced Resilience Act of 2025"
+      "title": "Defending International Security by Restricting Unacceptable Partnerships and Tactics Act"
+    },
+    {
+      "note": "",
+      "title": "An original bill to authorize appropriations for fiscal year 2026 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "AUKUS Improvement Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "PAID OFF Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "Intelligence Authorization Act for Fiscal Year 2026"
+    },
+    {
+      "note": "",
+      "title": "Military Construction Authorization Act for Fiscal Year 2026"
+    },
+    {
+      "note": "",
+      "title": "Atomic Energy Testing Liability Act"
+    },
+    {
+      "note": "",
+      "title": "GAIN AI Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "Holding Foreign Insiders Accountable Act"
+    },
+    {
+      "note": "",
+      "title": "FIGHT China Act of 2025"
     },
     {
       "note": "",
@@ -135,7 +119,23 @@
     },
     {
       "note": "",
-      "title": "Abducted Ukrainian Children Recovery and Accountability Act"
+      "title": "Guaranteeing Access and Innovation for National Artificial Intelligence Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "DETERRENCE Act"
+    },
+    {
+      "note": "",
+      "title": "Foreign Investment Guardrails to Help Thwart China Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "Fighting Foreign Illegal Seafood Harvests Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "DISRUPT Act"
     }
   ],
   "other_identifiers": [
@@ -144,6 +144,38 @@
     }
   ],
   "actions": [
+    {
+      "description": "Held at the desk.",
+      "date": "2025-11-12T17:10:52+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Received in the House.",
+      "date": "2025-11-12T17:02:52+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2025-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
     {
       "description": "Passed Senate under the order of 10/9/2025, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 77 - 20. Record Vote Number: 570.",
       "date": "2025-10-09T04:00:00+00:00",
@@ -184,6 +216,26 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T05:35:10Z"
+      }
+    },
+    {
+      "description": "Considered by Senate. (consideration: CR S6943-6944)",
+      "date": "2025-10-06T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Considered by Senate. (consideration: CR S6889-6893)",
+      "date": "2025-10-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
       }
     },
     {
@@ -307,23 +359,23 @@
       }
     },
     {
-      "description": "Motion to proceed to measure considered in Senate. (: CR S5539)",
+      "description": "Motion to proceed to measure considered in Senate. (CR S5539)",
       "date": "2025-09-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:35Z"
       }
     },
     {
-      "description": "Cloture motion on the motion to proceed to the measure presented in Senate. (: CR S5522)",
+      "description": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S5522)",
       "date": "2025-08-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:35Z"
       }
     },
     {
@@ -377,6 +429,46 @@
       "_processing": {
         "log_file_created": "2026-07-13T05:35:10Z"
       }
+    },
+    {
+      "description": "Committee on Armed Services Subcommittee on Personnel. Hearings held. With printed Hearing: S.Hrg. 119-75, pt. 6.",
+      "date": "2025-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Committee on Armed Services Subcommittee on Cybersecurity. Hearings held. With printed Hearing: S.Hrg. 119-75, pt. 8.",
+      "date": "2025-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Committee on Armed Services Subcommittee on Emerging Threats and Capabilities. Hearings held. With printed Hearing: S.Hrg. 119-75, pt. 5.",
+      "date": "2025-04-08T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Committee on Armed Services Subcommittee on Readiness and Management Support. Hearings held. With printed Hearing: S.Hrg. 119-75, pt. 3.",
+      "date": "2025-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
     }
   ],
   "sponsorships": [
@@ -390,6 +482,26 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "HR 6269",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 3163",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 8554",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 4474",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
     {
       "identifier": "S 1988",
       "legislative_session": "119",
@@ -456,6 +568,81 @@
       "relation_type": "companion"
     },
     {
+      "identifier": "S 2647",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 2642",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 6475",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 2669",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 5990",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 5938",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 5962",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 3067",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 5912",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 3050",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 5975",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 6009",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 3288",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 5623",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 6483",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "S 1632",
       "legislative_session": "119",
       "relation_type": "companion"
@@ -472,6 +659,61 @@
     },
     {
       "identifier": "HR 2557",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 1843",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 3552",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 6107",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 6562",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 3052",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 3053",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 3436",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 1204",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 1071",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 3563",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 6586",
       "legislative_session": "119",
       "relation_type": "companion"
     },
@@ -514,6 +756,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "SAMDT 3984",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/3984",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "SAMDT 3929",
       "links": [
@@ -10250,6 +10503,17 @@
       "classification": ""
     },
     {
+      "note": "CBO: Budgetary Determination for Section 1564 of S. 2296, the National Defense Authorization Act for Fiscal Year 2026, as Passed by the Senate on October 9, 2025",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/61919",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "S. Rept. 119-39",
       "links": [
         {
@@ -10285,7 +10549,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:49Z",
     "text_extraction_latest_update": "2026-07-13T09:15:38.120461Z"
   }
 }

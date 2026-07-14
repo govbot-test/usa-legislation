@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-429, Part I.",
+      "date": "2026-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported (Amended) by Voice Vote.",
       "date": "2025-07-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -170,7 +180,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "H. Rept. 119-429",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt429/CRPT-119hrpt429.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -205,7 +227,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:54Z",
     "text_extraction_latest_update": "2026-07-13T07:43:51.582761Z"
   }
 }

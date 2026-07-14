@@ -25,6 +25,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-03-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Veterans' Affairs.",
       "date": "2025-11-06T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -57,6 +67,38 @@
       "organization_id": null
     },
     {
+      "name": "Richard Blumenthal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richard Blumenthal\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tommy Tuberville",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tommy Tuberville\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maggie Hassan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maggie Hassan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elissa Slotkin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elissa Slotkin\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jim Banks",
       "classification": "primary",
       "entity_type": "person",
@@ -65,7 +107,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 1971",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in Senate",
@@ -83,7 +131,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: S. 3138, Veterans Supporting Prosthetics Opportunities and Recreational Therapy Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62338",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -97,7 +157,11 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "K000383"
+      "K000383",
+      "B001277",
+      "T000278",
+      "H001076",
+      "S001208"
     ],
     "sponsor_bioguides": [
       "B001299"
@@ -110,7 +174,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:38Z",
     "text_extraction_latest_update": "2026-07-13T07:43:45.465923Z"
   }
 }

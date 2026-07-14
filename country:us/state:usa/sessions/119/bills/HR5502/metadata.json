@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To amend title 49, United States Code, to direct the Secretary of Transportation to issue regulations to ensure airfare fairness in the wake of a disaster or emergency, and for other purposes."
+      "title": "Airline Freeze of Astronomical Increases in Rates Act"
     },
     {
       "note": "",
-      "title": "Airline Freeze of Astronomical Increases in Rates Act"
+      "title": "To amend title 49, United States Code, to direct the Secretary of Transportation to issue regulations to ensure airfare fairness in the wake of a disaster or emergency, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Aviation.",
+      "date": "2025-09-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Transportation and Infrastructure.",
       "date": "2025-09-18T04:00:00+00:00",
@@ -102,7 +112,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:40Z",
     "text_extraction_latest_update": "2026-07-13T07:57:32.674967Z"
   }
 }

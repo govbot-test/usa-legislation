@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
+      "date": "2025-12-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Transportation and Infrastructure.",
       "date": "2025-10-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -144,7 +154,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:52Z",
     "text_extraction_latest_update": "2026-07-13T11:09:33.711625Z"
   }
 }

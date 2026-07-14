@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To amend the Food Security Act of 1985 with respect to the conservation reserve program, and for other purposes."
+      "title": "Eliminating Needless Administrative Barriers Lessening Efficiency for Conservation Act of 2025"
     },
     {
       "note": "",
-      "title": "Eliminating Needless Administrative Barriers Lessening Efficiency for Conservation Act of 2025"
+      "title": "To amend the Food Security Act of 1985 with respect to the conservation reserve program, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+      "date": "2025-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Agriculture.",
       "date": "2025-09-15T04:00:00+00:00",
@@ -56,6 +66,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Dan Newhouse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chellie Pingree",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chellie Pingree\"}",
       "organization_id": null
     },
     {
@@ -99,7 +117,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "N000189"
+      "N000189",
+      "P000597"
     ],
     "sponsor_bioguides": [
       "S001216"
@@ -112,7 +131,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:39Z",
     "text_extraction_latest_update": "2026-07-13T12:00:29.210275Z"
   }
 }

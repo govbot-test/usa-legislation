@@ -11,11 +11,19 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To utlitize the Advanced Capabilities for Emergency Response to Operations project of NASA to improve aerial responses to wildfires, and for other purposes."
+      "title": "To utilize the Advanced Capabilities for Emergency Response to Operations project of NASA to improve aerial responses to wildfires, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "To utilize the Advanced Capabilities for Emergency Response to Operations project of NASA to improve aerial responses to wildfires, and for other purposes"
     },
     {
       "note": "",
       "title": "Advanced Capabilities for Emergency Response Operations Act"
+    },
+    {
+      "note": "",
+      "title": "To utlitize the Advanced Capabilities for Emergency Response to Operations project of NASA to improve aerial responses to wildfires, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +32,110 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "The title of the measure was amended. Agreed to without objection.",
+      "date": "2026-02-23T21:08:38+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-02-23T21:08:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2241)",
+      "date": "2026-02-23T21:08:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2241)",
+      "date": "2026-02-23T21:08:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 390.",
+      "date": "2026-02-23T21:00:56+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules. (consideration: CR H2241-2242)",
+      "date": "2026-02-23T21:00:54+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Mr. Babin moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-02-23T21:00:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 427.",
+      "date": "2026-02-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 119-501.",
+      "date": "2026-02-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
     {
       "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 34 - 0.",
       "date": "2025-06-11T04:00:00+00:00",
@@ -119,6 +231,14 @@
       "organization_id": null
     },
     {
+      "name": "Joe Neguse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe Neguse\"}",
+      "organization_id": null
+    },
+    {
       "name": "Vince Fong",
       "classification": "primary",
       "entity_type": "person",
@@ -127,8 +247,59 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 7273",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr390rfs/xml/BILLS-119hr390rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr390rfs/pdf/BILLS-119hr390rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-24",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr390eh/xml/BILLS-119hr390eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr390eh/pdf/BILLS-119hr390eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-23",
+      "classification": ""
+    },
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr390rh/xml/BILLS-119hr390rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr390rh/pdf/BILLS-119hr390rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-20",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -145,7 +316,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 390, ACERO Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62144",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-501",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt501/CRPT-119hrpt501.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -164,7 +358,8 @@
       "O000019",
       "V000138",
       "C001112",
-      "H001090"
+      "H001090",
+      "N000191"
     ],
     "sponsor_bioguides": [
       "F000480"
@@ -177,7 +372,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:13Z",
+    "logs_latest_update": "2026-07-14T13:14:39Z",
     "text_extraction_latest_update": "2026-07-13T13:25:53.078025Z"
   }
 }

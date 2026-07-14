@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-04-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
       "date": "2025-06-05T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -61,7 +71,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 2458",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in Senate",
@@ -79,7 +95,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: S. 1962, Secure Space Act of 2026",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62482",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -106,7 +134,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:17Z",
+    "logs_latest_update": "2026-07-14T13:14:45Z",
     "text_extraction_latest_update": "2026-07-13T06:50:20.076799Z"
   }
 }

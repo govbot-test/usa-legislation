@@ -21,6 +21,78 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate.",
+      "date": "2025-12-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2025-12-11T21:44:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 231 - 195 (Roll no. 332). (text: CR H5795)",
+      "date": "2025-12-11T21:44:08+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 231 - 195 (Roll no. 332). (text: CR H5795)",
+      "date": "2025-12-11T21:44:08+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2025-12-11T20:59:29+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 2550.",
+      "date": "2025-12-11T20:04:26+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 432. (consideration: CR H5795-5802)",
+      "date": "2025-12-11T20:03:50+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Oversight and Government Reform.",
       "date": "2025-04-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -1863,8 +1935,29 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HRES 432",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2550eh/xml/BILLS-119hr2550eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2550eh/pdf/BILLS-119hr2550eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-11",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -2133,7 +2226,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:15Z",
+    "logs_latest_update": "2026-07-14T13:14:45Z",
     "text_extraction_latest_update": "2026-07-13T08:24:36.622071Z"
   }
 }

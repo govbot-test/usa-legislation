@@ -21,6 +21,36 @@
   ],
   "actions": [
     {
+      "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "date": "2026-01-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Subcommittee Consideration and Mark-up Session Held",
+      "date": "2026-01-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Communications and Technology.",
+      "date": "2025-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Energy and Commerce.",
       "date": "2025-02-24T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -98,7 +128,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:13Z",
+    "logs_latest_update": "2026-07-14T13:14:42Z",
     "text_extraction_latest_update": "2026-07-13T08:18:06.143189Z"
   }
 }

@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.",
+      "date": "2025-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Agriculture.",
       "date": "2025-09-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -126,7 +136,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:34Z",
     "text_extraction_latest_update": "2026-07-13T10:07:34.886584Z"
   }
 }

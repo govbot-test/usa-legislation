@@ -21,6 +21,46 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 438.",
+      "date": "2026-02-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:49Z"
+      }
+    },
+    {
+      "description": "Reported by the Committee on Natural Resources. H. Rept. 119-512.",
+      "date": "2026-02-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:49Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported by Unanimous Consent.",
+      "date": "2026-01-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:49Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-01-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:49Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Natural Resources.",
       "date": "2025-05-13T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -151,6 +191,22 @@
       "organization_id": null
     },
     {
+      "name": "Sarah McBride",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Derek Tran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Derek Tran\"}",
+      "organization_id": null
+    },
+    {
       "name": "Russell Fry",
       "classification": "primary",
       "entity_type": "person",
@@ -159,8 +215,29 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 759",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3340rh/xml/BILLS-119hr3340rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3340rh/pdf/BILLS-119hr3340rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-23",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -177,7 +254,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "H. Rept. 119-512",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt512/CRPT-119hrpt512.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -203,7 +292,9 @@
       "M001241",
       "R000609",
       "G000602",
-      "V000138"
+      "V000138",
+      "M001238",
+      "T000491"
     ],
     "sponsor_bioguides": [
       "F000478"
@@ -216,7 +307,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:56Z",
     "text_extraction_latest_update": "2026-07-13T09:42:17.816761Z"
   }
 }

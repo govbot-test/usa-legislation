@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Health, Education, Labor, and Pensions. Hearings held.",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "date": "2025-05-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -213,6 +223,22 @@
       "organization_id": null
     },
     {
+      "name": "Ashley Moody",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ashley Moody\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David H. McCormick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David H. McCormick\"}",
+      "organization_id": null
+    },
+    {
       "name": "James Lankford",
       "classification": "primary",
       "entity_type": "person",
@@ -279,7 +305,9 @@
       "M001190",
       "B001236",
       "C001056",
-      "H001061"
+      "H001061",
+      "M001244",
+      "M001243"
     ],
     "sponsor_bioguides": [
       "L000575"
@@ -292,7 +320,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:16Z",
+    "logs_latest_update": "2026-07-14T13:14:43Z",
     "text_extraction_latest_update": "2026-07-13T13:14:59.134408Z"
   }
 }

@@ -25,6 +25,158 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+      "date": "2025-12-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2025-12-17T23:40:41+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 216 - 211 (Roll no. 351). (text of amendment in the nature of a substitute: CR H5992-5993)",
+      "date": "2025-12-17T23:40:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 216 - 211 (Roll no. 351).",
+      "date": "2025-12-17T23:40:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "On motion to recommit Failed by the Yeas and Nays: 210 - 218 (Roll no. 350).",
+      "date": "2025-12-17T23:34:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H6008-6009)",
+      "date": "2025-12-17T23:28:08+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 3492, the Chair put the question on motion to recommit and by voice vote announced the noes had prevailed. Ms. Balint demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2025-12-17T20:54:20+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "date": "2025-12-17T20:54:12+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Ms. Balint moved to recommit to the Committee on the Judiciary. (text: CR H5999-6000)",
+      "date": "2025-12-17T20:54:04+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2025-12-17T20:53:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 3492.",
+      "date": "2025-12-17T19:59:30+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of H.R. 6703, H.R. 498 and H.R. 3492. The resolution provides for consideration of H.R. 6703 and H.R. 498 under a closed rule and H.R. 3492 under a structured rule with one hour of general debate and one motion to recommit on each bill.",
+      "date": "2025-12-17T19:58:31+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 953. (consideration: CR H5992-6000)",
+      "date": "2025-12-17T19:58:26+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Rule H. Res. 953 passed House.",
+      "date": "2025-12-17T16:07:02+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 953 Reported to House. Rule provides for consideration of H.R. 6703, H.R. 498 and H.R. 3492. The resolution provides for consideration of H.R. 6703 and H.R. 498 under a closed rule and H.R. 3492 under a structured rule with one hour of general debate and one motion to recommit on each bill.",
+      "date": "2025-12-17T13:11:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
       "description": "Placed on the Union Calendar, Calendar No. 265.",
       "date": "2025-09-26T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -451,8 +603,44 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HRES 953",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3492rfs/xml/BILLS-119hr3492rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3492rfs/pdf/BILLS-119hr3492rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-18",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3492eh/xml/BILLS-119hr3492eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3492eh/pdf/BILLS-119hr3492eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-17",
+      "classification": ""
+    },
     {
       "note": "Reported in House",
       "links": [
@@ -485,6 +673,28 @@
     }
   ],
   "documents": [
+    {
+      "note": "HAMDT 136",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/136",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "CBO: H.R. 3492, Protect Children\u2019s Innocence Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62049",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "H. Rept. 119-311",
       "links": [
@@ -566,7 +776,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:54Z",
     "text_extraction_latest_update": "2026-07-13T10:28:20.456313Z"
   }
 }

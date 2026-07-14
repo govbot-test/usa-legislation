@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 41 - 0.",
+      "date": "2025-12-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2025-12-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-08-19T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -87,6 +107,14 @@
       "organization_id": null
     },
     {
+      "name": "Michael Lawler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Lawler\"}",
+      "organization_id": null
+    },
+    {
       "name": "Brian K. Fitzpatrick",
       "classification": "primary",
       "entity_type": "person",
@@ -96,6 +124,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "HR 7148",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
     {
       "identifier": "S 891",
       "legislative_session": "119",
@@ -142,7 +175,8 @@
       "S001200",
       "V000138",
       "G000583",
-      "R000305"
+      "R000305",
+      "L000599"
     ],
     "sponsor_bioguides": [
       "F000466"
@@ -155,7 +189,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:48Z",
     "text_extraction_latest_update": "2026-07-13T10:29:37.436767Z"
   }
 }

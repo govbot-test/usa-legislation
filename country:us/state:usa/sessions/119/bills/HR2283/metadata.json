@@ -21,6 +21,66 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 14 - 8.",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.",
+      "date": "2026-04-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Subcommittee Consideration and Mark-up Session Held",
+      "date": "2026-04-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Subcommittee Hearings Held",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2025-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2025-03-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -71,6 +131,22 @@
       "organization_id": null
     },
     {
+      "name": "Juan Ciscomani",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Juan Ciscomani\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gus M. Bilirakis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gus M. Bilirakis\"}",
+      "organization_id": null
+    },
+    {
       "name": "Mike Bost",
       "classification": "primary",
       "entity_type": "person",
@@ -79,7 +155,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 4137",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in House",
@@ -97,7 +179,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 2283, Recognizing Community Organizations for Veteran Engagement and Recovery Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62453",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -113,7 +207,9 @@
     "cosponsor_bioguides": [
       "R000600",
       "B001301",
-      "C001103"
+      "C001103",
+      "C001133",
+      "B001257"
     ],
     "sponsor_bioguides": [
       "B001295"
@@ -126,7 +222,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:40Z",
     "text_extraction_latest_update": "2026-07-13T13:03:42.845053Z"
   }
 }

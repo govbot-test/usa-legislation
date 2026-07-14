@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:45Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:45Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Agriculture.",
       "date": "2025-09-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -52,6 +72,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Donald G. Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe Neguse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe Neguse\"}",
       "organization_id": null
     },
     {
@@ -95,7 +123,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "D000230"
+      "D000230",
+      "N000191"
     ],
     "sponsor_bioguides": [
       "N000193"
@@ -108,7 +137,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:17Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T08:33:53.987464Z"
   }
 }

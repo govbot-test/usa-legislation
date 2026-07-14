@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Health, Education, Labor, and Pensions. Hearings held.",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:42Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "date": "2025-02-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -50,6 +60,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Susan M. Collins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Catherine Cortez Masto",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Catherine Cortez Masto\"}",
       "organization_id": null
     },
     {
@@ -99,7 +117,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "C001035"
+      "C001035",
+      "C001113"
     ],
     "sponsor_bioguides": [
       "R000608"
@@ -112,7 +131,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:45Z",
     "text_extraction_latest_update": "2026-07-13T11:05:56.338168Z"
   }
 }

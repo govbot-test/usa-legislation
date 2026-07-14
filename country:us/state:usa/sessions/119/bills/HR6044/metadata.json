@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Aviation.",
+      "date": "2025-11-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Coast Guard and Maritime Transportation.",
+      "date": "2025-11-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Appropriations, and in addition to the Committees on Armed Services, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-11-13T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -117,7 +137,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:37Z",
     "text_extraction_latest_update": "2026-07-13T07:27:59.667553Z"
   }
 }

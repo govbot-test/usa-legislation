@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "A bill to amend title 18, United States Code, to enhance enforcement with respect to material depicting obscene child sexual abuse or constituting child pornography, and for other purposes."
+      "title": "Enhancing Necessary Federal Offenses Regarding Child Exploitation Act"
     },
     {
       "note": "",
-      "title": "Enhancing Necessary Federal Offenses Regarding Child Exploitation Act"
+      "title": "A bill to amend title 18, United States Code, to enhance enforcement with respect to material depicting obscene child sexual abuse or constituting child pornography, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,70 @@
     }
   ],
   "actions": [
+    {
+      "description": "Held at the desk.",
+      "date": "2025-12-17T15:22:12+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Received in the House.",
+      "date": "2025-12-17T14:59:02+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S8754-8755; text: CR S8754-8755)",
+      "date": "2025-12-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "date": "2025-12-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Senate Committee on the Judiciary discharged by Unanimous Consent.",
+      "date": "2025-12-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
     {
       "description": "Read twice and referred to the Committee on the Judiciary.",
       "date": "2025-10-21T04:00:00+00:00",
@@ -81,8 +145,29 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 4831",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Engrossed in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3021es/xml/BILLS-119s3021es.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3021es/pdf/BILLS-119s3021es.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-16",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -128,7 +213,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:46Z",
     "text_extraction_latest_update": "2026-07-13T10:10:59.206216Z"
   }
 }

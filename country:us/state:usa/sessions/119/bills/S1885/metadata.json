@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-04-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
       "date": "2025-05-22T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -69,6 +79,14 @@
       "organization_id": null
     },
     {
+      "name": "Maggie Hassan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maggie Hassan\"}",
+      "organization_id": null
+    },
+    {
       "name": "Katie Britt",
       "classification": "primary",
       "entity_type": "person",
@@ -111,7 +129,8 @@
     "cosponsor_bioguides": [
       "F000479",
       "H001104",
-      "S001208"
+      "S001208",
+      "H001076"
     ],
     "sponsor_bioguides": [
       "B001319"
@@ -124,7 +143,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:31Z",
     "text_extraction_latest_update": "2026-07-13T06:04:56.544578Z"
   }
 }

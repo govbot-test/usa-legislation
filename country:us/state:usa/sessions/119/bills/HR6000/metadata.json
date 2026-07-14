@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2025-11-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2025-11-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -52,6 +62,46 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Jake Ellzey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Morgan McGarvey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Morgan McGarvey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Derrick Van Orden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Derrick Van Orden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jared F. Golden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jared F. Golden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Don Bacon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Don Bacon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Gottheimer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Gottheimer\"}",
       "organization_id": null
     },
     {
@@ -95,7 +145,12 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "E000071"
+      "E000071",
+      "M001220",
+      "V000135",
+      "G000592",
+      "B001298",
+      "G000583"
     ],
     "sponsor_bioguides": [
       "C001121"
@@ -108,7 +163,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:56Z",
     "text_extraction_latest_update": "2026-07-13T07:33:51.162047Z"
   }
 }

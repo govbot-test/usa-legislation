@@ -16,6 +16,48 @@
   ],
   "actions": [
     {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2025-12-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S8517)",
+      "date": "2025-12-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.",
+      "date": "2025-12-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "Received in the Senate.",
+      "date": "2025-12-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
       "description": "Motion to reconsider laid on the table Agreed to without objection.",
       "date": "2025-11-20T22:41:38+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -115,6 +157,44 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hconres62enr/uslm/BILLS-119hconres62enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hconres62enr/uslm/BILLS-119hconres62enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hconres62enr/xml/BILLS-119hconres62enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hconres62enr/pdf/BILLS-119hconres62enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Received in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hconres62rds/xml/BILLS-119hconres62rds.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hconres62rds/pdf/BILLS-119hconres62rds.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-01",
+      "classification": ""
+    },
+    {
       "note": "Engrossed in House",
       "links": [
         {
@@ -170,7 +250,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T12:12:53.460379Z"
   }
 }

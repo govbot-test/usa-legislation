@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 275.",
+      "date": "2025-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Committee on Veterans' Affairs. Reported by Senator Moran with amendments. Without written report.",
+      "date": "2025-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
       "description": "Committee on Veterans' Affairs. Ordered to be reported with amendments favorably.",
       "date": "2025-07-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -31,13 +51,13 @@
       }
     },
     {
-      "description": "Committee on Veterans' Affairs. Hearings held.",
+      "description": "Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 119-86.",
       "date": "2025-05-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:20Z"
+        "log_file_created": "2026-07-14T13:14:34Z"
       }
     },
     {
@@ -129,6 +149,22 @@
       "organization_id": null
     },
     {
+      "name": "Jerry Moran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jerry Moran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angus S. King",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angus S. King\"}",
+      "organization_id": null
+    },
+    {
       "name": "Patty Murray",
       "classification": "primary",
       "entity_type": "person",
@@ -137,8 +173,29 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 4784",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1320rs/xml/BILLS-119s1320rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1320rs/pdf/BILLS-119s1320rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-02",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -188,7 +245,9 @@
       "S001181",
       "G000555",
       "H000273",
-      "K000367"
+      "K000367",
+      "M000934",
+      "K000383"
     ],
     "sponsor_bioguides": [
       "M001111"
@@ -201,7 +260,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:20Z",
+    "logs_latest_update": "2026-07-14T13:14:46Z",
     "text_extraction_latest_update": "2026-07-13T10:25:52.429410Z"
   }
 }

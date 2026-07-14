@@ -21,6 +21,148 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+      "date": "2025-12-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2025-12-18T20:00:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 215 - 201 (Roll no. 362). (text: CR H6057)",
+      "date": "2025-12-18T20:00:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 215 - 201 (Roll no. 362).",
+      "date": "2025-12-18T20:00:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "On motion to recommit Failed by the Yeas and Nays: 204 - 212 (Roll no. 361).",
+      "date": "2025-12-18T19:56:03+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H6072-6073)",
+      "date": "2025-12-18T19:53:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 498, the Chair put the question on motion to recommit and by voice vote announced that the noes had prevailed. Mr. Soto demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2025-12-18T18:50:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "date": "2025-12-18T18:50:20+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Mr. Soto moved to recommit to the Committee on Energy and Commerce. (text: CR H6065)",
+      "date": "2025-12-18T18:50:08+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2025-12-18T18:49:37+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 498.",
+      "date": "2025-12-18T17:40:30+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of H.R. 6703, H.R. 498 and H.R. 3492. The resolution provides for consideration of H.R. 6703 and H.R. 498 under a closed rule and H.R. 3492 under a structured rule with one hour of general debate and one motion to recommit on each bill.",
+      "date": "2025-12-18T17:40:06+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 953. (consideration: CR H6057-6065)",
+      "date": "2025-12-18T17:40:01+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 953 Reported to House. Rule provides for consideration of H.R. 6703, H.R. 498 and H.R. 3492. The resolution provides for consideration of H.R. 6703 and H.R. 498 under a closed rule and H.R. 3492 under a structured rule with one hour of general debate and one motion to recommit on each bill.",
+      "date": "2025-12-17T13:11:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Energy and Commerce.",
       "date": "2025-01-16T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -71,6 +213,30 @@
       "organization_id": null
     },
     {
+      "name": "Warren Davidson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Warren Davidson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Glenn Grothman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Glenn Grothman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anna Paulina Luna",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anna Paulina Luna\"}",
+      "organization_id": null
+    },
+    {
       "name": "Dan Crenshaw",
       "classification": "primary",
       "entity_type": "person",
@@ -79,8 +245,44 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HRES 953",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr498eh/xml/BILLS-119hr498eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr498eh/pdf/BILLS-119hr498eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-18",
+      "classification": ""
+    },
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr498rfs/xml/BILLS-119hr498rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr498rfs/pdf/BILLS-119hr498rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-18",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -113,7 +315,10 @@
     "cosponsor_bioguides": [
       "G000596",
       "W000814",
-      "S001214"
+      "S001214",
+      "D000626",
+      "G000576",
+      "L000596"
     ],
     "sponsor_bioguides": [
       "C001120"
@@ -126,7 +331,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:53Z",
     "text_extraction_latest_update": "2026-07-13T06:02:56.407098Z"
   }
 }

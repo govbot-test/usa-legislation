@@ -21,6 +21,56 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Subcommittee on Federal Lands Discharged",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Subcommittee Hearings Held",
+      "date": "2025-12-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Federal Lands.",
+      "date": "2025-12-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
       "description": "Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.",
       "date": "2025-06-12T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -105,7 +155,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 3924, Wildfire Risk Evaluation Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62523",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -133,7 +195,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:13Z",
+    "logs_latest_update": "2026-07-14T13:14:40Z",
     "text_extraction_latest_update": "2026-07-13T08:03:26.966591Z"
   }
 }

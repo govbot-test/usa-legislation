@@ -16,6 +16,118 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-02-11T23:18:19+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 219 - 211 (Roll no. 65). (text: CR H2154)",
+      "date": "2026-02-11T23:18:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 219 - 211 (Roll no. 65).",
+      "date": "2026-02-11T23:18:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H2169)",
+      "date": "2026-02-11T23:06:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 72, the Chair put the question on passage of the joint resolution and by voice vote, announced the noes had prevailed. Mr. Meeks demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2026-02-11T21:06:24+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to a previous order of the House.",
+      "date": "2026-02-11T21:06:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "DEBATE - Pursuant to a previous order of the House, the House proceeded with one hour of debate on H.J. Res. 72.",
+      "date": "2026-02-11T19:58:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "Considered pursuant to a previous order. (consideration: CR H2154-2161)",
+      "date": "2026-02-11T19:58:38+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "Consideration initiated pursuant to a previous order.",
+      "date": "2026-02-11T19:58:22+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "ORDER OF PROCEDURE - Mr. Mast asked unanimous consent that it be in order at any time to consider in the House H.J. Res. 72 if called up by the chair of the Committee on Foreign Affairs or his designee; that all points of order against consideration of the joint resolution be waived; that the joint resolution be considered as read; that all points of order against provisions in the joint resolution be waived; and that the previous question be considered as ordered on the joint resolution to final passage without intervening motion except for one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Foreign Affairs or their respective designees.",
+      "date": "2026-02-11T02:55:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Foreign Affairs.",
       "date": "2025-03-06T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -133,6 +245,36 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres72rfs/xml/BILLS-119hjres72rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres72rfs/pdf/BILLS-119hjres72rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-12",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres72eh/xml/BILLS-119hjres72eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres72eh/pdf/BILLS-119hjres72eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-11",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -184,7 +326,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:17Z",
+    "logs_latest_update": "2026-07-14T13:14:50Z",
     "text_extraction_latest_update": "2026-07-13T06:07:12.020253Z"
   }
 }

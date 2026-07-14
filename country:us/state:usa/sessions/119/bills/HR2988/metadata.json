@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "No Discrimination in My Benefits Act"
+      "title": "Providing Complete Information to Retirement Investors Act"
     },
     {
       "note": "",
@@ -19,15 +19,15 @@
     },
     {
       "note": "",
-      "title": "Increase Retirement Earnings Act"
-    },
-    {
-      "note": "",
       "title": "To amend the Employee Retirement Income Security Act of 1974 to specify requirements concerning the consideration of pecuniary and non-pecuniary factors, and for other purposes."
     },
     {
       "note": "",
-      "title": "Providing Complete Information to Retirement Investors Act"
+      "title": "Increase Retirement Earnings Act"
+    },
+    {
+      "note": "",
+      "title": "No Discrimination in My Benefits Act"
     }
   ],
   "other_identifiers": [
@@ -36,6 +36,158 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "date": "2026-01-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-01-15T15:43:24+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 213 - 205 (Roll no. 31).",
+      "date": "2026-01-15T15:43:22+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 213 - 205 (Roll no. 31).",
+      "date": "2026-01-15T15:43:22+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "On motion to recommit Failed by the Yeas and Nays: 206 - 210 (Roll no. 30).",
+      "date": "2026-01-15T15:37:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "date": "2026-01-15T15:31:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Ms. Kaptur moved to recommit to the Committee on Education and Workforce. (text: CR H905)",
+      "date": "2026-01-15T15:31:06+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered on the amendment and the bill pursuant to the rule.",
+      "date": "2026-01-15T14:57:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "DEBATE - Pursuant to the provisions of H. Res. 988, the House proceeded with 10 minutes of debate on the Huizenga amendment No. 1.",
+      "date": "2026-01-15T14:48:50+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 2988.",
+      "date": "2026-01-15T14:03:58+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of H.R. 2988, H.R. 2262, H.R. 2270, H.R. 2312 and H.R. 4366. The resolution provides for consideration of H.R. 2988 under a structured rule, and H.R. 2262, H.R. 2270, H.R. 2312, and H.R. 4366 under a closed rule. The rule provides for one hour of general debate and one motion to recommit on each bill.",
+      "date": "2026-01-15T14:02:33+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 988. (consideration: CR H897-907; text of amendment in the nature of a substitute: CR H897-899)",
+      "date": "2026-01-15T14:02:28+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 988 Reported to House. Rule provides for consideration of H.R. 2988, H.R. 2262, H.R. 2270, H.R. 2312 and H.R. 4366. The resolution provides for consideration of H.R. 2988 under a structured rule, and H.R. 2262, H.R. 2270, H.R. 2312, and H.R. 4366 under a closed rule. The rule provides for one hour of general debate and one motion to recommit on each bill.",
+      "date": "2026-01-12T23:48:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 367.",
+      "date": "2025-12-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-421.",
+      "date": "2025-12-30T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
     {
       "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 21 - 15.",
       "date": "2025-06-25T04:00:00+00:00",
@@ -93,12 +245,67 @@
   ],
   "related_bills": [
     {
+      "identifier": "S 3083",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HRES 988",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "HR 1996",
       "legislative_session": "119",
       "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2988rfs/xml/BILLS-119hr2988rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2988rfs/pdf/BILLS-119hr2988rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-26",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2988eh/xml/BILLS-119hr2988eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2988eh/pdf/BILLS-119hr2988eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-15",
+      "classification": ""
+    },
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2988rh/xml/BILLS-119hr2988rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2988rh/pdf/BILLS-119hr2988rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-30",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -117,11 +324,44 @@
   ],
   "documents": [
     {
+      "note": "HAMDT 152",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/152",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HAMDT 151",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/151",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "CBO: H.R. 2988, Protecting Prudent Investment of Retirement Savings Act",
       "links": [
         {
           "url": "https://www.cbo.gov/publication/61770",
           "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-421",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt421/CRPT-119hrpt421.pdf",
+          "media_type": "application/pdf"
         }
       ],
       "date": "",
@@ -152,7 +392,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:45Z",
     "text_extraction_latest_update": "2026-07-13T11:10:00.815239Z"
   }
 }

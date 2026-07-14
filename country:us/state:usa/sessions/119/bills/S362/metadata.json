@@ -16,23 +16,43 @@
   ],
   "actions": [
     {
-      "description": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 332.",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:46Z"
+      }
+    },
+    {
+      "description": "Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment. With written report No. 119-103.",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:46Z"
+      }
+    },
+    {
+      "description": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.",
       "date": "2025-04-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:17Z"
+        "log_file_created": "2026-07-14T13:14:46Z"
       }
     },
     {
-      "description": "Committee on Energy and Natural Resources. Hearings held.",
+      "description": "Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 119-46.",
       "date": "2025-03-12T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:17Z"
+        "log_file_created": "2026-07-14T13:14:46Z"
       }
     },
     {
@@ -85,6 +105,21 @@
   ],
   "versions": [
     {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s362rs/xml/BILLS-119s362rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s362rs/pdf/BILLS-119s362rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-11",
+      "classification": ""
+    },
+    {
       "note": "Introduced in Senate",
       "links": [
         {
@@ -100,7 +135,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "S. Rept. 119-103",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/srpt103/CRPT-119srpt103.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -127,7 +174,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:17Z",
+    "logs_latest_update": "2026-07-14T13:14:48Z",
     "text_extraction_latest_update": "2026-07-13T13:04:20.873584Z"
   }
 }

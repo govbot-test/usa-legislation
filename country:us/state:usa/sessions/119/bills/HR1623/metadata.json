@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To require certain interactive computer services to adopt and operate technology verification measures to ensure that users of the platform are not minors, and for other purposes."
+      "title": "Shielding Children's Retinas from Egregious Exposure on the Net Act"
     },
     {
       "note": "",
-      "title": "Shielding Children's Retinas from Egregious Exposure on the Net Act"
+      "title": "To require certain interactive computer services to adopt and operate technology verification measures to ensure that users of the platform are not minors, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,36 @@
     }
   ],
   "actions": [
+    {
+      "description": "Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Voice Vote.",
+      "date": "2025-12-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Subcommittee Consideration and Mark-up Session Held",
+      "date": "2025-12-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade.",
+      "date": "2025-02-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Energy and Commerce.",
       "date": "2025-02-26T05:00:00+00:00",
@@ -251,6 +281,14 @@
       "organization_id": null
     },
     {
+      "name": "Chuck Edwards",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chuck Edwards\"}",
+      "organization_id": null
+    },
+    {
       "name": "Mary E. Miller",
       "classification": "primary",
       "entity_type": "person",
@@ -321,7 +359,8 @@
       "M001205",
       "B000740",
       "M001213",
-      "H001101"
+      "H001101",
+      "E000246"
     ],
     "sponsor_bioguides": [
       "M001211"
@@ -334,7 +373,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:55Z",
     "text_extraction_latest_update": "2026-07-13T09:31:49.189537Z"
   }
 }

@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Disaster Loan Accountability and Reform Act"
+      "title": "To improve accountability in the disaster loan program of the Small Business Administration, and for other purposes."
     },
     {
       "note": "",
-      "title": "To improve accountability in the disaster loan program of the Small Business Administration, and for other purposes."
+      "title": "Disaster Loan Accountability and Reform Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,130 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 448.",
+      "date": "2026-06-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-06-23T19:22:19+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4143-4144)",
+      "date": "2026-06-23T19:22:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.",
+      "date": "2026-06-23T19:22:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4238.",
+      "date": "2026-06-23T19:14:58+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules. (consideration: CR H4143-4145)",
+      "date": "2026-06-23T19:14:55+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-06-23T19:14:47+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 603.",
+      "date": "2026-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Committee on the Budget discharged.",
+      "date": "2026-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Small Business. H. Rept. 119-695, Part I.",
+      "date": "2026-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 0.",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
     {
       "description": "Referred to the Committee on Small Business, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-06-27T04:00:00+00:00",
@@ -195,6 +319,14 @@
       "organization_id": null
     },
     {
+      "name": "Maggie Goodlander",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maggie Goodlander\"}",
+      "organization_id": null
+    },
+    {
       "name": "Tim Moore",
       "classification": "primary",
       "entity_type": "person",
@@ -212,6 +344,51 @@
   ],
   "versions": [
     {
+      "note": "Placed on Calendar Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4238pcs/xml/BILLS-119hr4238pcs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4238pcs/pdf/BILLS-119hr4238pcs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-24",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4238eh/xml/BILLS-119hr4238eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4238eh/pdf/BILLS-119hr4238eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-23",
+      "classification": ""
+    },
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4238rh/xml/BILLS-119hr4238rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4238rh/pdf/BILLS-119hr4238rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-11",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -227,7 +404,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 4238, Disaster Loan Accountability and Reform Act or DLARA",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62528",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-695",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt695/CRPT-119hrpt695.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -258,7 +458,8 @@
       "B001323",
       "S001229",
       "L000596",
-      "M001204"
+      "M001204",
+      "G000604"
     ],
     "sponsor_bioguides": [
       "M001236"
@@ -271,7 +472,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:47Z",
     "text_extraction_latest_update": "2026-07-13T09:26:48.131912Z"
   }
 }

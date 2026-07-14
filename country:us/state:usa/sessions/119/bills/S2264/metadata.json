@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-03-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Committee on Veterans' Affairs. Hearings held.",
+      "date": "2025-12-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Veterans' Affairs.",
       "date": "2025-07-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -87,7 +107,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: S. 2264, Advancing Department of Veterans Affairs Emergency Response to Crises Act of 2026",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62291",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -115,7 +147,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:15Z",
+    "logs_latest_update": "2026-07-14T13:14:43Z",
     "text_extraction_latest_update": "2026-07-13T09:43:43.354721Z"
   }
 }

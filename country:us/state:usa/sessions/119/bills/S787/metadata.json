@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "A bill to amend title 38, United States Code, to establish a commission to review operations at the Veterans Health Administration and submit to Congress reports with respect to that review, and for other programs."
+      "title": "A bill to amend title 38, United States Code, to establish a commission to review operations at the Veterans Health Administration and submit to Congress reports with respect to that review, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -20,6 +20,100 @@
     }
   ],
   "actions": [
+    {
+      "description": "Held at the desk.",
+      "date": "2025-12-19T19:40:27+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Received in the House.",
+      "date": "2025-12-19T19:33:19+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2025-12-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Passed Senate with an amendment by Unanimous Consent. (text: CR S8897-8898)",
+      "date": "2025-12-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "date": "2025-12-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "The committee substitute as amended agreed to by Unanimous Consent.",
+      "date": "2025-12-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Measure laid before Senate by unanimous consent. (consideration: CR S8895-8898)",
+      "date": "2025-12-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 279.",
+      "date": "2025-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. With written report No. 119-98.",
+      "date": "2025-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
     {
       "description": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
       "date": "2025-07-30T04:00:00+00:00",
@@ -31,13 +125,13 @@
       }
     },
     {
-      "description": "Committee on Veterans' Affairs. Hearings held.",
+      "description": "Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 119-35.",
       "date": "2025-03-11T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:13Z"
+        "log_file_created": "2026-07-14T13:14:40Z"
       }
     },
     {
@@ -73,6 +167,14 @@
       "organization_id": null
     },
     {
+      "name": "Jerry Moran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jerry Moran\"}",
+      "organization_id": null
+    },
+    {
       "name": "Bill Cassidy",
       "classification": "primary",
       "entity_type": "person",
@@ -83,6 +185,36 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Engrossed in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s787es/xml/BILLS-119s787es.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s787es/pdf/BILLS-119s787es.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-18",
+      "classification": ""
+    },
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s787rs/xml/BILLS-119s787rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s787rs/pdf/BILLS-119s787rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-02",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -101,11 +233,33 @@
   ],
   "documents": [
     {
+      "note": "SAMDT 4142",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/4142",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "CBO: S. 787, VetPAC Act of 2025",
       "links": [
         {
           "url": "https://www.cbo.gov/publication/61746",
           "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S. Rept. 119-98",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/srpt98/CRPT-119srpt98.pdf",
+          "media_type": "application/pdf"
         }
       ],
       "date": "",
@@ -125,7 +279,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "H001042"
+      "H001042",
+      "M000934"
     ],
     "sponsor_bioguides": [
       "C001075"
@@ -138,7 +293,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:13Z",
+    "logs_latest_update": "2026-07-14T13:14:48Z",
     "text_extraction_latest_update": "2026-07-13T07:19:11.573073Z"
   }
 }

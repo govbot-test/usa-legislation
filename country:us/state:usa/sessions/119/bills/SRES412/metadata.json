@@ -38,13 +38,13 @@
       }
     },
     {
-      "description": "Considered by Senate.",
+      "description": "Considered by Senate. (consideration: CR S6929-6930)",
       "date": "2025-10-03T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:48Z"
       }
     },
     {
@@ -58,6 +58,16 @@
       }
     },
     {
+      "description": "Considered by Senate. (consideration: CR S6909-6916)",
+      "date": "2025-10-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
       "description": "By unanimous consent agreement, debate 10/2/2025.",
       "date": "2025-10-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -68,6 +78,16 @@
       }
     },
     {
+      "description": "Considered by Senate. (consideration: CR S6899-6903)",
+      "date": "2025-10-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
       "description": "Cloture on the measure invoked in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 540.",
       "date": "2025-10-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -75,6 +95,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T05:35:10Z"
+      }
+    },
+    {
+      "description": "By unanimous consent agreement, mandatory quorum required under Rule XXII waived.",
+      "date": "2025-10-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
       }
     },
     {
@@ -231,7 +261,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T06:40:02.646004Z"
   }
 }

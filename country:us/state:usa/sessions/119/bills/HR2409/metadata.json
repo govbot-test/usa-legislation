@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 2409",
-  "title": "Guidance Clarity Act",
+  "title": "Guidance Clarity Act of 2025",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,6 +12,10 @@
     {
       "note": "",
       "title": "To require a guidance clarity statement on certain agency guidance, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Guidance Clarity Act"
     }
   ],
   "other_identifiers": [
@@ -20,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 490.",
+      "date": "2026-03-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-569.",
+      "date": "2026-03-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
     {
       "description": "Ordered to be Reported by the Yeas and Nays: 23 - 19.",
       "date": "2025-05-21T04:00:00+00:00",
@@ -99,6 +123,30 @@
       "organization_id": null
     },
     {
+      "name": "Pat Fallon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pat Fallon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Byron Donalds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Byron Donalds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elise M. Stefanik",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elise M. Stefanik\"}",
+      "organization_id": null
+    },
+    {
       "name": "Eric Burlison",
       "classification": "primary",
       "entity_type": "person",
@@ -115,6 +163,21 @@
     }
   ],
   "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2409rh/xml/BILLS-119hr2409rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2409rh/pdf/BILLS-119hr2409rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-24",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -142,6 +205,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-569",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt569/CRPT-119hrpt569.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -160,7 +234,10 @@
       "G000592",
       "D000230",
       "C001108",
-      "G000603"
+      "G000603",
+      "F000246",
+      "D000032",
+      "S001196"
     ],
     "sponsor_bioguides": [
       "B001316"
@@ -173,7 +250,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:46Z",
     "text_extraction_latest_update": "2026-07-13T12:32:09.720740Z"
   }
 }

@@ -21,6 +21,100 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-01-12T20:46:21+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H623)",
+      "date": "2026-01-12T20:46:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H623)",
+      "date": "2026-01-12T20:46:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 909.",
+      "date": "2026-01-12T20:15:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules. (consideration: CR H623-626)",
+      "date": "2026-01-12T20:15:24+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Mrs. Wagner moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-01-12T20:15:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "CHAIR ANNOUNCEMENT - The Chair announced the Speaker's designation, pursuant to clause 7(a)(1) of rule 15, of H.R. 909 as the measure on the Consensus Calendar to be considered this week.",
+      "date": "2026-01-12T20:14:04+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Assigned to the Consensus Calendar, Calendar No. 1.",
+      "date": "2026-01-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
       "description": "Motion to place bill on Consensus Calendar filed by Mrs. Wagner.",
       "date": "2025-09-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -2657,6 +2751,22 @@
       "organization_id": null
     },
     {
+      "name": "Wesley Hunt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wesley Hunt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnny Olszewski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnny Olszewski\"}",
+      "organization_id": null
+    },
+    {
       "name": "Ann Wagner",
       "classification": "primary",
       "entity_type": "person",
@@ -2665,8 +2775,44 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 1892",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr909rfs/xml/BILLS-119hr909rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr909rfs/pdf/BILLS-119hr909rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-13",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr909eh/xml/BILLS-119hr909eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr909eh/pdf/BILLS-119hr909eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-12",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -3021,7 +3167,9 @@
       "G000598",
       "D000623",
       "W000830",
-      "B001296"
+      "B001296",
+      "H001095",
+      "O000176"
     ],
     "sponsor_bioguides": [
       "W000812"
@@ -3034,7 +3182,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:13Z",
+    "logs_latest_update": "2026-07-14T13:14:46Z",
     "text_extraction_latest_update": "2026-07-13T09:38:22.093716Z"
   }
 }

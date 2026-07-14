@@ -21,6 +21,70 @@
   ],
   "actions": [
     {
+      "description": "Held at the desk.",
+      "date": "2026-03-16T19:06:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Received in the House.",
+      "date": "2026-03-16T19:00:33+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-03-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S877-878; text: CR S877-878)",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
       "date": "2025-06-12T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -80,6 +144,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Engrossed in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2074es/xml/BILLS-119s2074es.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2074es/pdf/BILLS-119s2074es.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-05",
+      "classification": ""
+    },
+    {
       "note": "Introduced in Senate",
       "links": [
         {
@@ -124,7 +203,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:17Z",
+    "logs_latest_update": "2026-07-14T13:14:37Z",
     "text_extraction_latest_update": "2026-07-13T05:59:25.315121Z"
   }
 }

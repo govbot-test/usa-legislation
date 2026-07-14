@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2025-04-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -50,6 +60,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Steve Daines\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Sheehy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Sheehy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ben R. Luj\u00e1n",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ben R. Luj\\u00e1n\"}",
       "organization_id": null
     },
     {
@@ -85,7 +111,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: S. 1470, Continental Divide National Scenic Trail Completion Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62088",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -99,7 +137,9 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "D000618"
+      "D000618",
+      "S001232",
+      "L000570"
     ],
     "sponsor_bioguides": [
       "H001046"
@@ -112,7 +152,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:53Z",
     "text_extraction_latest_update": "2026-07-13T08:14:00.091671Z"
   }
 }

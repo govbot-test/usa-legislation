@@ -21,6 +21,36 @@
   ],
   "actions": [
     {
+      "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Subcommittee Consideration and Mark-up Session Held",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Environment.",
+      "date": "2025-06-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Energy and Commerce.",
       "date": "2025-06-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -103,6 +133,22 @@
       "organization_id": null
     },
     {
+      "name": "Thomas R. Suozzi",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas R. Suozzi\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lori Trahan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lori Trahan\"}",
+      "organization_id": null
+    },
+    {
       "name": "Joe Neguse",
       "classification": "primary",
       "entity_type": "person",
@@ -155,7 +201,9 @@
       "C001125",
       "M001163",
       "D000629",
-      "B001327"
+      "B001327",
+      "S001201",
+      "T000482"
     ],
     "sponsor_bioguides": [
       "N000191"
@@ -168,7 +216,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:40Z",
     "text_extraction_latest_update": "2026-07-13T07:34:32.434361Z"
   }
 }

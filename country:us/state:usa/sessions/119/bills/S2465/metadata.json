@@ -15,10 +15,6 @@
     },
     {
       "note": "",
-      "title": "Department of Transportation Appropriations Act, 2026"
-    },
-    {
-      "note": "",
       "title": "An original bill making appropriations for the Departments of Transportation, and Housing and Urban Development, and related agencies for the fiscal year ending September 30, 2026, and for other purposes."
     }
   ],
@@ -59,6 +55,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T05:35:10Z"
       }
+    },
+    {
+      "description": "Subcommittee on Transportation, Housing and Urban Development, and Related Agencies . Hearings held on the subject prior to the subcommittee ordering to be reported an original measure. With printed Hearing: S.Hrg. 119-72.",
+      "date": "2025-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -72,6 +78,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "HR 7148",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
     {
       "identifier": "HR 4552",
       "legislative_session": "119",
@@ -96,6 +107,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "SAMDT 4113",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/4113",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "S. Rept. 119-47",
       "links": [
@@ -132,7 +154,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:41Z",
     "text_extraction_latest_update": "2026-07-13T11:15:16.148989Z"
   }
 }

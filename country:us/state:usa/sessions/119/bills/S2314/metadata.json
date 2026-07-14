@@ -25,6 +25,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 349.",
+      "date": "2026-03-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-114.",
+      "date": "2026-03-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
       "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.",
       "date": "2025-07-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -67,6 +87,14 @@
       "organization_id": null
     },
     {
+      "name": "Ashley Moody",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ashley Moody\"}",
+      "organization_id": null
+    },
+    {
       "name": "Rick Scott",
       "classification": "primary",
       "entity_type": "person",
@@ -84,6 +112,21 @@
   ],
   "versions": [
     {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2314rs/xml/BILLS-119s2314rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2314rs/pdf/BILLS-119s2314rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-04",
+      "classification": ""
+    },
+    {
       "note": "Introduced in Senate",
       "links": [
         {
@@ -99,7 +142,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: S. 2314, SHARKED Act of 2025",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62106",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S. Rept. 119-114",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/srpt114/CRPT-119srpt114.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -113,7 +179,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "S001194"
+      "S001194",
+      "M001244"
     ],
     "sponsor_bioguides": [
       "S001217"
@@ -126,7 +193,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:15Z",
+    "logs_latest_update": "2026-07-14T13:14:42Z",
     "text_extraction_latest_update": "2026-07-13T12:56:00.476048Z"
   }
 }

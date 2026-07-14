@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 1468",
-  "title": "Protect America\u2019s Innovation and Economic Security from CCP Act of 2025",
+  "title": "Protect America\u2019s Innovation and Economic Security from CCP Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,6 +12,10 @@
     {
       "note": "",
       "title": "To establish the CCP Initiative program, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Protect America\u2019s Innovation and Economic Security from CCP Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -20,6 +24,46 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 607.",
+      "date": "2026-06-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Judiciary. H. Rept. 119-699.",
+      "date": "2026-06-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 14 - 9.",
+      "date": "2026-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on the Judiciary.",
       "date": "2025-02-21T05:00:00+00:00",
@@ -161,12 +205,32 @@
   ],
   "related_bills": [
     {
+      "identifier": "HR 1398",
+      "legislative_session": "118",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "S 672",
       "legislative_session": "119",
       "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1468rh/xml/BILLS-119hr1468rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1468rh/pdf/BILLS-119hr1468rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-15",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -183,7 +247,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 1468, Protect America\u2019s Innovation and Economic Security  from CCP Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62481",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-699",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt699/CRPT-119hrpt699.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -222,7 +309,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:15Z",
+    "logs_latest_update": "2026-07-14T13:14:54Z",
     "text_extraction_latest_update": "2026-07-13T06:06:48.706009Z"
   }
 }

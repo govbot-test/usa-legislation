@@ -1,20 +1,45 @@
 {
   "legislative_session": "119",
   "identifier": "HR 6061",
-  "title": "To prohibit the use of the Exchange Stabilization Fund of the Department of the Treasury to bail out Argentina's financial markets, and to instead use that funding to provide for a farmer tariff relief package.",
+  "title": "American Farmers First Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To prohibit the use of the Exchange Stabilization Fund of the Department of the Treasury to bail out Argentina's financial markets, and to instead use that funding to provide for a farmer tariff relief package."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr6061"
     }
   ],
   "actions": [
+    {
+      "description": "Subcommittee on General Farm Commodities, Risk Management, and Credit Discharged",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.",
+      "date": "2025-12-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
     {
       "description": "Sponsor introductory remarks on measure. (CR H4782)",
       "date": "2025-11-19T05:00:00+00:00",
@@ -108,6 +133,14 @@
       "organization_id": null
     },
     {
+      "name": "Mark Pocan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Pocan\"}",
+      "organization_id": null
+    },
+    {
       "name": "April McClain Delaney",
       "classification": "primary",
       "entity_type": "person",
@@ -117,7 +150,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6061ih/xml/BILLS-119hr6061ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6061ih/pdf/BILLS-119hr6061ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-17",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -138,7 +187,8 @@
       "S001226",
       "R000622",
       "M001231",
-      "M000687"
+      "M000687",
+      "P000607"
     ],
     "sponsor_bioguides": [
       "M001232"
@@ -151,7 +201,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:38Z",
     "text_extraction_latest_update": "2026-07-14T09:47:36.454590Z"
   }
 }

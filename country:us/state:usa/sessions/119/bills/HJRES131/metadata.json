@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HJRES 131",
-  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"Coastal Plain Oil and Gas Leasing Program Record of Decision\".",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Coastal Plain Oil and Gas Leasing Program Record of Decision.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Coastal Plain Oil and Gas Leasing Program Record of Decision."
+      "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"Coastal Plain Oil and Gas Leasing Program Record of Decision\"."
     }
   ],
   "other_identifiers": [
@@ -21,13 +21,91 @@
   ],
   "actions": [
     {
-      "description": "Received in the Senate.",
+      "description": "Became Public Law No: 119-52.",
+      "date": "2025-12-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2025-12-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Presented to President.",
+      "date": "2025-12-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2025-12-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Passed Senate without amendment by Yea-Nay Vote. 49 - 45. Record Vote Number: 632.",
+      "date": "2025-12-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 49 - 45. Record Vote Number: 632.",
+      "date": "2025-12-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Measure laid before Senate by motion. (consideration: CR S8500)",
+      "date": "2025-12-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Received in the Senate, read twice.",
       "date": "2025-11-19T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:11Z"
+        "log_file_created": "2026-07-14T13:14:34Z"
       }
     },
     {
@@ -181,6 +259,29 @@
   ],
   "versions": [
     {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres131enr/uslm/BILLS-119hjres131enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres131enr/uslm/BILLS-119hjres131enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres131enr/xml/BILLS-119hjres131enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres131enr/pdf/BILLS-119hjres131enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Engrossed in House",
       "links": [
         {
@@ -209,10 +310,34 @@
       ],
       "date": "2025-10-10",
       "classification": ""
+    },
+    {
+      "note": "Public Law",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ52/uslm/PLAW-119publ52.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ52/uslm/PLAW-119publ52.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-12",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-52",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ52/PLAW-119publ52.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres131.xml",
@@ -236,7 +361,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:40Z",
     "text_extraction_latest_update": "2026-07-13T07:37:36.216045Z"
   }
 }

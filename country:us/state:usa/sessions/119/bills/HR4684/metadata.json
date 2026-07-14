@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 4684",
-  "title": "Star-Spangled Summit Act of 2025",
+  "title": "Star-Spangled Summit Act of 2026",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -9,6 +9,10 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [
+    {
+      "note": "",
+      "title": "Star-Spangled Summit Act of 2025"
+    },
     {
       "note": "",
       "title": "To direct the Secretary of Agriculture to issue a special use permit with respect to the maintaining of a flagpole bearing the flag of the United States at Kyhv Peak Lookout Point, Utah, and for other purposes."
@@ -20,6 +24,150 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-05-19T19:58:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3570)",
+      "date": "2026-05-19T19:58:15+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3570)",
+      "date": "2026-05-19T19:58:15+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4684.",
+      "date": "2026-05-19T19:50:14+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules. (consideration: CR H3570-3572)",
+      "date": "2026-05-19T19:50:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Mr. Westerman moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-05-19T19:50:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 504.",
+      "date": "2026-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-584.",
+      "date": "2026-04-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Subcommittee on Federal Lands Discharged",
+      "date": "2026-03-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Subcommittee Hearings Held",
+      "date": "2026-01-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Federal Lands.",
+      "date": "2026-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Natural Resources.",
       "date": "2025-07-23T04:00:00+00:00",
@@ -64,6 +212,51 @@
   ],
   "versions": [
     {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4684rfs/xml/BILLS-119hr4684rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4684rfs/pdf/BILLS-119hr4684rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-20",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4684eh/xml/BILLS-119hr4684eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4684eh/pdf/BILLS-119hr4684eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-19",
+      "classification": ""
+    },
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4684rh/xml/BILLS-119hr4684rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4684rh/pdf/BILLS-119hr4684rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-02",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -79,7 +272,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 4684, Star-Spangled Summit Act of 2026",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62283",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-584",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt584/CRPT-119hrpt584.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -104,7 +320,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:36Z",
     "text_extraction_latest_update": "2026-07-13T10:02:01.404248Z"
   }
 }

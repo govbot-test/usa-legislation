@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Reported by the Committee on Natural Resources. H. Rept. 119-438, Part I.",
+      "date": "2026-01-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported by Unanimous Consent.",
       "date": "2025-06-25T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -176,6 +186,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-438",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt438/CRPT-119hrpt438.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
@@ -207,7 +228,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:48Z",
     "text_extraction_latest_update": "2026-07-13T08:40:40.145930Z"
   }
 }

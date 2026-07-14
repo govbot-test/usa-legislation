@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
+      "date": "2026-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2025-04-29T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -79,7 +99,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: S. 1518, Strengthening America\u2019s Turning Point Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62255",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -106,7 +138,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:20Z",
+    "logs_latest_update": "2026-07-14T13:14:41Z",
     "text_extraction_latest_update": "2026-07-13T09:54:55.149525Z"
   }
 }

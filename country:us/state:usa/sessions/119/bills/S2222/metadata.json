@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "S 2222",
-  "title": "Taiwan Undersea Cable Resilience Initiative Act",
+  "title": "Critical Undersea Infrastructure Resilience Initiative Act",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -9,6 +9,10 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [
+    {
+      "note": "",
+      "title": "Taiwan Undersea Cable Resilience Initiative Act"
+    },
     {
       "note": "",
       "title": "A bill to enhance the security, resilience, and protection of undersea communication cables vital to Taiwan's national security, economic stability, and defense, particularly in countering gray zone tactics employed by the People's Republic of China, and for other purposes."
@@ -20,6 +24,36 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 323.",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and an amendment to the title. Without written report.",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-01-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
     {
       "description": "Read twice and referred to the Committee on Foreign Relations.",
       "date": "2025-07-09T04:00:00+00:00",
@@ -53,6 +87,14 @@
       "organization_id": null
     },
     {
+      "name": "David H. McCormick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David H. McCormick\"}",
+      "organization_id": null
+    },
+    {
       "name": "John Curtis",
       "classification": "primary",
       "entity_type": "person",
@@ -61,8 +103,29 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 8177",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2222rs/xml/BILLS-119s2222rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2222rs/pdf/BILLS-119s2222rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-10",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -93,7 +156,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "R000608"
+      "R000608",
+      "M001243"
     ],
     "sponsor_bioguides": [
       "C001114"
@@ -106,7 +170,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:13Z",
+    "logs_latest_update": "2026-07-14T13:14:54Z",
     "text_extraction_latest_update": "2026-07-13T09:33:10.591219Z"
   }
 }

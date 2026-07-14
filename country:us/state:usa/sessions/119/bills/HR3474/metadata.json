@@ -21,6 +21,46 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 411.",
+      "date": "2026-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Reported by the Committee on Energy and Commerce. H. Rept. 119-481.",
+      "date": "2026-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported by the Yeas and Nays: 51 - 0.",
+      "date": "2025-12-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2025-12-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
       "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
       "date": "2025-11-19T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -357,6 +397,14 @@
       "organization_id": null
     },
     {
+      "name": "H. Morgan Griffith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"H. Morgan Griffith\"}",
+      "organization_id": null
+    },
+    {
       "name": "Randy K. Weber",
       "classification": "primary",
       "entity_type": "person",
@@ -367,6 +415,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3474rh/xml/BILLS-119hr3474rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3474rh/pdf/BILLS-119hr3474rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-04",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -383,7 +446,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 3474, Federal Mechanical Insulation Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62132",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-481",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt481/CRPT-119hrpt481.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -431,7 +517,8 @@
       "M001223",
       "C001125",
       "W000804",
-      "S000522"
+      "S000522",
+      "G000568"
     ],
     "sponsor_bioguides": [
       "W000814"
@@ -444,7 +531,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:20Z",
+    "logs_latest_update": "2026-07-14T13:14:52Z",
     "text_extraction_latest_update": "2026-07-13T06:28:39.274043Z"
   }
 }

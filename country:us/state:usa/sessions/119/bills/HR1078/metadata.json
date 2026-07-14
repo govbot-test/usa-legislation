@@ -21,6 +21,46 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 446.",
+      "date": "2026-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Financial Services. H. Rept. 119-521.",
+      "date": "2026-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 22.",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Financial Services.",
       "date": "2025-02-06T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -423,6 +463,94 @@
       "organization_id": null
     },
     {
+      "name": "Craig A. Goldman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Craig A. Goldman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Alford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Alford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Roger Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Roger Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Moore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pete Sessions",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pete Sessions\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Warren Davidson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Warren Davidson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brad Finstad",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brad Finstad\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Byron Donalds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Byron Donalds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Troy Downing",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Troy Downing\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Crank",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Crank\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Aaron Bean",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Aaron Bean\"}",
+      "organization_id": null
+    },
+    {
       "name": "Barry Loudermilk",
       "classification": "primary",
       "entity_type": "person",
@@ -440,6 +568,21 @@
   ],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1078rh/xml/BILLS-119hr1078rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1078rh/pdf/BILLS-119hr1078rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-25",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -455,7 +598,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 1078, Respect State Housing Laws Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62063",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-521",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt521/CRPT-119hrpt521.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -515,7 +681,18 @@
       "L000491",
       "S001224",
       "S001188",
-      "B001325"
+      "B001325",
+      "G000601",
+      "A000379",
+      "W000816",
+      "M001236",
+      "S000250",
+      "D000626",
+      "F000475",
+      "D000032",
+      "D000634",
+      "C001137",
+      "B001314"
     ],
     "sponsor_bioguides": [
       "L000583"
@@ -528,7 +705,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:13Z",
+    "logs_latest_update": "2026-07-14T13:14:39Z",
     "text_extraction_latest_update": "2026-07-13T10:07:06.963254Z"
   }
 }

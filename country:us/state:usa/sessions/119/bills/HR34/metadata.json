@@ -25,6 +25,26 @@
   ],
   "actions": [
     {
+      "description": "Subcommittee Hearings Held",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:46Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Federal Lands.",
+      "date": "2026-02-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:46Z"
+      }
+    },
+    {
       "description": "Referred to the Subcommittee on Forestry and Horticulture.",
       "date": "2025-01-31T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -173,6 +193,14 @@
       "organization_id": null
     },
     {
+      "name": "Nicholas J. Begich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nicholas J. Begich\"}",
+      "organization_id": null
+    },
+    {
       "name": "Paul A. Gosar",
       "classification": "primary",
       "entity_type": "person",
@@ -226,7 +254,8 @@
       "W000829",
       "V000135",
       "F000469",
-      "B001291"
+      "B001291",
+      "B001323"
     ],
     "sponsor_bioguides": [
       "G000565"
@@ -239,7 +268,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:53Z",
     "text_extraction_latest_update": "2026-07-13T07:02:09.785055Z"
   }
 }

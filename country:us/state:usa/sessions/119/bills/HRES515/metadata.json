@@ -16,6 +16,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 46 - 1.",
+      "date": "2026-01-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-01-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Foreign Affairs.",
       "date": "2025-06-13T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -250,6 +270,14 @@
       "organization_id": null
     },
     {
+      "name": "Brad Sherman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brad Sherman\"}",
+      "organization_id": null
+    },
+    {
       "name": "Michael T. McCaul",
       "classification": "primary",
       "entity_type": "person",
@@ -315,7 +343,8 @@
       "B001307",
       "M001194",
       "S000168",
-      "O000086"
+      "O000086",
+      "S000344"
     ],
     "sponsor_bioguides": [
       "M001157"
@@ -328,7 +357,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:20Z",
+    "logs_latest_update": "2026-07-14T13:14:56Z",
     "text_extraction_latest_update": "2026-07-13T10:39:16.837250Z"
   }
 }

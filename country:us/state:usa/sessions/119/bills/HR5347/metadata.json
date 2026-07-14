@@ -21,17 +21,111 @@
   ],
   "actions": [
     {
-      "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 43 - 0.",
-      "date": "2025-09-17T04:00:00+00:00",
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-06-29T18:57:44+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:18Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4272)",
+      "date": "2026-06-29T18:57:38+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4272)",
+      "date": "2026-06-29T18:57:38+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 5347.",
+      "date": "2026-06-29T18:46:44+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules. (consideration: CR H4272-4273)",
+      "date": "2026-06-29T18:46:42+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-06-29T18:46:29+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported by the Yeas and Nays: 44 - 0.",
+      "date": "2026-05-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
       "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-05-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.",
+      "date": "2026-05-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Subcommittee Consideration and Mark-up Session Held",
+      "date": "2026-05-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 43 - 0.",
       "date": "2025-09-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
@@ -50,6 +144,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T05:35:18Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2025-09-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
@@ -91,6 +195,14 @@
       "organization_id": null
     },
     {
+      "name": "Michael Lawler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Lawler\"}",
+      "organization_id": null
+    },
+    {
       "name": "Vern Buchanan",
       "classification": "primary",
       "entity_type": "person",
@@ -101,6 +213,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5347eh/xml/BILLS-119hr5347eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5347eh/pdf/BILLS-119hr5347eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -133,7 +260,8 @@
     "cosponsor_bioguides": [
       "P000613",
       "C001120",
-      "L000585"
+      "L000585",
+      "L000599"
     ],
     "sponsor_bioguides": [
       "B001260"
@@ -146,7 +274,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:50Z",
     "text_extraction_latest_update": "2026-07-13T09:59:43.339496Z"
   }
 }

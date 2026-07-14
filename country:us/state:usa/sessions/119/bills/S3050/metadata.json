@@ -25,6 +25,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Foreign Relations. Ordered to be reported without amendment favorably.",
+      "date": "2026-06-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Foreign Relations.",
       "date": "2025-10-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -121,7 +131,18 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 2296",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 6107",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in Senate",
@@ -173,7 +194,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:16Z",
+    "logs_latest_update": "2026-07-14T13:14:37Z",
     "text_extraction_latest_update": "2026-07-13T07:39:22.905107Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 5498",
-  "title": "Small Business Health Options Awareness Act of 2025",
+  "title": "Small Business Health Options Awareness Act of 2026",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,6 +12,10 @@
     {
       "note": "",
       "title": "To require the Administrator of the Small Business Administration to provide information to small business concerns on individual coverage health reimbursement arrangements, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Small Business Health Options Awareness Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -20,6 +24,56 @@
     }
   ],
   "actions": [
+    {
+      "description": "Supplemental report filed by the Committee on Small Business, H. Rept. 119-716, Part II.",
+      "date": "2026-07-02T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 622.",
+      "date": "2026-06-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Small Business. H. Rept. 119-716.",
+      "date": "2026-06-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 13 - 11.",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Small Business.",
       "date": "2025-09-18T04:00:00+00:00",
@@ -82,6 +136,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5498rh/xml/BILLS-119hr5498rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5498rh/pdf/BILLS-119hr5498rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-29",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -97,7 +166,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "H. Rept. 119-716,Part 2",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt716/CRPT-119hrpt716.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -126,7 +207,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:45Z",
     "text_extraction_latest_update": "2026-07-13T09:39:41.610734Z"
   }
 }

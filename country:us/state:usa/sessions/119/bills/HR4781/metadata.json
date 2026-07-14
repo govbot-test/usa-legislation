@@ -25,6 +25,26 @@
   ],
   "actions": [
     {
+      "description": "Subcommittee Hearings Held",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Energy and Mineral Resources.",
+      "date": "2026-02-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Natural Resources.",
       "date": "2025-07-29T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -179,6 +199,14 @@
       "organization_id": null
     },
     {
+      "name": "Craig A. Goldman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Craig A. Goldman\"}",
+      "organization_id": null
+    },
+    {
       "name": "Andy Barr",
       "classification": "primary",
       "entity_type": "person",
@@ -234,7 +262,8 @@
       "S001228",
       "B001322",
       "F000478",
-      "H001090"
+      "H001090",
+      "G000601"
     ],
     "sponsor_bioguides": [
       "B001282"
@@ -247,7 +276,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:49Z",
     "text_extraction_latest_update": "2026-07-13T08:27:56.525005Z"
   }
 }

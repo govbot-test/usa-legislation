@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Livestock, Dairy, and Poultry.",
+      "date": "2025-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:54Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Agriculture.",
       "date": "2025-10-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -135,6 +145,14 @@
       "organization_id": null
     },
     {
+      "name": "Melanie A. Stansbury",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Melanie A. Stansbury\"}",
+      "organization_id": null
+    },
+    {
       "name": "Harriet M. Hageman",
       "classification": "primary",
       "entity_type": "person",
@@ -185,7 +203,8 @@
       "G000596",
       "Z000018",
       "W000829",
-      "H001068"
+      "H001068",
+      "S001218"
     ],
     "sponsor_bioguides": [
       "H001096"
@@ -198,7 +217,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:54Z",
     "text_extraction_latest_update": "2026-07-13T07:51:10.746570Z"
   }
 }

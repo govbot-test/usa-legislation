@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Researching Efficient Federal Improvements for Necessary Energy Refining Act"
+      "title": "To require the Secretary of Energy to direct the National Petroleum Council to issue a report with respect to petrochemical refineries in the United States, and for other purposes."
     },
     {
       "note": "",
-      "title": "To require the Secretary of Energy to direct the National Petroleum Council to issue a report with respect to petrochemical refineries in the United States, and for other purposes."
+      "title": "Researching Efficient Federal Improvements for Necessary Energy Refining Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+      "date": "2025-12-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
     {
       "description": "Motion to reconsider laid on the table Agreed to without objection.",
       "date": "2025-11-20T22:30:49+00:00",
@@ -258,6 +268,21 @@
   ],
   "versions": [
     {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3109rfs/xml/BILLS-119hr3109rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3109rfs/pdf/BILLS-119hr3109rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-01",
+      "classification": ""
+    },
+    {
       "note": "Engrossed in House",
       "links": [
         {
@@ -353,7 +378,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:52Z",
     "text_extraction_latest_update": "2026-07-13T09:49:28.430709Z"
   }
 }

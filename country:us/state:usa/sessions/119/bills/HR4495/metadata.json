@@ -21,6 +21,80 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 281.",
+      "date": "2025-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2025-12-01T19:36:27+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4914-4916)",
+      "date": "2025-12-01T19:36:26+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4914-4916)",
+      "date": "2025-12-01T19:36:26+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 4495.",
+      "date": "2025-12-01T19:25:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules. (consideration: CR H4914-4916)",
+      "date": "2025-12-01T19:25:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "Mr. Williams (TX) moved to suspend the rules and pass the bill.",
+      "date": "2025-12-01T19:25:14+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
       "description": "Placed on the Union Calendar, Calendar No. 184.",
       "date": "2025-08-15T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -111,8 +185,44 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 1199",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Placed on Calendar Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4495pcs/xml/BILLS-119hr4495pcs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4495pcs/pdf/BILLS-119hr4495pcs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-02",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4495eh/xml/BILLS-119hr4495eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4495eh/pdf/BILLS-119hr4495eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-01",
+      "classification": ""
+    },
     {
       "note": "Reported in House",
       "links": [
@@ -184,7 +294,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:09Z",
+    "logs_latest_update": "2026-07-14T13:14:44Z",
     "text_extraction_latest_update": "2026-07-13T11:48:01.006503Z"
   }
 }

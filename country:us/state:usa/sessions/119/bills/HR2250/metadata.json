@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-431, Part I.",
+      "date": "2026-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.",
       "date": "2025-06-25T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -171,12 +181,17 @@
   ],
   "related_bills": [
     {
-      "identifier": "HR 3816",
+      "identifier": "HR 5089",
       "legislative_session": "119",
       "relation_type": "companion"
     },
     {
       "identifier": "S 1626",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 3816",
       "legislative_session": "119",
       "relation_type": "companion"
     }
@@ -205,6 +220,17 @@
         {
           "url": "https://www.cbo.gov/publication/61694",
           "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-431",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt431/CRPT-119hrpt431.pdf",
+          "media_type": "application/pdf"
         }
       ],
       "date": "",
@@ -244,7 +270,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:15Z",
+    "logs_latest_update": "2026-07-14T13:14:46Z",
     "text_extraction_latest_update": "2026-07-13T13:29:48.954326Z"
   }
 }

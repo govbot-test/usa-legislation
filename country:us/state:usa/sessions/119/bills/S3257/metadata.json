@@ -1,20 +1,35 @@
 {
   "legislative_session": "119",
   "identifier": "S 3257",
-  "title": "A bill to require the Administrator of the Federal Aviation Administration to revise regulations for certain individuals carrying out aviation activities who disclose a mental health diagnosis or condition, and for other purposes.",
+  "title": "Mental Health in Aviation Act of 2025",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to require the Administrator of the Federal Aviation Administration to revise regulations for certain individuals carrying out aviation activities who disclose a mental health diagnosis or condition, and for other purposes."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-s3257"
     }
   ],
   "actions": [
+    {
+      "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-04-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
     {
       "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
       "date": "2025-11-20T05:00:00+00:00",
@@ -128,6 +143,150 @@
       "organization_id": null
     },
     {
+      "name": "James E. Risch",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James E. Risch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Merkley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Merkley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bernie Moreno",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bernie Moreno\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Martin Heinrich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Martin Heinrich\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dan Sullivan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dan Sullivan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tammy Baldwin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tammy Baldwin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Kennedy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Kennedy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Raphael Warnock",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Raphael Warnock\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cindy Hyde-Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cindy Hyde-Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeanne Shaheen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Rounds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Rounds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ruben Gallego",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ruben Gallego\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Crapo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Crapo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher A. Coons",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher A. Coons\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Daines",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Daines\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ron Wyden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ron Wyden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Cassidy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Cassidy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elissa Slotkin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elissa Slotkin\"}",
+      "organization_id": null
+    },
+    {
       "name": "John Hoeven",
       "classification": "primary",
       "entity_type": "person",
@@ -137,8 +296,36 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
-  "documents": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3257is/xml/BILLS-119s3257is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3257is/pdf/BILLS-119s3257is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-20",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "CBO: S. 3257, Mental Health in Aviation Act of 2026",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62475",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -162,7 +349,25 @@
       "C001114",
       "R000122",
       "M000934",
-      "K000394"
+      "K000394",
+      "R000584",
+      "M001176",
+      "M001242",
+      "H001046",
+      "S001198",
+      "B001230",
+      "K000393",
+      "W000790",
+      "H001079",
+      "S001181",
+      "R000605",
+      "G000574",
+      "C000880",
+      "C001088",
+      "D000618",
+      "W000779",
+      "C001075",
+      "S001208"
     ],
     "sponsor_bioguides": [
       "H001061"
@@ -175,7 +380,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:47Z",
     "text_extraction_latest_update": "2026-07-14T09:47:37.025022Z"
   }
 }

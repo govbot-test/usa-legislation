@@ -16,6 +16,26 @@
   ],
   "actions": [
     {
+      "description": "Subcommittee Hearings Held",
+      "date": "2026-03-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Federal Lands.",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Natural Resources, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-07-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -41,6 +61,30 @@
     }
   ],
   "sponsorships": [
+    {
+      "name": "Celeste Maloy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Celeste Maloy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blake D. Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blake D. Moore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Kennedy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Kennedy\"}",
+      "organization_id": null
+    },
     {
       "name": "Burgess Owens",
       "classification": "primary",
@@ -81,7 +125,11 @@
     }
   ],
   "extras": {
-    "cosponsor_bioguides": [],
+    "cosponsor_bioguides": [
+      "M001228",
+      "M001213",
+      "K000403"
+    ],
     "sponsor_bioguides": [
       "O000086"
     ]
@@ -93,7 +141,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:30Z",
     "text_extraction_latest_update": "2026-07-13T11:13:04.788254Z"
   }
 }

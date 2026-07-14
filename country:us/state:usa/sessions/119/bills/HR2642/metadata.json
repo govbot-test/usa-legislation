@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2025-05-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2025-04-03T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -119,6 +129,14 @@
       "organization_id": null
     },
     {
+      "name": "David P. Joyce",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David P. Joyce\"}",
+      "organization_id": null
+    },
+    {
       "name": "Brian J. Mast",
       "classification": "primary",
       "entity_type": "person",
@@ -127,7 +145,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 3205",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in House",
@@ -167,7 +191,8 @@
       "F000474",
       "P000613",
       "H001098",
-      "V000138"
+      "V000138",
+      "J000295"
     ],
     "sponsor_bioguides": [
       "M001199"
@@ -180,7 +205,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:53Z",
     "text_extraction_latest_update": "2026-07-13T12:45:32.030171Z"
   }
 }

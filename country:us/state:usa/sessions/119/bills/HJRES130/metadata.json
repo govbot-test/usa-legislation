@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HJRES 130",
-  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"Buffalo Field Office Record of Decision and Approved Resource Management Plan Amendment\".",
+  "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Buffalo Field Office Record of Decision and Approved Resource Management Plan Amendment.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to Buffalo Field Office Record of Decision and Approved Resource Management Plan Amendment."
+      "title": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"Buffalo Field Office Record of Decision and Approved Resource Management Plan Amendment\"."
     }
   ],
   "other_identifiers": [
@@ -20,6 +20,42 @@
     }
   ],
   "actions": [
+    {
+      "description": "Became Public Law No: 119-51.",
+      "date": "2025-12-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2025-12-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Presented to President.",
+      "date": "2025-12-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
     {
       "description": "Message on Senate action sent to the House.",
       "date": "2025-11-20T05:00:00+00:00",
@@ -234,6 +270,14 @@
       "note": "Enrolled Bill",
       "links": [
         {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres130enr/uslm/BILLS-119hjres130enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres130enr/uslm/BILLS-119hjres130enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
           "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres130enr/xml/BILLS-119hjres130enr.xml",
           "media_type": "text/xml"
         },
@@ -274,10 +318,34 @@
       ],
       "date": "2025-10-08",
       "classification": ""
+    },
+    {
+      "note": "Public Law",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ51/uslm/PLAW-119publ51.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ51/uslm/PLAW-119publ51.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-12",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-51",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ51/PLAW-119publ51.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres130.xml",
@@ -303,7 +371,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:09Z",
+    "logs_latest_update": "2026-07-14T13:14:42Z",
     "text_extraction_latest_update": "2026-07-13T11:44:41.152954Z"
   }
 }

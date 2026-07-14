@@ -21,6 +21,192 @@
   ],
   "actions": [
     {
+      "description": "The Chair directed the Clerk to notify the Senate of the action of the House.",
+      "date": "2026-01-08T20:24:41+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "On motion to refer the bill and the accompanying veto message to the Committee on Natural Resources. Agreed to without objection.",
+      "date": "2026-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Motion to refer the bill and accompanying veto message to the Committee on Natural Resources.",
+      "date": "2026-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 248 - 177, 1 Present (Roll no. 9).",
+      "date": "2026-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Failed of passage in House over veto On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 248 - 177, 1 Present (Roll no. 9).",
+      "date": "2026-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "The Chair announced the unfinished business to be the consideration of the veto. (consideration: CR H212)",
+      "date": "2026-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on the veto message of the President to H.R. 131, the Chair put the question on will the House, on reconsideration, pass the bill, the objections of the President to the contrary notwithstanding. Under the Constitution, the vote must be taken by the yeas and nays. Further proceedings were postponed until a time to be announced.",
+      "date": "2026-01-08T18:53:27+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered without objection.",
+      "date": "2026-01-08T18:53:06+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "DEBATE - Pursuant to a previous order of the House of January 2, 2026, the unfinished business is the further consideration of the veto message of the President on H.R. 131. The House proceeded with one hour of debate on the objections of the President to the contrary notwithstanding. (consideration: CR H205-208)",
+      "date": "2026-01-08T18:28:07+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "The Chair laid before the House the veto message from the President.",
+      "date": "2026-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "POSTPONED CONSIDERATION OF VETO MESSAGE - The Chair announced that further consideration of the veto message and the bill, H.R. 131, is postponed until the legislative day of January 8, 2026. Agreed to without objection.",
+      "date": "2026-01-02T21:07:01+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "The Chair announced that the objections of the President to H.R. 131 would be spread at large upon the Journal and the veto message would be printed as a House Document (119-119).",
+      "date": "2026-01-02T21:07:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Vetoed by President.",
+      "date": "2025-12-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Presented to President.",
+      "date": "2025-12-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Passed Senate without amendment by Voice Vote. (consideration: CR S8766-8768)",
+      "date": "2025-12-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.",
+      "date": "2025-12-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.",
+      "date": "2025-12-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
       "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2025-07-22T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -75,13 +261,13 @@
       }
     },
     {
-      "description": "Considered under suspension of the rules. (consideration: CR H3497-3498: 1)",
+      "description": "Considered under suspension of the rules. (consideration: CR H3497-3498)",
       "date": "2025-07-21T20:31:48+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:17Z"
+        "log_file_created": "2026-07-14T13:14:34Z"
       }
     },
     {
@@ -179,12 +365,40 @@
   ],
   "related_bills": [
     {
+      "identifier": "HR 8646",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "S 296",
       "legislative_session": "119",
       "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr131enr/uslm/BILLS-119hr131enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr131enr/uslm/BILLS-119hr131enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr131enr/xml/BILLS-119hr131enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr131enr/pdf/BILLS-119hr131enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Referred in Senate",
       "links": [
@@ -285,7 +499,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:17Z",
+    "logs_latest_update": "2026-07-14T13:14:39Z",
     "text_extraction_latest_update": "2026-07-13T06:39:31.991781Z"
   }
 }

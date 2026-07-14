@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Water Resources and Environment.",
+      "date": "2025-12-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Transportation and Infrastructure.",
       "date": "2025-09-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -79,6 +89,22 @@
       "organization_id": null
     },
     {
+      "name": "Brian K. Fitzpatrick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian K. Fitzpatrick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julia Brownley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Julia Brownley\"}",
+      "organization_id": null
+    },
+    {
       "name": "Emilia Strong Sykes",
       "classification": "primary",
       "entity_type": "person",
@@ -122,7 +148,9 @@
       "B001327",
       "C001072",
       "N000147",
-      "P000621"
+      "P000621",
+      "F000466",
+      "B001285"
     ],
     "sponsor_bioguides": [
       "S001223"
@@ -135,7 +163,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T11:43:58.655579Z"
   }
 }

@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-03-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Committee on Veterans' Affairs. Hearings held.",
+      "date": "2025-12-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Veterans' Affairs.",
       "date": "2025-06-12T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -58,6 +78,62 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Adam B. Schiff\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elissa Slotkin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elissa Slotkin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cory Booker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cory Booker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tammy Duckworth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jacky Rosen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jacky Rosen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sheldon Whitehouse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sheldon Whitehouse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John F. Reed",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John F. Reed\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Bennet",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Bennet\"}",
       "organization_id": null
     },
     {
@@ -102,7 +178,14 @@
   "extras": {
     "cosponsor_bioguides": [
       "M001111",
-      "S001150"
+      "S001150",
+      "S001208",
+      "B001288",
+      "D000622",
+      "R000608",
+      "W000802",
+      "R000122",
+      "B001267"
     ],
     "sponsor_bioguides": [
       "B001277"
@@ -115,7 +198,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:31Z",
     "text_extraction_latest_update": "2026-07-13T10:37:55.926387Z"
   }
 }

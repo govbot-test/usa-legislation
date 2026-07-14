@@ -21,6 +21,46 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 478.",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:41Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Financial Services. H. Rept. 119-556.",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:41Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 30 - 24.",
+      "date": "2026-01-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:41Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-01-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:41Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Financial Services.",
       "date": "2025-03-03T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -159,6 +199,54 @@
       "organization_id": null
     },
     {
+      "name": "Mike Rogers",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Rogers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Ezell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Ezell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Richard Hudson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Richard Hudson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Diana Harshbarger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Diana Harshbarger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Celeste Maloy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Celeste Maloy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pat Harrigan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pat Harrigan\"}",
+      "organization_id": null
+    },
+    {
       "name": "Barry Loudermilk",
       "classification": "primary",
       "entity_type": "person",
@@ -169,6 +257,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1799rh/xml/BILLS-119hr1799rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1799rh/pdf/BILLS-119hr1799rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-19",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -185,7 +288,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 1799, Financial Reporting Threshold Modernization Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62185",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-556",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt556/CRPT-119hrpt556.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -212,7 +338,13 @@
       "S001200",
       "F000459",
       "N000193",
-      "B001325"
+      "B001325",
+      "R000575",
+      "E000235",
+      "H001067",
+      "H001086",
+      "M001228",
+      "H001101"
     ],
     "sponsor_bioguides": [
       "L000583"
@@ -225,7 +357,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:13Z",
+    "logs_latest_update": "2026-07-14T13:14:55Z",
     "text_extraction_latest_update": "2026-07-13T10:52:46.624583Z"
   }
 }

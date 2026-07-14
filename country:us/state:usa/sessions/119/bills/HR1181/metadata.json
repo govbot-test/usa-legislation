@@ -21,6 +21,56 @@
   ],
   "actions": [
     {
+      "description": "Rules Committee Resolution H. Res. 1377 Reported to House. Rule provides for consideration of H.R. 1181, H.R. 9022, H.R. 8595 and H.R. 9237. The resolution provides for consideration of H.R. 1181 and H.R. 9237 under a closed rule and H.R. 9022 and H.R. 8595 under a structured rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.",
+      "date": "2026-06-23T23:18:06+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 447.",
+      "date": "2026-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Financial Services. H. Rept. 119-522.",
+      "date": "2026-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 23.",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Financial Services.",
       "date": "2025-02-11T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -1071,6 +1121,38 @@
       "organization_id": null
     },
     {
+      "name": "Zachary Nunn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zachary Nunn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Warren Davidson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Warren Davidson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Burgess Owens",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Burgess Owens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David P. Joyce",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David P. Joyce\"}",
+      "organization_id": null
+    },
+    {
       "name": "Riley M. Moore",
       "classification": "primary",
       "entity_type": "person",
@@ -1079,8 +1161,29 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HRES 1377",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1181rh/xml/BILLS-119hr1181rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1181rh/pdf/BILLS-119hr1181rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-25",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -1097,7 +1200,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "H. Rept. 119-522",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt522/CRPT-119hrpt522.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -1238,7 +1353,11 @@
       "T000490",
       "M001224",
       "F000470",
-      "P000622"
+      "P000622",
+      "N000193",
+      "D000626",
+      "O000086",
+      "J000295"
     ],
     "sponsor_bioguides": [
       "M001235"
@@ -1251,7 +1370,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:16Z",
+    "logs_latest_update": "2026-07-14T13:14:46Z",
     "text_extraction_latest_update": "2026-07-13T12:00:03.409181Z"
   }
 }

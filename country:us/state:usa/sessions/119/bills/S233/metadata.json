@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 340.",
+      "date": "2026-02-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-111.",
+      "date": "2026-02-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
       "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
       "date": "2025-06-25T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -120,6 +140,21 @@
   ],
   "versions": [
     {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s233rs/xml/BILLS-119s233rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s233rs/pdf/BILLS-119s233rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-23",
+      "classification": ""
+    },
+    {
       "note": "Introduced in Senate",
       "links": [
         {
@@ -142,6 +177,17 @@
         {
           "url": "https://www.cbo.gov/publication/61689",
           "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S. Rept. 119-111",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/srpt111/CRPT-119srpt111.pdf",
+          "media_type": "application/pdf"
         }
       ],
       "date": "",
@@ -179,7 +225,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:31Z",
     "text_extraction_latest_update": "2026-07-13T09:37:37.907605Z"
   }
 }

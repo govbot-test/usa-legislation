@@ -33,6 +33,16 @@
       }
     },
     {
+      "description": "Sponsor introductory remarks on measure. (CR E1044)",
+      "date": "2025-11-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
       "description": "Introduced in House",
       "date": "2025-11-07T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -104,7 +114,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:13Z",
+    "logs_latest_update": "2026-07-14T13:14:31Z",
     "text_extraction_latest_update": "2026-07-13T12:48:57.904252Z"
   }
 }

@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.",
+      "date": "2026-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2025-02-25T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -80,7 +90,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: S. 700, a bill to require the Secretary of Agriculture to convey the Pleasant Valley Ranger District Administrative Site to Gila County, Arizona",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62174",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -107,7 +129,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:56Z",
     "text_extraction_latest_update": "2026-07-13T08:28:40.968538Z"
   }
 }

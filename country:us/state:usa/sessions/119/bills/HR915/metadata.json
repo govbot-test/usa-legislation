@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 915",
-  "title": "Small Business Technological Act of 2025",
+  "title": "Small Business Technological Advancement Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -9,6 +9,10 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [
+    {
+      "note": "",
+      "title": "Small Business Technological Act of 2025"
+    },
     {
       "note": "",
       "title": "To authorize small business loans to finance access to modern business software, and for other purposes."
@@ -20,6 +24,130 @@
     }
   ],
   "actions": [
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-06-24T21:17:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 4, 1 Present (Roll no. 226).",
+      "date": "2026-06-24T21:17:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 4, 1 Present (Roll no. 226).",
+      "date": "2026-06-24T21:17:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H4227)",
+      "date": "2026-06-24T21:06:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Williams (TX) objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.",
+      "date": "2026-06-23T19:14:21+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 915.",
+      "date": "2026-06-23T19:06:54+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules. (consideration: CR H4142-4143; text: CR H4142)",
+      "date": "2026-06-23T19:06:53+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-06-23T19:06:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 591.",
+      "date": "2026-06-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Reported by the Committee on Small Business. H. Rept. 119-678.",
+      "date": "2026-06-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported by the Yeas and Nays: 23 - 0.",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Small Business.",
       "date": "2025-02-04T05:00:00+00:00",
@@ -55,6 +183,22 @@
       "organization_id": null
     },
     {
+      "name": "Frank J. Mrvan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Frank J. Mrvan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Morgan McGarvey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Morgan McGarvey\"}",
+      "organization_id": null
+    },
+    {
       "name": "Mark Alford",
       "classification": "primary",
       "entity_type": "person",
@@ -72,6 +216,36 @@
   ],
   "versions": [
     {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr915eh/xml/BILLS-119hr915eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr915eh/pdf/BILLS-119hr915eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-24",
+      "classification": ""
+    },
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr915rh/xml/BILLS-119hr915rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr915rh/pdf/BILLS-119hr915rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-03",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -87,7 +261,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 915, Small Business Technological Act of 2025",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62527",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-678",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt678/CRPT-119hrpt678.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -101,7 +298,9 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "L000590"
+      "L000590",
+      "M001214",
+      "M001220"
     ],
     "sponsor_bioguides": [
       "A000379"
@@ -114,7 +313,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:53Z",
     "text_extraction_latest_update": "2026-07-13T11:18:58.143822Z"
   }
 }

@@ -21,6 +21,128 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "date": "2025-12-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2025-12-12T15:34:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 213 - 184 (Roll no. 334). (text: CR H5814-5816)",
+      "date": "2025-12-12T15:34:15+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 213 - 184 (Roll no. 334).",
+      "date": "2025-12-12T15:34:15+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "On motion to recommit Failed by the Yeas and Nays: 194 - 204 (Roll no. 333).",
+      "date": "2025-12-12T15:24:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "date": "2025-12-12T14:52:56+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Mr. Landsman moved to recommit to the Committee on Energy and Commerce. (text: CR H5820)",
+      "date": "2025-12-12T14:52:43+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2025-12-12T14:52:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 3668.",
+      "date": "2025-12-12T14:13:20+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of H.R. 3898, H.R. 3383, H.R. 3638, H.R. 3628, H.R. 3668 and S. 1071. The resolution provides for consideration of H.R. 3898, H.R. 3383, H.R. 3638, and H.R. 3628 under a structured rule; and H.R. 3668 and S. 1071 under a closed rule. The resolution provides for one motion to recommit on H.R. 3898, H.R. 3383, H.R. 3638, H.R. 3628, and H.R. 3668; and one motion to commit on S. 1071.",
+      "date": "2025-12-12T14:12:55+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 936. (consideration: CR H5814-5822)",
+      "date": "2025-12-12T14:12:50+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 936 Reported to House. Rule provides for consideration of H.R. 3898, H.R. 3383, H.R. 3638, H.R. 3628, H.R. 3668 and S. 1071. The resolution provides for consideration of H.R. 3898, H.R. 3383, H.R. 3638, and H.R. 3628 under a structured rule; and H.R. 3668 and S. 1071 under a closed rule. The resolution provides for one motion to recommit on H.R. 3898, H.R. 3383, H.R. 3638, H.R. 3628, and H.R. 3668; and one motion to commit on S. 1071.",
+      "date": "2025-12-10T00:52:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
       "description": "Supplemental report filed by the Committee on Energy and Commerce, H. Rept. 119-297, Part II.",
       "date": "2025-11-25T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -169,8 +291,44 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HRES 936",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3668rfs/xml/BILLS-119hr3668rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3668rfs/pdf/BILLS-119hr3668rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-15",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3668eh/xml/BILLS-119hr3668eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3668eh/pdf/BILLS-119hr3668eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-12",
+      "classification": ""
+    },
     {
       "note": "Reported in House",
       "links": [
@@ -215,7 +373,7 @@
       "classification": ""
     },
     {
-      "note": "H. Rept. 119-297",
+      "note": "H. Rept. 119-297,Part 1",
       "links": [
         {
           "url": "https://www.congress.gov/119/crpt/hrpt297/CRPT-119hrpt297.pdf",
@@ -254,7 +412,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:17Z",
+    "logs_latest_update": "2026-07-14T13:14:38Z",
     "text_extraction_latest_update": "2026-07-13T05:58:43.764468Z"
   }
 }

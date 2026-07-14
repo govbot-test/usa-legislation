@@ -1,20 +1,39 @@
 {
   "legislative_session": "119",
   "identifier": "S 3192",
-  "title": "A bill to require Transmission Organizations to allow aggregators of retail customers to submit to organized wholesale electric markets bids that aggregate demand flexibility of customers of certain utilities, and for other purposes.",
+  "title": "REDUCE Act",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to require Transmission Organizations to allow aggregators of retail customers to submit to organized wholesale electric markets bids that aggregate demand flexibility of customers of certain utilities, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Responsive Energy Demand Unlocks Clean Energy Act"
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-s3192"
     }
   ],
   "actions": [
+    {
+      "description": "Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held.",
+      "date": "2026-04-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
     {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S8207)",
       "date": "2025-11-18T05:00:00+00:00",
@@ -49,7 +68,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3192is/xml/BILLS-119s3192is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3192is/pdf/BILLS-119s3192is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-18",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -75,7 +110,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:49Z",
     "text_extraction_latest_update": "2026-07-14T09:47:36.966558Z"
   }
 }

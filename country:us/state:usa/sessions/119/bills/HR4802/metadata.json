@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Highways and Transit.",
+      "date": "2025-12-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Transportation and Infrastructure.",
       "date": "2025-07-29T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -167,6 +177,22 @@
       "organization_id": null
     },
     {
+      "name": "Nathaniel Moran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nathaniel Moran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Harder",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Harder\"}",
+      "organization_id": null
+    },
+    {
       "name": "Dusty Johnson",
       "classification": "primary",
       "entity_type": "person",
@@ -175,7 +201,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 4000",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in House",
@@ -221,7 +253,9 @@
       "H001101",
       "G000602",
       "E000235",
-      "S001221"
+      "S001221",
+      "M001224",
+      "H001090"
     ],
     "sponsor_bioguides": [
       "J000301"
@@ -234,7 +268,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:17Z",
+    "logs_latest_update": "2026-07-14T13:14:39Z",
     "text_extraction_latest_update": "2026-07-13T09:58:45.094289Z"
   }
 }

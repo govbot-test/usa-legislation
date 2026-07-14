@@ -36,18 +36,6 @@
       }
     },
     {
-      "description": "Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H1020)",
-      "date": "2025-03-06T15:58:28+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
-      }
-    },
-    {
       "description": "Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.  (text: CR H1020)",
       "date": "2025-03-06T15:58:28+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -190,7 +178,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:34Z",
     "text_extraction_latest_update": "2026-07-13T07:32:41.086870Z"
   }
 }

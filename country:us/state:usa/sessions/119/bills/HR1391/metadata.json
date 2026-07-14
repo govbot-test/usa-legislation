@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee Hearings Held",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:45Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2025-02-14T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -127,6 +137,14 @@
       "organization_id": null
     },
     {
+      "name": "Grace Meng",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Grace Meng\"}",
+      "organization_id": null
+    },
+    {
       "name": "Delia C. Ramirez",
       "classification": "primary",
       "entity_type": "person",
@@ -176,7 +194,8 @@
       "G000551",
       "S001226",
       "B001285",
-      "C001127"
+      "C001127",
+      "M001188"
     ],
     "sponsor_bioguides": [
       "R000617"
@@ -189,7 +208,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:50Z",
     "text_extraction_latest_update": "2026-07-13T12:57:29.878610Z"
   }
 }

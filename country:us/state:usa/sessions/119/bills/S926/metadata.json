@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Veterans' Affairs. Hearings held.",
+      "date": "2025-12-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Veterans' Affairs.",
       "date": "2025-03-11T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -53,6 +63,38 @@
       "organization_id": null
     },
     {
+      "name": "Susan M. Collins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Susan M. Collins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ruben Gallego",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ruben Gallego\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Boozman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Boozman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jacky Rosen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jacky Rosen\"}",
+      "organization_id": null
+    },
+    {
       "name": "Angus S. King",
       "classification": "primary",
       "entity_type": "person",
@@ -61,7 +103,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 1987",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in Senate",
@@ -93,7 +141,11 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "S001232"
+      "S001232",
+      "C001035",
+      "G000574",
+      "B001236",
+      "R000608"
     ],
     "sponsor_bioguides": [
       "K000383"
@@ -106,7 +158,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:46Z",
     "text_extraction_latest_update": "2026-07-13T11:50:39.458464Z"
   }
 }

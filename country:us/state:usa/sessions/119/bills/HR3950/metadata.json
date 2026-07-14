@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Transportation and Maritime Security.",
+      "date": "2025-06-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on the Judiciary, and in addition to the Committees on Oversight and Government Reform, Foreign Affairs, Financial Services, Education and Workforce, Homeland Security, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-06-12T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -46,6 +56,14 @@
     }
   ],
   "sponsorships": [
+    {
+      "name": "Barry Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barry Moore\"}",
+      "organization_id": null
+    },
     {
       "name": "Earl L. \"Buddy\" Carter",
       "classification": "primary",
@@ -86,7 +104,9 @@
     }
   ],
   "extras": {
-    "cosponsor_bioguides": [],
+    "cosponsor_bioguides": [
+      "M001212"
+    ],
     "sponsor_bioguides": [
       "C001103"
     ]
@@ -98,7 +118,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:45Z",
     "text_extraction_latest_update": "2026-07-13T09:07:49.187072Z"
   }
 }

@@ -16,6 +16,30 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-47.",
+      "date": "2025-12-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2025-12-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
       "description": "Presented to President.",
       "date": "2025-11-25T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -162,13 +186,13 @@
       }
     },
     {
-      "description": "Passed Senate without amendment by Yea-Nay Vote. 52 - 45. Record Vote Number: 599.",
+      "description": "Passed Senate without amendment by Yea-Nay Vote. 52 - 45. Record Vote Number: 599. (text: CR S7842)",
       "date": "2025-10-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:12Z"
+        "log_file_created": "2026-07-14T13:14:39Z"
       }
     },
     {
@@ -184,13 +208,13 @@
       }
     },
     {
-      "description": "Measure laid before Senate by unanimous consent.",
+      "description": "Measure laid before Senate by unanimous consent. (consideration: CR S7842)",
       "date": "2025-10-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:12Z"
+        "log_file_created": "2026-07-14T13:14:39Z"
       }
     },
     {
@@ -281,6 +305,14 @@
       "note": "Enrolled Bill",
       "links": [
         {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sjres80enr/uslm/BILLS-119sjres80enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sjres80enr/uslm/BILLS-119sjres80enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
           "url": "https://www.govinfo.gov/content/pkg/BILLS-119sjres80enr/xml/BILLS-119sjres80enr.xml",
           "media_type": "text/xml"
         },
@@ -336,10 +368,34 @@
       ],
       "date": "2025-09-18",
       "classification": ""
+    },
+    {
+      "note": "Public Law",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ47/uslm/PLAW-119publ47.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ47/uslm/PLAW-119publ47.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-06",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-47",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ47/PLAW-119publ47.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/sjres/BILLSTATUS-119sjres80.xml",
@@ -365,7 +421,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:43Z",
     "text_extraction_latest_update": "2026-07-13T07:57:23.705264Z"
   }
 }

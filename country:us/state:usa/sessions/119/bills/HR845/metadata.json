@@ -25,6 +25,148 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
+      "date": "2025-12-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2025-12-18T19:52:58+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 211 - 204 (Roll no. 360). (text of amendment in the nature of a substitute: CR H6050)",
+      "date": "2025-12-18T19:52:56+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 211 - 204 (Roll no. 360).",
+      "date": "2025-12-18T19:52:56+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "On motion to recommit Failed by the Yeas and Nays: 204 - 213 (Roll no. 359).",
+      "date": "2025-12-18T19:49:28+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H6070-6072)",
+      "date": "2025-12-18T19:46:37+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 845, the Chair put the question on motion to recommit and by voice vote announced that the noes had prevailed. Mr. Huffman demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2025-12-18T17:38:12+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "date": "2025-12-18T17:38:05+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Mr. Huffman moved to recommit to the Committee on Natural Resources. (text: CR H6056)",
+      "date": "2025-12-18T17:37:50+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2025-12-18T17:37:15+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 845.",
+      "date": "2025-12-18T16:40:03+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of H.R. 4776, H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632 and H.R. 4371. The resolution provides for consideration of H.R. 4776, under a structured rule and H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632, and H.R. 4371 under a closed rule. The resolution provides one motion to recommit on each bill.",
+      "date": "2025-12-18T16:39:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 951. (consideration: CR H6049-6056)",
+      "date": "2025-12-18T16:39:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 951 Reported to House. Rule provides for consideration of H.R. 4776, H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632 and H.R. 4371. The resolution provides for consideration of H.R. 4776, under a structured rule and H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632, and H.R. 4371 under a closed rule. The resolution provides one motion to recommit on each bill.",
+      "date": "2025-12-16T14:59:03+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
       "description": "Placed on the Union Calendar, Calendar No. 285.",
       "date": "2025-10-03T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -427,12 +569,47 @@
   ],
   "related_bills": [
     {
+      "identifier": "HRES 951",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "HR 130",
       "legislative_session": "119",
       "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr845eh/xml/BILLS-119hr845eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr845eh/pdf/BILLS-119hr845eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-18",
+      "classification": ""
+    },
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr845rfs/xml/BILLS-119hr845rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr845rfs/pdf/BILLS-119hr845rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-18",
+      "classification": ""
+    },
     {
       "note": "Reported in House",
       "links": [
@@ -465,6 +642,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "HAMDT 142",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/142",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "CBO: H.R. 845, Pet and Livestock Protection Act",
       "links": [
@@ -550,7 +738,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:32Z",
     "text_extraction_latest_update": "2026-07-13T09:26:11.647358Z"
   }
 }

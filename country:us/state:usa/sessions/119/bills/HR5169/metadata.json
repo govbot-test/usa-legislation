@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 383.",
+      "date": "2026-01-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-448.",
+      "date": "2026-01-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 35 - 0.",
       "date": "2025-09-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -107,8 +127,29 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 2403",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5169rh/xml/BILLS-119hr5169rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5169rh/pdf/BILLS-119hr5169rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-14",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -125,7 +166,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "H. Rept. 119-448",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt448/CRPT-119hrpt448.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -155,7 +208,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:20Z",
+    "logs_latest_update": "2026-07-14T13:14:46Z",
     "text_extraction_latest_update": "2026-07-13T07:50:16.846376Z"
   }
 }

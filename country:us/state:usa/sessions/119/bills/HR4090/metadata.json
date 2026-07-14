@@ -21,6 +21,158 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+      "date": "2026-02-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-02-04T21:07:01+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 224 - 195 (Roll no. 55). (text of amendment in the nature of a substitute: CR H1994)",
+      "date": "2026-02-04T21:07:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 224 - 195 (Roll no. 55). (text of amendment in the nature of a substitute: CR H1994)",
+      "date": "2026-02-04T21:07:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "On motion to recommit Failed by the Yeas and Nays: 209 - 212 (Roll no. 54).",
+      "date": "2026-02-04T21:00:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H2009-2010)",
+      "date": "2026-02-04T20:31:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 4090, the Chair put the question on motion to recommit and by voice vote, announced the noes had prevailed. Ms. Leger Fernandez demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2026-02-04T18:20:01+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "date": "2026-02-04T18:19:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Ms. Leger Fernandez moved to recommit to the Committee on Natural Resources. (text: CR H2002)",
+      "date": "2026-02-04T18:19:29+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2026-02-04T18:18:58+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 4090.",
+      "date": "2026-02-04T17:22:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of H.J. Res. 142 and H.R. 4090. The resolution provides for consideration of the Senate amendments to H.R. 7148. Also, the resolution provides for consideration of H.J. Res. 142 and H.R. 4090 under a closed rule and provides for one motion to recommit H.R. 4090.",
+      "date": "2026-02-04T17:20:46+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 1032. (consideration: CR H1993-2002)",
+      "date": "2026-02-04T17:20:41+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Rule H. Res. 1032 passed House.",
+      "date": "2026-02-03T17:34:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 1032 Reported to House. Rule provides for consideration of H.J. Res. 142 and H.R. 4090. The resolution provides for consideration of the Senate amendments to H.R. 7148. Also, the resolution provides for consideration of H.J. Res. 142 and H.R. 4090 under a closed rule and provides for one motion to recommit H.R. 4090.",
+      "date": "2026-02-03T14:26:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
       "description": "Placed on the Union Calendar, Calendar No. 337.",
       "date": "2025-11-25T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -141,8 +293,44 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HRES 1032",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4090rfs/xml/BILLS-119hr4090rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4090rfs/pdf/BILLS-119hr4090rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-05",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4090eh/xml/BILLS-119hr4090eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4090eh/pdf/BILLS-119hr4090eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-04",
+      "classification": ""
+    },
     {
       "note": "Reported in House",
       "links": [
@@ -174,7 +362,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "HAMDT 161",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/161",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-387",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt387/CRPT-119hrpt387.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -202,7 +413,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:42Z",
     "text_extraction_latest_update": "2026-07-13T12:58:12.896384Z"
   }
 }

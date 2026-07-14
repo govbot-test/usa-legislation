@@ -21,6 +21,100 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 377.",
+      "date": "2026-04-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-04-21T19:44:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 4 (Roll no. 128). (text: CR H3021-3022)",
+      "date": "2026-04-21T19:44:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 4 (Roll no. 128). (text: CR H3021-3022)",
+      "date": "2026-04-21T19:44:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (text: CR H3025)",
+      "date": "2026-04-21T19:37:22+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.",
+      "date": "2026-04-21T18:35:23+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 2493.",
+      "date": "2026-04-21T18:26:52+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules. (consideration: CR H3021-3023)",
+      "date": "2026-04-21T18:26:51+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Mrs. Harshbarger moved to suspend the rules and pass the bill.",
+      "date": "2026-04-21T18:26:42+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
       "description": "Placed on the Union Calendar, Calendar No. 278.",
       "date": "2025-10-03T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -174,6 +268,36 @@
   ],
   "versions": [
     {
+      "note": "Placed on Calendar Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2493pcs/xml/BILLS-119hr2493pcs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2493pcs/pdf/BILLS-119hr2493pcs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-22",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2493eh/xml/BILLS-119hr2493eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2493eh/pdf/BILLS-119hr2493eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-21",
+      "classification": ""
+    },
+    {
       "note": "Reported in House",
       "links": [
         {
@@ -205,6 +329,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "CBO: H.R. 2493, Improving Care in Rural America Reauthorization Act of 2025",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/61989",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "H. Rept. 119-325",
       "links": [
@@ -247,7 +382,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:53Z",
     "text_extraction_latest_update": "2026-07-13T12:56:58.689717Z"
   }
 }

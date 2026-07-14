@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Oversight and Investigations.",
+      "date": "2025-12-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.",
+      "date": "2025-09-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Foreign Affairs, Armed Services, Homeland Security, Oversight and Government Reform, the Judiciary, Energy and Commerce, Small Business, Education and Workforce, Financial Services, Veterans' Affairs, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-09-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -98,7 +118,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:49Z",
     "text_extraction_latest_update": "2026-07-13T06:18:11.396245Z"
   }
 }

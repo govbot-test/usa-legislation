@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2025-03-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -66,6 +76,38 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Angela Alsobrooks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rick Scott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rick Scott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David H. McCormick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David H. McCormick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James C. Justice",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James C. Justice\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Bennet",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Bennet\"}",
       "organization_id": null
     },
     {
@@ -117,7 +159,11 @@
     "cosponsor_bioguides": [
       "B001243",
       "D000622",
-      "A000382"
+      "A000382",
+      "S001217",
+      "M001243",
+      "J000312",
+      "B001267"
     ],
     "sponsor_bioguides": [
       "S001181"
@@ -130,7 +176,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:44Z",
     "text_extraction_latest_update": "2026-07-13T07:32:04.158620Z"
   }
 }

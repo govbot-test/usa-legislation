@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 1346",
-  "title": "Nationwide Consumer and Fuel Retailer Choice Act of 2025",
+  "title": "To amend the Clean Air Act with respect to the ethanol waiver for Reid Vapor Pressure under that Act, and for other purposes.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -11,7 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To amend the Clean Air Act with respect to the ethanol waiver for Reid Vapor Pressure under that Act, and for other purposes."
+      "title": "Nationwide Consumer and Fuel Retailer Choice Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -20,6 +20,158 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-05-13T22:26:59+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 218 - 203 (Roll no. 164). (text of amendment in the nature of a substitute: CR H3421-3422)",
+      "date": "2026-05-13T22:26:57+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 218 - 203 (Roll no. 164). (text of amendment in the nature of a substitute: CR H3421-3422)",
+      "date": "2026-05-13T22:26:57+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "On motion to recommit Failed by the Yeas and Nays: 112 - 309 (Roll no. 163).",
+      "date": "2026-05-13T22:19:42+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H3435-3436)",
+      "date": "2026-05-13T21:47:43+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1346, the Chair put the question on motion to recommit and by voice vote, announced the noes had prevailed. Mr. Perry demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2026-05-13T20:51:07+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "date": "2026-05-13T20:50:41+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Mr. Perry moved to recommit to the Committee on Energy and Commerce. (text: CR H3428)",
+      "date": "2026-05-13T20:50:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2026-05-13T20:49:53+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 1346.",
+      "date": "2026-05-13T19:58:13+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of H.R. 7567, H.R. 2616, S. Con. Res. 33, S. 1318 and H.R. 1346. The resolution provides for consideration of H.R. 7567 under a structured rule and H.R. 2616, S. Con. Res. 33, S. 1318, and H.R. 1346 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 7567, H.R. 2616, and H.R. 1346, and one motion to commit on S. 1318.",
+      "date": "2026-05-13T19:57:29+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 1224. (consideration: CR H3421-3428)",
+      "date": "2026-05-13T19:57:24+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Rule H. Res. 1224 passed House.",
+      "date": "2026-04-29T17:25:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 1224 Reported to House. Rule provides for consideration of H.R. 7567, H.R. 2616, S. Con. Res. 33, S. 1318 and H.R. 1346. The resolution provides for consideration of H.R. 7567 under a structured rule and H.R. 2616, S. Con. Res. 33, S. 1318, and H.R. 1346 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 7567, H.R. 2616, and H.R. 1346, and one motion to commit on S. 1318.",
+      "date": "2026-04-29T12:12:07+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Energy and Commerce.",
       "date": "2025-02-13T05:00:00+00:00",
@@ -431,6 +583,62 @@
       "organization_id": null
     },
     {
+      "name": "Marcy Kaptur",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marcy Kaptur\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julie Fedorchak",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Julie Fedorchak\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas P. Tiffany",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas P. Tiffany\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Erin Houchin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Erin Houchin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Riley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Riley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jonathan L. Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jonathan L. Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hillary J. Scholten",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hillary J. Scholten\"}",
+      "organization_id": null
+    },
+    {
       "name": "Adrian Smith",
       "classification": "primary",
       "entity_type": "person",
@@ -440,6 +648,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "HRES 1224",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
     {
       "identifier": "S 593",
       "legislative_session": "119",
@@ -452,6 +665,36 @@
     }
   ],
   "versions": [
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1346rfs/xml/BILLS-119hr1346rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1346rfs/pdf/BILLS-119hr1346rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-14",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1346eh/xml/BILLS-119hr1346eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1346eh/pdf/BILLS-119hr1346eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-13",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -468,7 +711,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "HAMDT 210",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/210",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "CBO: H.R. 1346, Nationwide Consumer and Fuel Retailer Choice Act of 2025",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62425",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -529,7 +795,14 @@
       "M001232",
       "M001194",
       "B001307",
-      "W000829"
+      "W000829",
+      "K000009",
+      "F000482",
+      "T000165",
+      "H001093",
+      "R000622",
+      "J000309",
+      "S001221"
     ],
     "sponsor_bioguides": [
       "S001172"
@@ -542,7 +815,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T08:44:39.953586Z"
   }
 }

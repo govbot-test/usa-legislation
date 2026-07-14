@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+      "date": "2025-06-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2025-06-05T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -135,7 +145,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:47Z",
     "text_extraction_latest_update": "2026-07-13T05:49:52.356057Z"
   }
 }

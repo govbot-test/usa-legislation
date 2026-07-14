@@ -25,6 +25,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 44 - 0.",
+      "date": "2026-04-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-04-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Foreign Affairs.",
       "date": "2025-11-17T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -75,6 +95,14 @@
       "organization_id": null
     },
     {
+      "name": "Jefferson Shreve",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jefferson Shreve\"}",
+      "organization_id": null
+    },
+    {
       "name": "Bill Huizenga",
       "classification": "primary",
       "entity_type": "person",
@@ -101,7 +129,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 6058, Semiconductor Technology Resilience, Integrity, and Defense Enhancement Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62403",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -117,7 +157,8 @@
     "cosponsor_bioguides": [
       "M001219",
       "C001120",
-      "L000599"
+      "L000599",
+      "S001229"
     ],
     "sponsor_bioguides": [
       "H001058"
@@ -130,7 +171,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:54Z",
     "text_extraction_latest_update": "2026-07-13T09:34:06.787569Z"
   }
 }

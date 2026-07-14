@@ -21,6 +21,30 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-43.",
+      "date": "2025-12-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2025-12-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
       "description": "Presented to President.",
       "date": "2025-11-25T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -43,13 +67,13 @@
       }
     },
     {
-      "description": "Passed Senate without amendment by Unanimous Consent.",
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S7976-7977)",
       "date": "2025-11-07T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:19Z"
+        "log_file_created": "2026-07-14T13:14:31Z"
       }
     },
     {
@@ -227,6 +251,14 @@
       "note": "Enrolled Bill",
       "links": [
         {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr695enr/uslm/BILLS-119hr695enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr695enr/uslm/BILLS-119hr695enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
           "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr695enr/xml/BILLS-119hr695enr.xml",
           "media_type": "text/xml"
         },
@@ -282,10 +314,34 @@
       ],
       "date": "2025-01-23",
       "classification": ""
+    },
+    {
+      "note": "Public Law",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ43/uslm/PLAW-119publ43.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ43/uslm/PLAW-119publ43.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-02",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-43",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ43/PLAW-119publ43.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr695.xml",
@@ -314,7 +370,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:38Z",
     "text_extraction_latest_update": "2026-07-13T12:29:56.194166Z"
   }
 }

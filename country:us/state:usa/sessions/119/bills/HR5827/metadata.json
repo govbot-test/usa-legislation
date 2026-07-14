@@ -11,23 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "End Banking for Human Traffickers Act of 2025"
-    },
-    {
-      "note": "",
-      "title": "Let America Vote Act"
-    },
-    {
-      "note": "",
-      "title": "KO Cancer Act"
-    },
-    {
-      "note": "",
-      "title": "Justice for ALS Veterans Act of 2025"
-    },
-    {
-      "note": "",
-      "title": "SAFER Schools Act of 2025"
+      "title": "Election Day Act"
     },
     {
       "note": "",
@@ -35,11 +19,11 @@
     },
     {
       "note": "",
-      "title": "MARKET CHOICE Act"
+      "title": "SAFER Schools Act of 2025"
     },
     {
       "note": "",
-      "title": "Modernizing America with Rebuilding to Kickstart the Economy of the Twenty-first Century with a Historic Infrastructure-Centered Expansion Act"
+      "title": "KO Cancer Act"
     },
     {
       "note": "",
@@ -47,7 +31,23 @@
     },
     {
       "note": "",
-      "title": "Election Day Act"
+      "title": "Modernizing America with Rebuilding to Kickstart the Economy of the Twenty-first Century with a Historic Infrastructure-Centered Expansion Act"
+    },
+    {
+      "note": "",
+      "title": "Let America Vote Act"
+    },
+    {
+      "note": "",
+      "title": "Justice for ALS Veterans Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "MARKET CHOICE Act"
+    },
+    {
+      "note": "",
+      "title": "End Banking for Human Traffickers Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -56,6 +56,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.",
+      "date": "2025-10-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Emergency Management and Technology.",
+      "date": "2025-10-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
     {
       "description": "Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, Natural Resources, Education and Workforce, Transportation and Infrastructure, Science, Space, and Technology, Agriculture, Appropriations, Armed Services, the Budget, Rules, Ethics, Financial Services, Foreign Affairs, Homeland Security, House Administration, the Judiciary, Intelligence (Permanent Select), Oversight and Government Reform, Small Business, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-10-24T04:00:00+00:00",
@@ -91,7 +111,48 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 3001",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 155",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 1685",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 3338",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 3761",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 3629",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 6636",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 6637",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in House",
@@ -134,7 +195,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:32Z",
     "text_extraction_latest_update": "2026-07-13T10:16:38.999356Z"
   }
 }

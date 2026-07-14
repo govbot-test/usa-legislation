@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-434, Part I.",
+      "date": "2026-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported (Amended) by Unanimous Consent.",
       "date": "2025-07-15T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -183,7 +193,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "H. Rept. 119-434",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt434/CRPT-119hrpt434.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -217,7 +239,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:17Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T06:57:26.634582Z"
   }
 }

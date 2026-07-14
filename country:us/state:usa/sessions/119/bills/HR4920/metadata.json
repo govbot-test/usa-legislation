@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Bureau of Industry and Security Information Technology Modernization Act"
+      "title": "To require modernization of information technology systems and applications of the Bureau of Industry and Security of the Department of Commerce."
     },
     {
       "note": "",
-      "title": "To require modernization of information technology systems and applications of the Bureau of Industry and Security of the Department of Commerce."
+      "title": "Bureau of Industry and Security Information Technology Modernization Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 39 - 5.",
+      "date": "2026-04-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-04-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Foreign Affairs.",
       "date": "2025-08-08T04:00:00+00:00",
@@ -83,6 +103,22 @@
       "organization_id": null
     },
     {
+      "name": "Michael Lawler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Lawler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brad Sherman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brad Sherman\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jason Crow",
       "classification": "primary",
       "entity_type": "person",
@@ -109,7 +145,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 4920, Bureau of Industry and Security Information Technology Modernization Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62401",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -126,7 +174,9 @@
       "K000398",
       "M001137",
       "K000400",
-      "F000466"
+      "F000466",
+      "L000599",
+      "S000344"
     ],
     "sponsor_bioguides": [
       "C001121"
@@ -139,7 +189,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:57Z",
     "text_extraction_latest_update": "2026-07-13T09:51:37.913386Z"
   }
 }

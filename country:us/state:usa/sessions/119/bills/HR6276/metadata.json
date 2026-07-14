@@ -1,20 +1,35 @@
 {
   "legislative_session": "119",
   "identifier": "HR 6276",
-  "title": "To require the Secretary of the Army to consult with stakeholders in determining the scope of contracts entered into for the purposes of maintenance dredging, and for other purposes.",
+  "title": "Dredging Coordination Improvement Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To require the Secretary of the Army to consult with stakeholders in determining the scope of contracts entered into for the purposes of maintenance dredging, and for other purposes."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr6276"
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Water Resources and Environment.",
+      "date": "2025-11-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:45Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Transportation and Infrastructure.",
       "date": "2025-11-21T05:00:00+00:00",
@@ -75,7 +90,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6276ih/xml/BILLS-119hr6276ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6276ih/pdf/BILLS-119hr6276ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-21",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -105,7 +136,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:52Z",
     "text_extraction_latest_update": "2026-07-14T09:47:36.399048Z"
   }
 }

@@ -16,6 +16,26 @@
   ],
   "actions": [
     {
+      "description": "Motion to discharge Senate Committee on Foreign Relations rejected by Yea-Nay Vote. 40 - 59. Record Vote Number: 80. (consideration: CR S1764-1779)",
+      "date": "2026-04-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Motion to discharge Senate Committee on Foreign Relations made. (Pursuant to the Arms Export Control Act of 1976).",
+      "date": "2026-04-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Foreign Relations.",
       "date": "2025-03-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -39,6 +59,22 @@
     }
   ],
   "sponsorships": [
+    {
+      "name": "Peter Welch",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peter Welch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Merkley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Merkley\"}",
+      "organization_id": null
+    },
     {
       "name": "Bernie Sanders",
       "classification": "primary",
@@ -85,7 +121,10 @@
     }
   ],
   "extras": {
-    "cosponsor_bioguides": [],
+    "cosponsor_bioguides": [
+      "W000800",
+      "M001176"
+    ],
     "sponsor_bioguides": [
       "S000033"
     ]
@@ -97,7 +136,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:15Z",
+    "logs_latest_update": "2026-07-14T13:14:38Z",
     "text_extraction_latest_update": "2026-07-13T12:56:32.317070Z"
   }
 }

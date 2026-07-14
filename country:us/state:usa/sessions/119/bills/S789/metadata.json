@@ -21,13 +21,23 @@
   ],
   "actions": [
     {
-      "description": "Committee on Energy and Natural Resources. Hearings held.",
+      "description": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 119-46.",
       "date": "2025-03-12T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:30Z"
       }
     },
     {
@@ -161,7 +171,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:36Z",
     "text_extraction_latest_update": "2026-07-13T12:50:16.186802Z"
   }
 }

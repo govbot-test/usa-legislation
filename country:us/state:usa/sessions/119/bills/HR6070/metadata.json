@@ -1,20 +1,35 @@
 {
   "legislative_session": "119",
   "identifier": "HR 6070",
-  "title": "To amend the Rural Electrification Act of 1936 to reauthorize the Community Connect Grant Program, and for other purposes.",
+  "title": "Community Connect Grant Program Act of 2025",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To amend the Rural Electrification Act of 1936 to reauthorize the Community Connect Grant Program, and for other purposes."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr6070"
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
+      "date": "2025-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
     {
       "description": "Referred to the Committee on Agriculture, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-11-17T05:00:00+00:00",
@@ -42,6 +57,14 @@
   ],
   "sponsorships": [
     {
+      "name": "Josh Gottheimer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Gottheimer\"}",
+      "organization_id": null
+    },
+    {
       "name": "Melanie A. Stansbury",
       "classification": "primary",
       "entity_type": "person",
@@ -50,8 +73,30 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
-  "versions": [],
+  "related_bills": [
+    {
+      "identifier": "S 4385",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6070ih/xml/BILLS-119hr6070ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6070ih/pdf/BILLS-119hr6070ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-17",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -65,7 +110,9 @@
     }
   ],
   "extras": {
-    "cosponsor_bioguides": [],
+    "cosponsor_bioguides": [
+      "G000583"
+    ],
     "sponsor_bioguides": [
       "S001218"
     ]
@@ -77,7 +124,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:42Z",
     "text_extraction_latest_update": "2026-07-14T09:47:37.679908Z"
   }
 }

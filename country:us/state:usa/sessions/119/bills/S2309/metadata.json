@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-03-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:41Z"
+      }
+    },
+    {
+      "description": "Committee on Veterans' Affairs. Hearings held.",
+      "date": "2025-12-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:41Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Veterans' Affairs.",
       "date": "2025-07-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -93,6 +113,14 @@
       "organization_id": null
     },
     {
+      "name": "Mike Lee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Lee\"}",
+      "organization_id": null
+    },
+    {
       "name": "John Boozman",
       "classification": "primary",
       "entity_type": "person",
@@ -125,7 +153,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: S. 2309, Veteran Burial Timeliness and Death Certificate Accountability Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62449",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -144,7 +184,8 @@
       "M001198",
       "R000618",
       "S001232",
-      "C001095"
+      "C001095",
+      "L000577"
     ],
     "sponsor_bioguides": [
       "B001236"
@@ -157,7 +198,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:15Z",
+    "logs_latest_update": "2026-07-14T13:14:52Z",
     "text_extraction_latest_update": "2026-07-13T07:03:37.468102Z"
   }
 }

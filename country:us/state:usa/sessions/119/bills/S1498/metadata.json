@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "S 1498",
-  "title": "Preventing Elected Leaders from Owning Securities and Investments (PELOSI) Act",
+  "title": "Halting Ownership and Non-Ethical Stock Transactions (HONEST) Act",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -9,6 +9,10 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [
+    {
+      "note": "",
+      "title": "Preventing Elected Leaders from Owning Securities and Investments (PELOSI) Act"
+    },
     {
       "note": "",
       "title": "A bill to amend chapter 131 of title 5, United States Code, to prohibit transactions involving certain financial instruments by Members of Congress."
@@ -20,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 294.",
+      "date": "2025-12-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
+      "description": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul with an amendment in the nature of a substitute. Without written report.",
+      "date": "2025-12-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
     {
       "description": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
       "date": "2025-07-30T04:00:00+00:00",
@@ -79,6 +103,22 @@
       "organization_id": null
     },
     {
+      "name": "Jeff Merkley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Merkley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Catherine Cortez Masto",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Catherine Cortez Masto\"}",
+      "organization_id": null
+    },
+    {
       "name": "Josh Hawley",
       "classification": "primary",
       "entity_type": "person",
@@ -87,14 +127,23 @@
       "organization_id": null
     }
   ],
-  "related_bills": [
-    {
-      "identifier": "HR 3388",
-      "legislative_session": "119",
-      "relation_type": "companion"
-    }
-  ],
+  "related_bills": [],
   "versions": [
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1498rs/xml/BILLS-119s1498rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1498rs/pdf/BILLS-119s1498rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-10",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -139,7 +188,9 @@
     "cosponsor_bioguides": [
       "M001242",
       "O000174",
-      "P000595"
+      "P000595",
+      "M001176",
+      "C001113"
     ],
     "sponsor_bioguides": [
       "H001089"
@@ -152,7 +203,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:35Z",
     "text_extraction_latest_update": "2026-07-13T07:38:24.463085Z"
   }
 }

@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To ensure consumers have access to data relating to motor vehicles of the consumers and critical repair information and tools for such motor vehicles, to provide such consumers with choices for the maintenance, service, and repair of such vehicles, and for other purposes."
+      "title": "Right to Equitable and Professional Auto Industry Repair Act"
     },
     {
       "note": "",
-      "title": "Right to Equitable and Professional Auto Industry Repair Act"
+      "title": "To ensure consumers have access to data relating to motor vehicles of the consumers and critical repair information and tools for such motor vehicles, to provide such consumers with choices for the maintenance, service, and repair of such vehicles, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,36 @@
     }
   ],
   "actions": [
+    {
+      "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Subcommittee Consideration and Mark-up Session Held",
+      "date": "2026-02-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade.",
+      "date": "2025-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Energy and Commerce.",
       "date": "2025-02-25T05:00:00+00:00",
@@ -291,14 +321,6 @@
       "organization_id": null
     },
     {
-      "name": "Delia C. Ramirez",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Delia C. Ramirez\"}",
-      "organization_id": null
-    },
-    {
       "name": "David Rouzer",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -344,6 +366,70 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Craig A. Goldman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "J. Luis Correa",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"J. Luis Correa\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Walberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Walberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Yassamin Ansari",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Yassamin Ansari\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Glenn Grothman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Glenn Grothman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maggie Goodlander",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maggie Goodlander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Schweikert",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Schweikert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Harder",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Harder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark B. Messmer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark B. Messmer\"}",
       "organization_id": null
     },
     {
@@ -417,13 +503,20 @@
       "D000634",
       "V000138",
       "B001301",
-      "R000617",
       "R000603",
       "N000191",
       "L000590",
       "C001087",
       "G000592",
-      "G000601"
+      "G000601",
+      "C001110",
+      "W000798",
+      "A000381",
+      "G000576",
+      "G000604",
+      "S001183",
+      "H001090",
+      "M001233"
     ],
     "sponsor_bioguides": [
       "D000628"
@@ -436,7 +529,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T10:15:56.330995Z"
   }
 }

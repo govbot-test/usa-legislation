@@ -12,6 +12,14 @@
     {
       "note": "",
       "title": "To amend the Energy Act of 2020 to include critical materials in the definition of critical mineral, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "To amend the Energy Act of 2020 to harmonize the lists of critical minerals and critical materials, and for other purposes"
+    },
+    {
+      "note": "",
+      "title": "To amend the Energy Act of 2020 to harmonize the lists of critical minerals and critical materials, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -20,6 +28,130 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 348.",
+      "date": "2026-03-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "The title of the measure was amended. Agreed to without objection.",
+      "date": "2026-03-03T21:05:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-03-03T21:05:07+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2353-2354)",
+      "date": "2026-03-03T21:05:05+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2353-2354)",
+      "date": "2026-03-03T21:05:05+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on H.R. 755.",
+      "date": "2026-03-03T20:38:41+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules. (consideration: CR H2353-2356)",
+      "date": "2026-03-03T20:38:40+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "Mr. Westerman moved to suspend the rules and pass the bill, as amended.",
+      "date": "2026-03-03T20:38:29+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 444.",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-519.",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Natural Resources.",
       "date": "2025-01-28T05:00:00+00:00",
@@ -162,6 +294,51 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Placed on Calendar Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr755pcs/xml/BILLS-119hr755pcs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr755pcs/pdf/BILLS-119hr755pcs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-04",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr755eh/xml/BILLS-119hr755eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr755eh/pdf/BILLS-119hr755eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-03-03",
+      "classification": ""
+    },
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr755rh/xml/BILLS-119hr755rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr755rh/pdf/BILLS-119hr755rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-24",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -177,7 +354,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "H. Rept. 119-519",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt519/CRPT-119hrpt519.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -216,7 +405,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:16Z",
+    "logs_latest_update": "2026-07-14T13:14:48Z",
     "text_extraction_latest_update": "2026-07-13T06:09:09.658871Z"
   }
 }

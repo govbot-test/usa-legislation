@@ -21,6 +21,118 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+      "date": "2025-12-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2025-12-17T23:15:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 225 - 203 (Roll no. 347). (text of amendment in the nature of a substitute: CR H6000)",
+      "date": "2025-12-17T23:15:14+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 225 - 203 (Roll no. 347).",
+      "date": "2025-12-17T23:15:14+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H6006)",
+      "date": "2025-12-17T23:09:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "At the conclusion of debate on H.R. 3616, the Chair put the question on passage of the bill and by voice vote announced the ayes had prevailed. Mr. Weber (TX) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2025-12-17T21:32:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2025-12-17T21:32:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 3616.",
+      "date": "2025-12-17T20:59:54+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of H.R. 4776, H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632 and H.R. 4371. The resolution provides for consideration of H.R. 4776, under a structured rule and H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632, and H.R. 4371 under a closed rule. The resolution provides one motion to recommit on each bill.",
+      "date": "2025-12-17T20:58:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 951. (consideration: CR H6000-6004)",
+      "date": "2025-12-17T20:58:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 951 Reported to House. Rule provides for consideration of H.R. 4776, H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632 and H.R. 4371. The resolution provides for consideration of H.R. 4776, under a structured rule and H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632, and H.R. 4371 under a closed rule. The resolution provides one motion to recommit on each bill.",
+      "date": "2025-12-16T14:59:03+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
       "description": "Supplemental report filed by the Committee on Energy and Commerce, H. Rept. 119-302, Part II.",
       "date": "2025-11-25T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -295,8 +407,44 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HRES 951",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3616rfs/xml/BILLS-119hr3616rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3616rfs/pdf/BILLS-119hr3616rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-18",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3616eh/xml/BILLS-119hr3616eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3616eh/pdf/BILLS-119hr3616eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-17",
+      "classification": ""
+    },
     {
       "note": "Reported in House",
       "links": [
@@ -330,6 +478,17 @@
   ],
   "documents": [
     {
+      "note": "HAMDT 137",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/137",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "CBO: H.R. 3616, Reliable Power Act",
       "links": [
         {
@@ -341,7 +500,7 @@
       "classification": ""
     },
     {
-      "note": "H. Rept. 119-302",
+      "note": "H. Rept. 119-302,Part 2",
       "links": [
         {
           "url": "https://www.congress.gov/119/crpt/hrpt302/CRPT-119hrpt302.pdf",
@@ -397,7 +556,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:13Z",
+    "logs_latest_update": "2026-07-14T13:14:45Z",
     "text_extraction_latest_update": "2026-07-13T07:53:44.350618Z"
   }
 }

@@ -16,6 +16,42 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-49.",
+      "date": "2025-12-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:49Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2025-12-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:49Z"
+      }
+    },
+    {
+      "description": "Presented to President.",
+      "date": "2025-12-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:49Z"
+      }
+    },
+    {
       "description": "Message on Senate action sent to the House.",
       "date": "2025-10-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -88,13 +124,13 @@
       }
     },
     {
-      "description": "On passage Passed by the Yeas and Nays: 215 - 211 (Roll no. 226). (text: CR H3791: 1)",
+      "description": "On passage Passed by the Yeas and Nays: 215 - 211 (Roll no. 226). (text: CR H3791)",
       "date": "2025-09-04T01:39:45+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:19Z"
+        "log_file_created": "2026-07-14T13:14:49Z"
       }
     },
     {
@@ -231,6 +267,14 @@
       "note": "Enrolled Bill",
       "links": [
         {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres105enr/uslm/BILLS-119hjres105enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres105enr/uslm/BILLS-119hjres105enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
           "url": "https://www.govinfo.gov/content/pkg/BILLS-119hjres105enr/xml/BILLS-119hjres105enr.xml",
           "media_type": "text/xml"
         },
@@ -286,10 +330,34 @@
       ],
       "date": "2025-07-10",
       "classification": ""
+    },
+    {
+      "note": "Public Law",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ49/uslm/PLAW-119publ49.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ49/uslm/PLAW-119publ49.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-12",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-49",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ49/PLAW-119publ49.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hjres/BILLSTATUS-119hjres105.xml",
@@ -313,7 +381,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:49Z",
     "text_extraction_latest_update": "2026-07-13T12:29:18.168920Z"
   }
 }

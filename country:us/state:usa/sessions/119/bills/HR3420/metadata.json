@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported (Amended) by Voice Vote.",
+      "date": "2026-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on the Judiciary.",
       "date": "2025-05-15T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -151,6 +171,22 @@
       "organization_id": null
     },
     {
+      "name": "Eric Sorensen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eric Sorensen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Seth Moulton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Seth Moulton\"}",
+      "organization_id": null
+    },
+    {
       "name": "Pete Sessions",
       "classification": "primary",
       "entity_type": "person",
@@ -177,7 +213,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 3420, Words Matter Act of 2026",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62479",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -203,7 +251,9 @@
       "B001291",
       "W000814",
       "F000466",
-      "V000134"
+      "V000134",
+      "S001225",
+      "M001196"
     ],
     "sponsor_bioguides": [
       "S000250"
@@ -216,7 +266,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:50Z",
     "text_extraction_latest_update": "2026-07-13T12:14:42.044098Z"
   }
 }

@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 5213",
-  "title": "Keep Violent Criminals Off Our Streets Act",
+  "title": "No Federal Funds for Cashless Bail Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -9,6 +9,10 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [
+    {
+      "note": "",
+      "title": "Keep Violent Criminals Off Our Streets Act"
+    },
     {
       "note": "",
       "title": "To amend the Omnibus Crime Control and Safe Streets Act of 1968 to prohibit the award of Edward Byrne Memorial Justice Assistance Grants to States or units of local government that limit the use of cash bail."
@@ -20,6 +24,46 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 554.",
+      "date": "2026-05-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Judiciary. H. Rept. 119-637.",
+      "date": "2026-05-04T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 10.",
+      "date": "2026-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on the Judiciary.",
       "date": "2025-09-08T04:00:00+00:00",
@@ -88,6 +132,21 @@
   ],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5213rh/xml/BILLS-119hr5213rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5213rh/pdf/BILLS-119hr5213rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-04",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -103,7 +162,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 5213, No Federal Funds for Cashless Bail Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62113",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-637",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt637/CRPT-119hrpt637.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -132,7 +214,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:13Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T06:55:14.614963Z"
   }
 }

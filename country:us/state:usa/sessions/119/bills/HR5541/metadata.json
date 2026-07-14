@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Forestry and Horticulture.",
+      "date": "2025-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:53Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Water Resources and Environment.",
+      "date": "2025-09-24T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:53Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-09-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -183,6 +203,22 @@
       "organization_id": null
     },
     {
+      "name": "Julia Brownley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Julia Brownley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Zoe Lofgren",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Zoe Lofgren\"}",
+      "organization_id": null
+    },
+    {
       "name": "Yassamin Ansari",
       "classification": "primary",
       "entity_type": "person",
@@ -239,7 +275,9 @@
       "M001225",
       "G000599",
       "W000831",
-      "C001125"
+      "C001125",
+      "B001285",
+      "L000397"
     ],
     "sponsor_bioguides": [
       "A000381"
@@ -252,7 +290,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:54Z",
     "text_extraction_latest_update": "2026-07-13T09:17:35.879188Z"
   }
 }

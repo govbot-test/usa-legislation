@@ -25,6 +25,16 @@
   ],
   "actions": [
     {
+      "description": "Rules Committee Resolution H. Res. 916 Reported to House. Rule provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965 and H.R. 4305. The resolution provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965, and H.R. 4305 under a closed rule with one hour of general debate and one motion to recommit on each bill.",
+      "date": "2025-12-02T01:46:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
       "description": "Supplemental report filed by the Committee on Education and Workforce, H. Rept. 119-270, Part IV.",
       "date": "2025-11-25T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -337,7 +347,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HRES 916",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Reported in House",
@@ -372,7 +388,7 @@
   ],
   "documents": [
     {
-      "note": "H. Rept. 119-270,Part 1",
+      "note": "H. Rept. 119-270,Part 4",
       "links": [
         {
           "url": "https://www.congress.gov/119/crpt/hrpt270/CRPT-119hrpt270.pdf",
@@ -429,7 +445,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:13Z",
+    "logs_latest_update": "2026-07-14T13:14:41Z",
     "text_extraction_latest_update": "2026-07-13T06:22:36.074181Z"
   }
 }

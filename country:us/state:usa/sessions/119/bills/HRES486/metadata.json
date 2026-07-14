@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Motion to Discharge Committee filed by Mr. Fitzpatrick. Petition No: 119-12. (<a href=\"https://clerk.house.gov/DischargePetition/2025121012\">Discharge petition</a> text with signatures.)",
+      "date": "2025-12-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Rules.",
       "date": "2025-06-06T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -93,7 +103,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:17Z",
+    "logs_latest_update": "2026-07-14T13:14:39Z",
     "text_extraction_latest_update": "2026-07-13T10:45:49.038696Z"
   }
 }

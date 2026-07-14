@@ -21,6 +21,56 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 439.",
+      "date": "2026-02-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Reported by the Committee on Natural Resources. H. Rept. 119-513.",
+      "date": "2026-02-23T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported by Unanimous Consent.",
+      "date": "2026-01-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-01-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Subcommittee on Indian and Insular Affairs Discharged",
+      "date": "2026-01-22T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
       "description": "Subcommittee Hearings Held",
       "date": "2025-05-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -99,6 +149,30 @@
       "organization_id": null
     },
     {
+      "name": "Sharice Davids",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sharice Davids\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Troy Downing",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Troy Downing\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julie Fedorchak",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Julie Fedorchak\"}",
+      "organization_id": null
+    },
+    {
       "name": "Dusty Johnson",
       "classification": "primary",
       "entity_type": "person",
@@ -116,6 +190,21 @@
   ],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2130rh/xml/BILLS-119hr2130rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2130rh/pdf/BILLS-119hr2130rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-23",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -131,7 +220,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 2130, Tribal Trust Land Homeownership Act of 2025",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62305",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-513",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt513/CRPT-119hrpt513.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -148,7 +260,10 @@
       "Z000018",
       "C001053",
       "N000191",
-      "L000273"
+      "L000273",
+      "D000629",
+      "D000634",
+      "F000482"
     ],
     "sponsor_bioguides": [
       "J000301"
@@ -161,7 +276,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:42Z",
     "text_extraction_latest_update": "2026-07-13T08:26:47.940240Z"
   }
 }

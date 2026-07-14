@@ -16,6 +16,106 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-59.",
+      "date": "2025-12-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2025-12-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
+      "description": "Presented to President.",
+      "date": "2025-12-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2025-12-09T22:26:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
+      "description": "On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5096)",
+      "date": "2025-12-09T22:26:15+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5096)",
+      "date": "2025-12-09T22:26:15+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with forty minutes of debate on S. 2283.",
+      "date": "2025-12-09T22:23:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
+      "description": "Considered under suspension of the rules. (consideration: CR H5096-5097)",
+      "date": "2025-12-09T22:23:38+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
+      "description": "Mr. Gill (TX) moved to suspend the rules and pass the bill.",
+      "date": "2025-12-09T22:23:30+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
       "description": "Held at the desk.",
       "date": "2025-10-17T18:23:07+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -48,13 +148,13 @@
       }
     },
     {
-      "description": "Passed Senate without amendment by Unanimous Consent.",
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S7101; text: CR S7101)",
       "date": "2025-10-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:16Z"
+        "log_file_created": "2026-07-14T13:14:44Z"
       }
     },
     {
@@ -120,8 +220,37 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 4836",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2283enr/uslm/BILLS-119s2283enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2283enr/uslm/BILLS-119s2283enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2283enr/xml/BILLS-119s2283enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2283enr/pdf/BILLS-119s2283enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Engrossed in Senate",
       "links": [
@@ -151,10 +280,34 @@
       ],
       "date": "2025-07-15",
       "classification": ""
+    },
+    {
+      "note": "Public Law",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ59/uslm/PLAW-119publ59.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ59/uslm/PLAW-119publ59.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-19",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-59",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ59/PLAW-119publ59.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s2283.xml",
@@ -180,7 +333,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:16Z",
+    "logs_latest_update": "2026-07-14T13:14:50Z",
     "text_extraction_latest_update": "2026-07-13T08:24:55.789971Z"
   }
 }

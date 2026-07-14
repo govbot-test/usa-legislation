@@ -1,20 +1,45 @@
 {
   "legislative_session": "119",
   "identifier": "HR 6271",
-  "title": "To provide supplemental appropriations to carry out the emergency food assistance program under the Emergency Food Assistance Act of 1983 in the event of a lapse in funding for the supplemental nutrition assistance program under the Food and Nutrition Act of 2008.",
+  "title": "Food Bank Emergency Support Act of 2025",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To provide supplemental appropriations to carry out the emergency food assistance program under the Emergency Food Assistance Act of 1983 in the event of a lapse in funding for the supplemental nutrition assistance program under the Food and Nutrition Act of 2008."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr6271"
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:45Z"
+      }
+    },
+    {
+      "description": "Sponsor introductory remarks on measure. (CR H4977)",
+      "date": "2025-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:45Z"
+      }
+    },
     {
       "description": "Referred to the Committee on Appropriations, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-11-21T05:00:00+00:00",
@@ -178,6 +203,54 @@
       "organization_id": null
     },
     {
+      "name": "Kelly Morrison",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kelly Morrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donald Norcross",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donald Norcross\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Luz M. Rivas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Luz M. Rivas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James R. Walkinshaw",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James R. Walkinshaw\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Cohen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Cohen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wesley Bell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wesley Bell\"}",
+      "organization_id": null
+    },
+    {
       "name": "April McClain Delaney",
       "classification": "primary",
       "entity_type": "person",
@@ -187,7 +260,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6271ih/xml/BILLS-119hr6271ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6271ih/pdf/BILLS-119hr6271ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-21",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -218,7 +307,13 @@
       "T000481",
       "T000468",
       "S001216",
-      "E000301"
+      "E000301",
+      "M001234",
+      "N000188",
+      "R000620",
+      "W000831",
+      "C001068",
+      "B001324"
     ],
     "sponsor_bioguides": [
       "M001232"
@@ -231,7 +326,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:15Z",
+    "logs_latest_update": "2026-07-14T13:14:50Z",
     "text_extraction_latest_update": "2026-07-14T09:47:37.255997Z"
   }
 }

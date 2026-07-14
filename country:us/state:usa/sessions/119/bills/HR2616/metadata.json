@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 2616",
-  "title": "PROTECT Kids Act",
+  "title": "Stopping Indoctrination and Protecting Kids Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -11,11 +11,15 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To require public elementary and middle schools that receive funds under the Elementary and Secondary Education Act of 1965 to obtain parental consent before changing a minor's gender markers, pronouns, or preferred name on any school form or sex-based accommodations, including locker rooms or bathrooms."
+      "title": "PROTECT Kids Act"
     },
     {
       "note": "",
       "title": "Parental Rights Over The Education and Care of Their Kids Act"
+    },
+    {
+      "note": "",
+      "title": "To require public elementary and middle schools that receive funds under the Elementary and Secondary Education Act of 1965 to obtain parental consent before changing a minor's gender markers, pronouns, or preferred name on any school form or sex-based accommodations, including locker rooms or bathrooms."
     }
   ],
   "other_identifiers": [
@@ -24,6 +28,168 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "date": "2026-05-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-05-20T21:22:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "On passage Passed by recorded vote: 217 - 198 (Roll no. 184). (text of amendment in the nature of a substitute: CR H3652)",
+      "date": "2026-05-20T21:22:08+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by recorded vote: 217 - 198 (Roll no. 184). (text of amendment in the nature of a substitute: CR H3652)",
+      "date": "2026-05-20T21:22:08+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "On motion to recommit Failed by the Yeas and Nays: 207 - 208 (Roll no. 183).",
+      "date": "2026-05-20T21:14:20+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H3660-3661)",
+      "date": "2026-05-20T21:08:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 2616, the Chair put the question on motion to recommit and by voice vote, announced the ayes had prevailed. Mr. Walberg demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2026-05-20T18:53:14+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "date": "2026-05-20T18:53:08+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "Ms. Balint moved to recommit to the Committee on Education and Workforce. (CR H3658)",
+      "date": "2026-05-20T18:52:54+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2026-05-20T18:52:19+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 2616.",
+      "date": "2026-05-20T18:19:19+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of H.R. 7567, H.R. 2616, S. Con. Res. 33, S. 1318 and H.R. 1346. The resolution provides for consideration of H.R. 7567 under a structured rule and H.R. 2616, S. Con. Res. 33, S. 1318, and H.R. 1346 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 7567, H.R. 2616, and H.R. 1346, and one motion to commit on S. 1318.",
+      "date": "2026-05-20T18:18:19+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 1224. (consideration: CR H3652-3659)",
+      "date": "2026-05-20T18:18:14+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 1224 Reported to House. Rule provides for consideration of H.R. 7567, H.R. 2616, S. Con. Res. 33, S. 1318 and H.R. 1346. The resolution provides for consideration of H.R. 7567 under a structured rule and H.R. 2616, S. Con. Res. 33, S. 1318, and H.R. 1346 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 7567, H.R. 2616, and H.R. 1346, and one motion to commit on S. 1318.",
+      "date": "2026-04-29T12:12:07+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 377.",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-441.",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
     {
       "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 12.",
       "date": "2025-04-09T04:00:00+00:00",
@@ -111,8 +277,59 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HRES 1224",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2616rfs/xml/BILLS-119hr2616rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2616rfs/pdf/BILLS-119hr2616rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-21",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2616eh/xml/BILLS-119hr2616eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2616eh/pdf/BILLS-119hr2616eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-20",
+      "classification": ""
+    },
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2616rh/xml/BILLS-119hr2616rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2616rh/pdf/BILLS-119hr2616rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-13",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -131,11 +348,33 @@
   ],
   "documents": [
     {
+      "note": "HAMDT 220",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/220",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "CBO: H.R. 2616, PROTECT Kids Act",
       "links": [
         {
           "url": "https://www.cbo.gov/publication/61352",
           "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-441",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt441/CRPT-119hrpt441.pdf",
+          "media_type": "application/pdf"
         }
       ],
       "date": "",
@@ -171,7 +410,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:53Z",
     "text_extraction_latest_update": "2026-07-13T12:16:11.648777Z"
   }
 }

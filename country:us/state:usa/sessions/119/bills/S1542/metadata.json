@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-06-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Foreign Relations.",
       "date": "2025-04-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -44,6 +54,14 @@
     }
   ],
   "sponsorships": [
+    {
+      "name": "Jeff Merkley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Merkley\"}",
+      "organization_id": null
+    },
     {
       "name": "John Curtis",
       "classification": "primary",
@@ -84,7 +102,9 @@
     }
   ],
   "extras": {
-    "cosponsor_bioguides": [],
+    "cosponsor_bioguides": [
+      "M001176"
+    ],
     "sponsor_bioguides": [
       "C001114"
     ]
@@ -96,7 +116,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:44Z",
     "text_extraction_latest_update": "2026-07-13T13:21:43.663637Z"
   }
 }

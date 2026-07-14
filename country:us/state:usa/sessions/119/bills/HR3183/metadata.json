@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Supporting Access to Falls Education and prevention and Strengthening Training Efforts and Promoting Safety initiatives for Veterans Act of 2025"
+      "title": "To amend title 38, United States Code, to establish the Office of Falls Prevention of the Department of Veterans Affairs, and for other purposes."
     },
     {
       "note": "",
-      "title": "To amend title 38, United States Code, to establish the Office of Falls Prevention of the Department of Veterans Affairs, and for other purposes."
+      "title": "Supporting Access to Falls Education and prevention and Strengthening Training Efforts and Promoting Safety initiatives for Veterans Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Committee Hearings Held",
+      "date": "2026-05-20T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:41Z"
+      }
+    },
     {
       "description": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-05-05T04:00:00+00:00",
@@ -83,6 +93,30 @@
       "organization_id": null
     },
     {
+      "name": "Kristen McDonald Rivet",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristen McDonald Rivet\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melanie A. Stansbury",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Melanie A. Stansbury\"}",
+      "organization_id": null
+    },
+    {
       "name": "Nikki Budzinski",
       "classification": "primary",
       "entity_type": "person",
@@ -132,7 +166,10 @@
       "F000462",
       "K000399",
       "B001301",
-      "B001257"
+      "B001257",
+      "M001237",
+      "M001238",
+      "S001218"
     ],
     "sponsor_bioguides": [
       "B001315"
@@ -145,7 +182,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:16Z",
+    "logs_latest_update": "2026-07-14T13:14:50Z",
     "text_extraction_latest_update": "2026-07-13T09:39:51.518183Z"
   }
 }

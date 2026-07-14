@@ -25,6 +25,26 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
+      "date": "2025-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Livestock, Dairy, and Poultry.",
+      "date": "2025-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Agriculture.",
       "date": "2025-10-31T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -75,6 +95,14 @@
       "organization_id": null
     },
     {
+      "name": "John W. Mannion",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John W. Mannion\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jim Costa",
       "classification": "primary",
       "entity_type": "person",
@@ -117,7 +145,8 @@
     "cosponsor_bioguides": [
       "V000129",
       "P000597",
-      "G000605"
+      "G000605",
+      "M001231"
     ],
     "sponsor_bioguides": [
       "C001059"
@@ -130,7 +159,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:13Z",
+    "logs_latest_update": "2026-07-14T13:14:37Z",
     "text_extraction_latest_update": "2026-07-13T10:22:43.563605Z"
   }
 }

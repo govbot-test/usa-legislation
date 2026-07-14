@@ -21,6 +21,118 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+      "date": "2025-12-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:46Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2025-12-11T19:16:05+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:46Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 218 - 207 (Roll no. 323).",
+      "date": "2025-12-11T19:16:04+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:46Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 218 - 207 (Roll no. 323).",
+      "date": "2025-12-11T19:16:04+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:46Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H5789)",
+      "date": "2025-12-11T19:08:41+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:46Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 3628, the Chair put the question on passage of the bill and by voice vote announced the ayes had prevailed. Mr. Pallone demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2025-12-10T23:42:37+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:46Z"
+      }
+    },
+    {
+      "description": "DEBATE - Pursuant to the provisions of H. Res. 936, the House proceeded with 10 minutes of debate on the Moore (WV) amendment No. 1",
+      "date": "2025-12-10T23:34:04+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:46Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 3628.",
+      "date": "2025-12-10T22:56:53+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:46Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of H.R. 3898, H.R. 3383, H.R. 3638, H.R. 3628, H.R. 3668 and S. 1071. The resolution provides for consideration of H.R. 3898, H.R. 3383, H.R. 3638, and H.R. 3628 under a structured rule; and H.R. 3668 and S. 1071 under a closed rule. The resolution provides for one motion to recommit on H.R. 3898, H.R. 3383, H.R. 3638, H.R. 3628, and H.R. 3668; and one motion to commit on S. 1071.",
+      "date": "2025-12-10T22:56:30+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:46Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 936. (consideration: CR H5522-5528; text: CR H5522-5523)",
+      "date": "2025-12-10T22:56:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:46Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 936 Reported to House. Rule provides for consideration of H.R. 3898, H.R. 3383, H.R. 3638, H.R. 3628, H.R. 3668 and S. 1071. The resolution provides for consideration of H.R. 3898, H.R. 3383, H.R. 3638, and H.R. 3628 under a structured rule; and H.R. 3668 and S. 1071 under a closed rule. The resolution provides for one motion to recommit on H.R. 3898, H.R. 3383, H.R. 3638, H.R. 3628, and H.R. 3668; and one motion to commit on S. 1071.",
+      "date": "2025-12-10T00:52:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:46Z"
+      }
+    },
+    {
       "description": "Placed on the Union Calendar, Calendar No. 260.",
       "date": "2025-09-19T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -135,12 +247,47 @@
   ],
   "related_bills": [
     {
+      "identifier": "HRES 936",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "HR 3143",
       "legislative_session": "119",
       "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3628rfs/xml/BILLS-119hr3628rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3628rfs/pdf/BILLS-119hr3628rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-15",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3628eh/xml/BILLS-119hr3628eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3628eh/pdf/BILLS-119hr3628eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-11",
+      "classification": ""
+    },
     {
       "note": "Reported in House",
       "links": [
@@ -173,6 +320,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "HAMDT 117",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/117",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "CBO: H.R. 3628, State Planning for Reliability and Affordability Act",
       "links": [
@@ -222,7 +380,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:17Z",
+    "logs_latest_update": "2026-07-14T13:14:53Z",
     "text_extraction_latest_update": "2026-07-13T09:16:53.532366Z"
   }
 }

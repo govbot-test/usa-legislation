@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2025-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2025-04-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -119,6 +129,30 @@
       "organization_id": null
     },
     {
+      "name": "Morgan McGarvey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Morgan McGarvey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Seth Moulton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Seth Moulton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe Neguse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joe Neguse\"}",
+      "organization_id": null
+    },
+    {
       "name": "Chellie Pingree",
       "classification": "primary",
       "entity_type": "person",
@@ -173,7 +207,10 @@
       "L000397",
       "C001072",
       "B001285",
-      "F000110"
+      "F000110",
+      "M001220",
+      "M001196",
+      "N000191"
     ],
     "sponsor_bioguides": [
       "P000597"
@@ -186,7 +223,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:52Z",
     "text_extraction_latest_update": "2026-07-13T12:06:42.224780Z"
   }
 }

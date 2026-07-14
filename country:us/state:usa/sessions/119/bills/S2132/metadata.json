@@ -25,6 +25,90 @@
   ],
   "actions": [
     {
+      "description": "Held at the desk.",
+      "date": "2026-04-22T17:41:23+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Received in the House.",
+      "date": "2026-04-22T17:35:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-04-22T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Passed Senate with an amendment by Voice Vote. (consideration: CR S1854; text of amendment in the nature of a substitute: CR S1854-1855)",
+      "date": "2026-04-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.",
+      "date": "2026-04-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 305.",
+      "date": "2026-01-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.",
+      "date": "2026-01-28T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-01-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on the Judiciary.",
       "date": "2025-06-18T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -73,6 +157,14 @@
       "organization_id": null
     },
     {
+      "name": "Christopher A. Coons",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher A. Coons\"}",
+      "organization_id": null
+    },
+    {
       "name": "John Cornyn",
       "classification": "primary",
       "entity_type": "person",
@@ -81,8 +173,44 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 6106",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Engrossed in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2132es/xml/BILLS-119s2132es.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2132es/pdf/BILLS-119s2132es.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-21",
+      "classification": ""
+    },
+    {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2132rs/xml/BILLS-119s2132rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2132rs/pdf/BILLS-119s2132rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-28",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -99,7 +227,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: S. 2132, CLEAR Path Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62039",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -115,7 +255,8 @@
     "cosponsor_bioguides": [
       "W000800",
       "R000584",
-      "W000802"
+      "W000802",
+      "C001088"
     ],
     "sponsor_bioguides": [
       "C001056"
@@ -128,7 +269,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:52Z",
     "text_extraction_latest_update": "2026-07-13T09:04:19.665828Z"
   }
 }

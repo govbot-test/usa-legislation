@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 151",
-  "title": "Equal Representation Act",
+  "title": "Equal Representation Act of 2025",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -9,6 +9,10 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [
+    {
+      "note": "",
+      "title": "Equal Representation Act"
+    },
     {
       "note": "",
       "title": "To require a citizenship question on the decennial census, to require reporting on certain census statistics, and to modify apportionment of Representatives to be based on United States citizens instead of all persons."
@@ -20,6 +24,46 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 536.",
+      "date": "2026-04-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-619.",
+      "date": "2026-04-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 19.",
+      "date": "2025-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2025-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
     {
       "description": "Sponsor introductory remarks on measure. (CR E21)",
       "date": "2025-01-13T05:00:00+00:00",
@@ -577,6 +621,14 @@
       "organization_id": null
     },
     {
+      "name": "Byron Donalds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Byron Donalds\"}",
+      "organization_id": null
+    },
+    {
       "name": "Chuck Edwards",
       "classification": "primary",
       "entity_type": "person",
@@ -590,9 +642,29 @@
       "identifier": "S 2205",
       "legislative_session": "119",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 7167",
+      "legislative_session": "119",
+      "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr151rh/xml/BILLS-119hr151rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr151rh/pdf/BILLS-119hr151rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-21",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -609,7 +681,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 151, Equal Representation Act of 2025",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62374",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-619",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt619/CRPT-119hrpt619.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -687,7 +782,8 @@
       "M000871",
       "W000829",
       "S001224",
-      "M000194"
+      "M000194",
+      "D000032"
     ],
     "sponsor_bioguides": [
       "E000246"
@@ -700,7 +796,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:57Z",
     "text_extraction_latest_update": "2026-07-13T06:14:31.658052Z"
   }
 }

@@ -15,15 +15,7 @@
     },
     {
       "note": "",
-      "title": "Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2026"
-    },
-    {
-      "note": "",
       "title": "Making continuing appropriations and extensions for fiscal year 2026, and for other purposes."
-    },
-    {
-      "note": "",
-      "title": "Continuing Appropriations Act, 2026"
     },
     {
       "note": "",
@@ -35,7 +27,15 @@
     },
     {
       "note": "",
+      "title": "Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2026"
+    },
+    {
+      "note": "",
       "title": "Continuing Appropriations and Extensions Act, 2026"
+    },
+    {
+      "note": "",
+      "title": "Continuing Appropriations Act, 2026"
     }
   ],
   "other_identifiers": [
@@ -91,13 +91,13 @@
       }
     },
     {
-      "description": "On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 222 - 209 (Roll no. 285).",
+      "description": "On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 222 - 209 (Roll no. 285). (text: CR H4609-4652)",
       "date": "2025-11-13T01:21:56+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
@@ -183,13 +183,13 @@
       }
     },
     {
-      "description": "Cloture on the measure, as amended, invoked in Senate by Yea-Nay Vote. 60 - 40. Record Vote Number: 617.",
+      "description": "Cloture on the measure, as amended, invoked in Senate by Yea-Nay Vote. 60 - 40. Record Vote Number: 617. (CR S8130)",
       "date": "2025-11-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
@@ -203,53 +203,53 @@
       }
     },
     {
-      "description": "Cloture motion on the measure presented in Senate.",
+      "description": "Cloture motion on the measure presented in Senate. (CR S8126)",
       "date": "2025-11-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Motion by Senator Thune to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 3945) made in Senate.",
+      "description": "Motion by Senator Thune to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 3945) made in Senate. (text: CR S8125)",
       "date": "2025-11-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Measure laid before Senate by motion.",
+      "description": "Measure laid before Senate by motion. (consideration: CR S8125-8130)",
       "date": "2025-11-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 60 - 40. Record Vote Number: 611.",
+      "description": "Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 60 - 40. Record Vote Number: 611. (CR S8124-8125)",
       "date": "2025-11-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Motion to proceed to measure considered in Senate.",
+      "description": "Motion to proceed to measure considered in Senate. (CR S8113)",
       "date": "2025-11-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
@@ -273,13 +273,13 @@
       }
     },
     {
-      "description": "Upon reconsideration, the fifth cloture motion on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 60 - 40. Record Vote Number: 610.",
+      "description": "Upon reconsideration, the fifth cloture motion on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 60 - 40. Record Vote Number: 610. (CR S8043)",
       "date": "2025-11-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
@@ -293,73 +293,143 @@
       }
     },
     {
-      "description": "Motion to proceed to consideration of the motion to reconsider the vote by which the fifth cloture on the motion to proceed to H.R. 5371 was not invoked (Record Vote No. 573) agreed to in Senate by Voice Vote.",
+      "description": "Motion to proceed to consideration of the motion to reconsider the vote by which the fifth cloture on the motion to proceed to H.R. 5371 was not invoked (Record Vote No. 573) agreed to in Senate by Voice Vote. (CR S8042)",
       "date": "2025-11-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Motion to proceed to consideration of measure made in Senate.",
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S8033)",
       "date": "2025-11-09T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Motion to proceed to consideration of measure withdrawn in Senate.",
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S8009)",
+      "date": "2025-11-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Motion to proceed to consideration of measure withdrawn in Senate. (CR S7996)",
       "date": "2025-11-07T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Motion to proceed to consideration of measure made in Senate. (: CR S7932)",
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S7969)",
       "date": "2025-11-07T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Eighth cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 603.",
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S7932)",
+      "date": "2025-11-06T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S7907-7908)",
+      "date": "2025-11-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Eighth cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 54 - 44. Record Vote Number: 603. (CR S7881)",
       "date": "2025-11-04T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Eighth cloture motion on the motion to proceed to the measure presented in Senate.",
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S7877-7878)",
+      "date": "2025-11-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S7860)",
+      "date": "2025-11-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Eighth cloture motion on the motion to proceed to the measure presented in Senate. (CR S7847)",
       "date": "2025-10-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Upon reconsideration, the fourth cloture on the motion to proceed to H.R. 5371 not invoked in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 590.",
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S7833-7834)",
+      "date": "2025-10-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S7792)",
+      "date": "2025-10-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Upon reconsideration, the fourth cloture on the motion to proceed to H.R. 5371 not invoked in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 590. (CR S7763-7764)",
       "date": "2025-10-28T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
@@ -383,6 +453,36 @@
       }
     },
     {
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S7757)",
+      "date": "2025-10-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S7744)",
+      "date": "2025-10-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S7705)",
+      "date": "2025-10-23T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
       "description": "Motion by Senator Thune to reconsider the vote by which the seventh cloture on the motion to proceed to H.R. 5371 was not invoked (Record Vote No. 581) entered in Senate.",
       "date": "2025-10-22T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -393,33 +493,43 @@
       }
     },
     {
-      "description": "Seventh cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 581. (: CR S7695-7696)",
+      "description": "Seventh cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 581. (CR S7695-7696)",
       "date": "2025-10-22T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Motion to proceed to consideration of measure made in Senate. (: CR S7172)",
+      "description": "Motion to proceed to consideration of measure withdrawn in Senate.",
       "date": "2025-10-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Seventh cloture motion on the motion to proceed to the measure presented in Senate. (: CR S7166)",
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S7172)",
+      "date": "2025-10-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Seventh cloture motion on the motion to proceed to the measure presented in Senate. (CR S7166)",
       "date": "2025-10-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
@@ -433,33 +543,33 @@
       }
     },
     {
-      "description": "Sixth cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 50 - 43. Record Vote Number: 576. (: CR S7165)",
+      "description": "Sixth cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 50 - 43. Record Vote Number: 576. (CR S7165)",
       "date": "2025-10-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Motion to proceed to consideration of measure made in Senate. (: CR S7162)",
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S7162)",
       "date": "2025-10-20T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Sixth cloture motion on the motion to proceed to the measure presented in Senate. (: CR S7155)",
+      "description": "Sixth cloture motion on the motion to proceed to the measure presented in Senate. (CR S7155)",
       "date": "2025-10-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
@@ -473,33 +583,33 @@
       }
     },
     {
-      "description": "Fifth cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 45. Record Vote Number: 573. (: CR S7148)",
+      "description": "Fifth cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 45. Record Vote Number: 573. (CR S7148)",
       "date": "2025-10-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Motion to proceed to consideration of measure made in Senate. (: CR S7148)",
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S7148)",
       "date": "2025-10-16T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Upon reconsideration, the third cloture on the motion to proceed to H.R. 5371 not invoked in Senate by Yea-Nay Vote. 51 - 44. Record Vote Number: 572. (: CR S7129)",
+      "description": "Upon reconsideration, the third cloture on the motion to proceed to H.R. 5371 not invoked in Senate by Yea-Nay Vote. 51 - 44. Record Vote Number: 572. (CR S7129)",
       "date": "2025-10-15T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
@@ -523,23 +633,23 @@
       }
     },
     {
-      "description": "Motion to proceed to consideration of measure made in Senate. (: CR S7119)",
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S7119)",
       "date": "2025-10-15T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Fifth cloture motion on the motion to proceed to the measure presented in Senate. (: CR S7113)",
+      "description": "Fifth cloture motion on the motion to proceed to the measure presented in Senate. (CR S7113)",
       "date": "2025-10-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
@@ -553,33 +663,43 @@
       }
     },
     {
-      "description": "Fourth cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 49 - 45. Record Vote Number: 571. (: CR S7113)",
+      "description": "Fourth cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 49 - 45. Record Vote Number: 571. (CR S7113)",
       "date": "2025-10-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Motion to proceed to consideration of measure made in Senate. (: CR S7107)",
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S7107)",
       "date": "2025-10-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Fourth cloture motion on the motion to proceed to the measure presented in Senate.",
+      "description": "Fourth cloture motion on the motion to proceed to the measure presented in Senate. (CR S7087)",
       "date": "2025-10-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S7087)",
+      "date": "2025-10-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
@@ -593,13 +713,13 @@
       }
     },
     {
-      "description": "Third cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 558.",
+      "description": "Third cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 558. (CR S7051-7052)",
       "date": "2025-10-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
@@ -633,13 +753,23 @@
       }
     },
     {
-      "description": "Third cloture motion on the motion to proceed to the measure presented in Senate.",
+      "description": "Third cloture motion on the motion to proceed to the measure presented in Senate. (CR S6989)",
       "date": "2025-10-07T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S6989)",
+      "date": "2025-10-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
@@ -653,13 +783,13 @@
       }
     },
     {
-      "description": "Second cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 52 - 42. Record Vote Number: 545.",
+      "description": "Second cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 52 - 42. Record Vote Number: 545. (CR S6951)",
       "date": "2025-10-06T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
@@ -670,6 +800,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T05:35:10Z"
+      }
+    },
+    {
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S6931)",
+      "date": "2025-10-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
@@ -763,23 +903,23 @@
       }
     },
     {
-      "description": "Cloture motion on the motion to proceed to the measure presented in Senate. (: CR S6842)",
+      "description": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S6842)",
       "date": "2025-09-29T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
-      "description": "Motion to proceed to consideration of measure made in Senate. (: CR S6842)",
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S6842)",
       "date": "2025-09-29T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
@@ -793,13 +933,13 @@
       }
     },
     {
-      "description": "Under the order of 9/19/2025, the third reading was vitiated. (: CR S6785)",
+      "description": "Under the order of 9/19/2025, the third reading was vitiated. (CR S6785)",
       "date": "2025-09-19T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:47Z"
       }
     },
     {
@@ -1039,6 +1179,14 @@
       "note": "Enrolled Bill",
       "links": [
         {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5371enr/uslm/BILLS-119hr5371enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5371enr/uslm/BILLS-119hr5371enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
           "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5371enr/xml/BILLS-119hr5371enr.xml",
           "media_type": "text/xml"
         },
@@ -1066,21 +1214,6 @@
       "classification": ""
     },
     {
-      "note": "Engrossed in House",
-      "links": [
-        {
-          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5371eh/xml/BILLS-119hr5371eh.xml",
-          "media_type": "text/xml"
-        },
-        {
-          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5371eh/pdf/BILLS-119hr5371eh.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "2025-09-19",
-      "classification": ""
-    },
-    {
       "note": "Placed on Calendar Senate",
       "links": [
         {
@@ -1089,6 +1222,21 @@
         },
         {
           "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5371pcs/pdf/BILLS-119hr5371pcs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-09-19",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5371eh/xml/BILLS-119hr5371eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5371eh/pdf/BILLS-119hr5371eh.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -1108,6 +1256,21 @@
         }
       ],
       "date": "2025-09-16",
+      "classification": ""
+    },
+    {
+      "note": "Public Law",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/uslm/PLAW-119publ37.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ37/uslm/PLAW-119publ37.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-13",
       "classification": ""
     }
   ],
@@ -1322,7 +1485,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T09:14:46.303747Z"
   }
 }

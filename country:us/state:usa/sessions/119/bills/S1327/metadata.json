@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Advancing Grid-Enhancing Technologies Act of 2025"
+      "title": "A bill to require the Federal Energy Regulatory Commission to establish a shared savings incentive to return a portion of the savings attributable  to an investment in grid-enhancing technology to the developer of that grid-enhancing technology, and for other purposes."
     },
     {
       "note": "",
-      "title": "A bill to require the Federal Energy Regulatory Commission to establish a shared savings incentive to return a portion of the savings attributable  to an investment in grid-enhancing technology to the developer of that grid-enhancing technology, and for other purposes."
+      "title": "Advancing Grid-Enhancing Technologies Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held.",
+      "date": "2026-04-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:45Z"
+      }
+    },
     {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2025-04-08T04:00:00+00:00",
@@ -116,7 +126,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:55Z",
     "text_extraction_latest_update": "2026-07-13T07:24:04.112238Z"
   }
 }

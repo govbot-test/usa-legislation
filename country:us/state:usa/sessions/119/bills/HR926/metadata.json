@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Subcommittee Hearings Held",
+      "date": "2026-01-14T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Federal Lands.",
+      "date": "2026-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Natural Resources.",
       "date": "2025-02-04T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -151,6 +171,14 @@
       "organization_id": null
     },
     {
+      "name": "Shri Thanedar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shri Thanedar\"}",
+      "organization_id": null
+    },
+    {
       "name": "Steve Cohen",
       "classification": "primary",
       "entity_type": "person",
@@ -203,7 +231,8 @@
       "N000147",
       "R000606",
       "T000193",
-      "W000788"
+      "W000788",
+      "T000488"
     ],
     "sponsor_bioguides": [
       "C001068"
@@ -216,7 +245,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:13Z",
+    "logs_latest_update": "2026-07-14T13:14:56Z",
     "text_extraction_latest_update": "2026-07-13T09:29:14.119534Z"
   }
 }

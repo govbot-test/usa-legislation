@@ -1,20 +1,45 @@
 {
   "legislative_session": "119",
   "identifier": "HR 1319",
-  "title": "To amend the Fair Labor Standards Act of 1938 and the National Labor Relations Act to clarify the standard for determining whether an individual is an employee, and for other purposes.",
+  "title": "Modern Worker Empowerment Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To amend the Fair Labor Standards Act of 1938 and the National Labor Relations Act to clarify the standard for determining whether an individual is an employee, and for other purposes."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr1319"
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 431.",
+      "date": "2026-02-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-505.",
+      "date": "2026-02-20T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
     {
       "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 19 - 16.",
       "date": "2025-07-23T04:00:00+00:00",
@@ -222,6 +247,30 @@
       "organization_id": null
     },
     {
+      "name": "Byron Donalds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Byron Donalds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Babin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Babin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Virginia Foxx",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Virginia Foxx\"}",
+      "organization_id": null
+    },
+    {
       "name": "Kevin Kiley",
       "classification": "primary",
       "entity_type": "person",
@@ -239,6 +288,21 @@
   ],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1319rh/xml/BILLS-119hr1319rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1319rh/pdf/BILLS-119hr1319rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-20",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -254,7 +318,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "H. Rept. 119-505",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt505/CRPT-119hrpt505.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -287,7 +363,10 @@
       "A000375",
       "S001214",
       "G000603",
-      "M001210"
+      "M001210",
+      "D000032",
+      "B001291",
+      "F000450"
     ],
     "sponsor_bioguides": [
       "K000401"
@@ -300,7 +379,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:49Z",
     "text_extraction_latest_update": "2026-07-13T09:04:36.415048Z"
   }
 }

@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2025-07-14T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -44,6 +54,14 @@
     }
   ],
   "sponsorships": [
+    {
+      "name": "Ashley Moody",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ashley Moody\"}",
+      "organization_id": null
+    },
     {
       "name": "Rick Scott",
       "classification": "primary",
@@ -84,7 +102,9 @@
     }
   ],
   "extras": {
-    "cosponsor_bioguides": [],
+    "cosponsor_bioguides": [
+      "M001244"
+    ],
     "sponsor_bioguides": [
       "S001217"
     ]
@@ -96,7 +116,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:09Z",
+    "logs_latest_update": "2026-07-14T13:14:53Z",
     "text_extraction_latest_update": "2026-07-13T09:15:17.275463Z"
   }
 }

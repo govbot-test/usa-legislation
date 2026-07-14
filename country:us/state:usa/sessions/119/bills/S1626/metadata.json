@@ -21,6 +21,80 @@
   ],
   "actions": [
     {
+      "description": "Held at the desk.",
+      "date": "2026-01-07T17:07:54+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Received in the House.",
+      "date": "2026-01-07T17:06:52+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2026-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Passed Senate with an amendment by Unanimous Consent.",
+      "date": "2026-01-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "date": "2026-01-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "The committee amendment as amended agreed to by Unanimous Consent. (text of amendment in the nature of a substitute: CR S13-16)",
+      "date": "2026-01-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Measure laid before Senate by unanimous consent. (consideration: CR S10-16)",
+      "date": "2026-01-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
       "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 249.",
       "date": "2025-11-03T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -93,7 +167,7 @@
   ],
   "related_bills": [
     {
-      "identifier": "HR 3816",
+      "identifier": "HR 5089",
       "legislative_session": "119",
       "relation_type": "companion"
     },
@@ -101,9 +175,34 @@
       "identifier": "HR 2250",
       "legislative_session": "119",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "S 3923",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 3816",
+      "legislative_session": "119",
+      "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Engrossed in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1626es/xml/BILLS-119s1626es.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1626es/pdf/BILLS-119s1626es.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-05",
+      "classification": ""
+    },
     {
       "note": "Reported to Senate",
       "links": [
@@ -136,6 +235,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "SAMDT 4149",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/senate-amendment/4149",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "CBO: S. 1626, National Landslide Preparedness Act Reauthorization Act of 2025",
       "links": [
@@ -185,7 +295,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:17Z",
+    "logs_latest_update": "2026-07-14T13:14:36Z",
     "text_extraction_latest_update": "2026-07-13T06:43:08.225724Z"
   }
 }

@@ -25,6 +25,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-04-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
       "date": "2025-07-22T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -121,6 +131,30 @@
       "organization_id": null
     },
     {
+      "name": "Mike Crapo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Crapo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James E. Risch",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James E. Risch\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Todd Young",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Todd Young\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jerry Moran",
       "classification": "primary",
       "entity_type": "person",
@@ -169,7 +203,10 @@
       "C001047",
       "H000273",
       "H001079",
-      "R000608"
+      "R000608",
+      "C000880",
+      "R000584",
+      "Y000064"
     ],
     "sponsor_bioguides": [
       "M000934"
@@ -182,7 +219,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:43Z",
     "text_extraction_latest_update": "2026-07-13T11:52:22.668112Z"
   }
 }

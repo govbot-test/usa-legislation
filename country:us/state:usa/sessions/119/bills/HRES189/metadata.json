@@ -48,18 +48,6 @@
       }
     },
     {
-      "description": "Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 224 - 198, 2 Present (Roll no. 62).",
-      "date": "2025-03-06T15:30:43+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-13T05:35:12Z"
-      }
-    },
-    {
       "description": "Considered as unfinished business. (consideration: CR H1019-1020)",
       "date": "2025-03-06T15:22:02+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -456,6 +444,11 @@
   ],
   "related_bills": [
     {
+      "identifier": "HRES 1085",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "HRES 197",
       "legislative_session": "119",
       "relation_type": "companion"
@@ -558,7 +551,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:49Z",
     "text_extraction_latest_update": "2026-07-13T08:38:37.461996Z"
   }
 }

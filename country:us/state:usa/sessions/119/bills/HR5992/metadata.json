@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Economic Opportunity.",
+      "date": "2025-11-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:41Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2025-11-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -103,6 +113,14 @@
       "organization_id": null
     },
     {
+      "name": "Josh Riley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Riley\"}",
+      "organization_id": null
+    },
+    {
       "name": "Ken Calvert",
       "classification": "primary",
       "entity_type": "person",
@@ -155,7 +173,8 @@
       "W000806",
       "K000404",
       "V000138",
-      "H001090"
+      "H001090",
+      "R000622"
     ],
     "sponsor_bioguides": [
       "C000059"
@@ -168,7 +187,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:09Z",
+    "logs_latest_update": "2026-07-14T13:14:49Z",
     "text_extraction_latest_update": "2026-07-13T10:26:04.458946Z"
   }
 }

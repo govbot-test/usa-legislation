@@ -25,6 +25,36 @@
   ],
   "actions": [
     {
+      "description": "Reported by the Committee on Energy and Commerce. H. Rept. 119-486, Part I.",
+      "date": "2026-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported by the Yeas and Nays: 50 - 0.",
+      "date": "2025-12-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2025-12-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
       "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
       "date": "2025-11-18T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -89,6 +119,14 @@
       "organization_id": null
     },
     {
+      "name": "Greg Landsman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Greg Landsman\"}",
+      "organization_id": null
+    },
+    {
       "name": "Mariannette Miller-Meeks",
       "classification": "primary",
       "entity_type": "person",
@@ -115,7 +153,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 1588, Facilitating DIGITAL Applications Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62175",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-486",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt486/CRPT-119hrpt486.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -129,7 +190,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "D000624"
+      "D000624",
+      "L000601"
     ],
     "sponsor_bioguides": [
       "M001215"
@@ -142,7 +204,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:09Z",
+    "logs_latest_update": "2026-07-14T13:14:53Z",
     "text_extraction_latest_update": "2026-07-13T08:51:22.914790Z"
   }
 }

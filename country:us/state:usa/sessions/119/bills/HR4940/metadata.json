@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To establish a system to expedite gate passes and flight access procedures at domestic airports to allow caregivers, parents, and guardians to accompany minors and passengers needing assistance to their flights, and for other purposes."
+      "title": "Accommodating Individuals Requesting Familial Assistance in Riding Efficiently Act"
     },
     {
       "note": "",
-      "title": "Accommodating Individuals Requesting Familial Assistance in Riding Efficiently Act"
+      "title": "To establish a system to expedite gate passes and flight access procedures at domestic airports to allow caregivers, parents, and guardians to accompany minors and passengers needing assistance to their flights, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Transportation and Maritime Security.",
+      "date": "2025-08-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Homeland Security.",
       "date": "2025-08-08T04:00:00+00:00",
@@ -64,6 +74,46 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"LaMonica McIver\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Derek Tran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Derek Tran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cory Mills",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cory Mills\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carlos A. Gimenez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carlos A. Gimenez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Russ Fulcher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Russ Fulcher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vince Fong",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vince Fong\"}",
       "organization_id": null
     },
     {
@@ -108,7 +158,12 @@
   "extras": {
     "cosponsor_bioguides": [
       "V000138",
-      "M001229"
+      "M001229",
+      "T000491",
+      "M001216",
+      "G000593",
+      "F000469",
+      "F000480"
     ],
     "sponsor_bioguides": [
       "S001214"
@@ -121,7 +176,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:39Z",
     "text_extraction_latest_update": "2026-07-13T06:55:12.427166Z"
   }
 }

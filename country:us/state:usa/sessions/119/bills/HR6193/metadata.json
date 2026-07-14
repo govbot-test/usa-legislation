@@ -1,20 +1,45 @@
 {
   "legislative_session": "119",
   "identifier": "HR 6193",
-  "title": "To provide economic recovery payments to recipients of social security, supplemental security income, railroad retirement benefits, and veterans disability compensation or pension benefits.",
+  "title": "Social Security Emergency Inflation Relief Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To provide economic recovery payments to recipients of social security, supplemental security income, railroad retirement benefits, and veterans disability compensation or pension benefits."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr6193"
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:46Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.",
+      "date": "2025-11-21T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:46Z"
+      }
+    },
     {
       "description": "Referred to the Committee on Ways and Means, and in addition to the Committees on Veterans' Affairs, Transportation and Infrastructure, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-11-20T05:00:00+00:00",
@@ -122,8 +147,30 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
-  "versions": [],
+  "related_bills": [
+    {
+      "identifier": "S 3078",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6193ih/xml/BILLS-119hr6193ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6193ih/pdf/BILLS-119hr6193ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-20",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -159,7 +206,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:52Z",
     "text_extraction_latest_update": "2026-07-14T09:47:38.081751Z"
   }
 }

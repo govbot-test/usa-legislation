@@ -16,6 +16,158 @@
   ],
   "actions": [
     {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-01-08T20:31:18+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "On agreeing to the resolution Agreed to by the Yeas and Nays: 224 - 202 (Roll no. 10).",
+      "date": "2026-01-08T20:31:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 224 - 202 (Roll no. 10).",
+      "date": "2026-01-08T20:31:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H212-213)",
+      "date": "2026-01-08T20:24:45+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 780, the Chair put the question on agreeing to the resolution and by voice vote, announced that the ayes prevailed. Mr. Weber (TX) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2026-01-07T23:11:51+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered without objection.",
+      "date": "2026-01-07T23:11:30+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H. Res. 780.",
+      "date": "2026-01-07T22:46:52+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Considered from the Discharge Calendar. (consideration: CR H122-126; text: CR H123)",
+      "date": "2026-01-07T22:45:01+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Consideration initiated from the Discharge Calendar.",
+      "date": "2026-01-07T22:44:58+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "On motion to discharge Agreed to by the Yeas and Nays: 221 - 205 (Roll no. 4).",
+      "date": "2026-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Mr. Jeffries moved to discharge.",
+      "date": "2026-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "DEBATE - Pursuant to the rule, the House proceeded with 20 minutes of debate on the Jeffries motion to discharge.",
+      "date": "2026-01-07T22:35:38+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "MOTION TO DISCHARGE COMMITTEE - Pursuant to clause 2 of Rule XV, Mr. Jeffries called up motion No. 4, to discharge the Committee on Rules from further consideration of H. Res. 780.",
+      "date": "2026-01-07T22:34:22+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "NOTIFICATION OF INTENT TO OFFER MOTION TO DISCHARGE - Mr. Jeffries notified the House of his intent to offer a motion to discharge the Committee on Rules from further consideration of H. Res. 780 pursuant to clause 2(c) of rule XV. The Chair announced that the House will entertain the gentleman's motion within two legislative days.",
+      "date": "2026-01-07T00:03:01+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Motion to discharge the Committee on Rules filed by Mr. Jeffries. Assigned to the Discharge Calendar, Calendar No. 4. (consideration: CR H6019-6020)",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
       "description": "Motion to Discharge Committee filed by Mr. Jeffries. Petition No: 119-10. (<a href=\"https://clerk.house.gov/DischargePetition/2025111210\">Discharge petition</a> text with signatures.)",
       "date": "2025-11-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -60,8 +212,29 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 1834",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres780eh/xml/BILLS-119hres780eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres780eh/pdf/BILLS-119hres780eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-08",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -103,7 +276,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:39Z",
     "text_extraction_latest_update": "2026-07-13T11:02:30.160612Z"
   }
 }

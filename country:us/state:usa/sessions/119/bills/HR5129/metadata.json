@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Nutrition and Foreign Agriculture.",
+      "date": "2025-12-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Agriculture.",
       "date": "2025-09-04T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -68,6 +78,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Summer L. Lee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Salud O. Carbajal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Salud O. Carbajal\"}",
       "organization_id": null
     },
     {
@@ -119,7 +137,8 @@
     "cosponsor_bioguides": [
       "V000081",
       "H001081",
-      "L000602"
+      "L000602",
+      "C001112"
     ],
     "sponsor_bioguides": [
       "A000370"
@@ -132,7 +151,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:16Z",
+    "logs_latest_update": "2026-07-14T13:14:42Z",
     "text_extraction_latest_update": "2026-07-13T13:28:18.951865Z"
   }
 }

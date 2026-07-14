@@ -71,6 +71,16 @@
       }
     },
     {
+      "description": "Referred to the Subcommittee on Coast Guard and Maritime Transportation.",
+      "date": "2025-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Natural Resources, and in addition to the Committees on Transportation and Infrastructure, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-06-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -249,6 +259,54 @@
       "organization_id": null
     },
     {
+      "name": "Wesley Hunt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wesley Hunt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Don Bacon",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Don Bacon\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer A. Kiggans",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer A. Kiggans\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Levin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Levin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian J. Mast",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian J. Mast\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Randy Fine",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Randy Fine\"}",
+      "organization_id": null
+    },
+    {
       "name": "Debbie Dingell",
       "classification": "primary",
       "entity_type": "person",
@@ -307,7 +365,13 @@
       "C001066",
       "S001221",
       "S001201",
-      "M001241"
+      "M001241",
+      "H001095",
+      "B001298",
+      "K000399",
+      "L000593",
+      "M001199",
+      "F000484"
     ],
     "sponsor_bioguides": [
       "D000624"
@@ -320,7 +384,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:16Z",
+    "logs_latest_update": "2026-07-14T13:14:36Z",
     "text_extraction_latest_update": "2026-07-13T09:36:53.150248Z"
   }
 }

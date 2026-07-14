@@ -25,6 +25,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Veterans' Affairs. Hearings held.",
+      "date": "2026-04-29T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Veterans' Affairs.",
       "date": "2025-11-04T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -48,6 +58,14 @@
     }
   ],
   "sponsorships": [
+    {
+      "name": "Martin Heinrich",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Martin Heinrich\"}",
+      "organization_id": null
+    },
     {
       "name": "Richard Blumenthal",
       "classification": "primary",
@@ -88,7 +106,9 @@
     }
   ],
   "extras": {
-    "cosponsor_bioguides": [],
+    "cosponsor_bioguides": [
+      "H001046"
+    ],
     "sponsor_bioguides": [
       "B001277"
     ]
@@ -100,7 +120,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:45Z",
     "text_extraction_latest_update": "2026-07-13T13:11:00.941199Z"
   }
 }

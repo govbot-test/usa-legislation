@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "A bill to amend the Higher Education Act of 1965 to provide for interest-free deferment on student loans for borrowers serving in a medical or dental internship or residency program."
+      "title": "Resident Education Deferred Interest Act"
     },
     {
       "note": "",
-      "title": "Resident Education Deferred Interest Act"
+      "title": "A bill to amend the Higher Education Act of 1965 to provide for interest-free deferment on student loans for borrowers serving in a medical or dental internship or residency program."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Committee on Health, Education, Labor, and Pensions. Hearings held.",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
     {
       "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "date": "2025-03-11T04:00:00+00:00",
@@ -121,6 +131,62 @@
       "organization_id": null
     },
     {
+      "name": "Lisa Blunt Rochester",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lisa Blunt Rochester\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kirsten E. Gillibrand",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kirsten E. Gillibrand\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ben R. Luj\u00e1n",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ben R. Luj\\u00e1n\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeanne Shaheen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeanne Shaheen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James Lankford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James Lankford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tammy Duckworth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tammy Duckworth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas Roland Tillis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas Roland Tillis\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jacky Rosen",
       "classification": "primary",
       "entity_type": "person",
@@ -175,7 +241,14 @@
       "S001208",
       "K000377",
       "M001176",
-      "S001150"
+      "S001150",
+      "B001303",
+      "G000555",
+      "L000570",
+      "S001181",
+      "L000575",
+      "D000622",
+      "T000476"
     ],
     "sponsor_bioguides": [
       "R000608"
@@ -188,7 +261,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:20Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T07:26:03.098925Z"
   }
 }

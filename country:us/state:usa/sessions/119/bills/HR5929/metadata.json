@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 5929",
-  "title": "Critical Minerals Supply Chain Resiliency Act",
+  "title": "Critical Minerals Supply Chain Resiliency Act of 2026",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -12,6 +12,10 @@
     {
       "note": "",
       "title": "To adjust the treatment of certain actions under Presidential Determination 2022-11 for Federal permitting improvement, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Critical Minerals Supply Chain Resiliency Act"
     }
   ],
   "other_identifiers": [
@@ -20,6 +24,76 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 602.",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-692.",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported in the Nature of a Substitute by Voice Vote.",
+      "date": "2026-04-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-04-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
+      "description": "Subcommittee on Energy and Mineral Resources Discharged",
+      "date": "2026-04-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
+      "description": "Subcommittee Hearings Held",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Energy and Mineral Resources.",
+      "date": "2026-02-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Natural Resources.",
       "date": "2025-11-07T05:00:00+00:00",
@@ -55,6 +129,14 @@
       "organization_id": null
     },
     {
+      "name": "Jefferson Van Drew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jefferson Van Drew\"}",
+      "organization_id": null
+    },
+    {
       "name": "Andy Barr",
       "classification": "primary",
       "entity_type": "person",
@@ -65,6 +147,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5929rh/xml/BILLS-119hr5929rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5929rh/pdf/BILLS-119hr5929rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-09",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -81,7 +178,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "H. Rept. 119-692",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt692/CRPT-119hrpt692.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -95,7 +204,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "S001193"
+      "S001193",
+      "V000133"
     ],
     "sponsor_bioguides": [
       "B001282"
@@ -108,7 +218,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:47Z",
     "text_extraction_latest_update": "2026-07-13T07:51:19.046953Z"
   }
 }

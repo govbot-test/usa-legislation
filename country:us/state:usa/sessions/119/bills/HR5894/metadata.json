@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Renewing Efforts to Suspend Testing and Reinforce Arms-control Initiatives Now Act"
+      "title": "To amend the Atomic Energy Defense Act to prohibit explosive testing of nuclear weapons conducted by the United States, and for other purposes."
     },
     {
       "note": "",
-      "title": "To amend the Atomic Energy Defense Act to prohibit explosive testing of nuclear weapons conducted by the United States, and for other purposes."
+      "title": "Renewing Efforts to Suspend Testing and Reinforce Arms-control Initiatives Now Act"
     }
   ],
   "other_identifiers": [
@@ -26,16 +26,6 @@
   "actions": [
     {
       "description": "Sponsor introductory remarks on measure. (CR H4779-4780)",
-      "date": "2025-11-19T05:00:00+00:00",
-      "organization_id": "~{\"classification\": \"legislature\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-13T05:35:15Z"
-      }
-    },
-    {
-      "description": "Sponsor introductory remarks on measure. (CR E1096-1097)",
       "date": "2025-11-19T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"legislature\"}",
       "classification": [],
@@ -223,6 +213,78 @@
       "organization_id": null
     },
     {
+      "name": "Mike Thompson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Thompson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Val T. Hoyle",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Val T. Hoyle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gilbert Ray Cisneros",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gilbert Ray Cisneros\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph D. Morelle",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph D. Morelle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah McBride",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarah McBride\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Levin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Levin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adam Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adam Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julia Brownley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Julia Brownley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark DeSaulnier",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark DeSaulnier\"}",
+      "organization_id": null
+    },
+    {
       "name": "Dina Titus",
       "classification": "primary",
       "entity_type": "person",
@@ -281,7 +343,16 @@
       "L000397",
       "V000138",
       "O000173",
-      "M001196"
+      "M001196",
+      "T000460",
+      "H001094",
+      "C001123",
+      "M001206",
+      "M001238",
+      "L000593",
+      "S000510",
+      "B001285",
+      "D000623"
     ],
     "sponsor_bioguides": [
       "T000468"
@@ -294,7 +365,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:15Z",
+    "logs_latest_update": "2026-07-14T13:14:52Z",
     "text_extraction_latest_update": "2026-07-13T08:23:44.471805Z"
   }
 }

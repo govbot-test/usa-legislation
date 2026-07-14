@@ -21,6 +21,158 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on the Judiciary.",
+      "date": "2026-05-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:54Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-05-14T20:59:37+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:54Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 308 - 116 (Roll no. 171). (text of amendment in the nature of a substitute: CR H3471)",
+      "date": "2026-05-14T20:59:35+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:54Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 308 - 116 (Roll no. 171). (text of amendment in the nature of a substitute: CR H3471)",
+      "date": "2026-05-14T20:59:35+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:54Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H3507)",
+      "date": "2026-05-14T20:53:22+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:54Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 5625, the Chair put the question on passage and by voice vote, announced the ayes had prevailed. Mr. Raskin demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2026-05-14T16:51:15+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:54Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2026-05-14T16:50:49+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:54Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 5625.",
+      "date": "2026-05-14T16:24:07+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:54Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, H. Con. Res. 96 and H.R. 8469. The resolution provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, and H.Con.Res. 96 under a closed rule. The resolution provides for consideration of H.R. 8469 under a structured rule. The resolution makes in order one motion to recommit on each bill.",
+      "date": "2026-05-14T16:23:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:54Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 1275. (consideration: CR H3471-3474)",
+      "date": "2026-05-14T16:23:20+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:54Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 1275 Reported to House. Rule provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, H. Con. Res. 96 and H.R. 8469. The resolution provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, and H.Con.Res. 96 under a closed rule. The resolution provides for consideration of H.R. 8469 under a structured rule. The resolution makes in order one motion to recommit on each bill.",
+      "date": "2026-05-12T23:51:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:54Z"
+      }
+    },
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 522.",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:54Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Judiciary. H. Rept. 119-602.",
+      "date": "2026-04-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:54Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported in the Nature of a Substitute by Voice Vote.",
+      "date": "2025-12-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:54Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2025-12-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:54Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on the Judiciary.",
       "date": "2025-09-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -207,6 +359,30 @@
       "organization_id": null
     },
     {
+      "name": "Michael Guest",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Guest\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ben Cline",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ben Cline\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Moore\"}",
+      "organization_id": null
+    },
+    {
       "name": "Mark Harris",
       "classification": "primary",
       "entity_type": "person",
@@ -215,8 +391,59 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HRES 1275",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5625rfs/xml/BILLS-119hr5625rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5625rfs/pdf/BILLS-119hr5625rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-18",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5625eh/xml/BILLS-119hr5625eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5625eh/pdf/BILLS-119hr5625eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-05-14",
+      "classification": ""
+    },
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5625rh/xml/BILLS-119hr5625rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5625rh/pdf/BILLS-119hr5625rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-04-09",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -233,7 +460,41 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "HAMDT 211",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/211",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "CBO: H.R. 5625, Cashless Bail Reporting Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62074",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-602",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt602/CRPT-119hrpt602.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -266,7 +527,10 @@
       "M001218",
       "G000603",
       "F000471",
-      "M001240"
+      "M001240",
+      "G000591",
+      "C001118",
+      "M001236"
     ],
     "sponsor_bioguides": [
       "H001102"
@@ -279,7 +543,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:56Z",
     "text_extraction_latest_update": "2026-07-13T06:18:30.214813Z"
   }
 }

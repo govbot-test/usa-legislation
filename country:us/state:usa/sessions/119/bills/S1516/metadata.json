@@ -21,13 +21,23 @@
   ],
   "actions": [
     {
-      "description": "Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S2668: 1)",
+      "description": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-02-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:43Z"
+      }
+    },
+    {
+      "description": "Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S2668)",
       "date": "2025-04-29T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:19Z"
+        "log_file_created": "2026-07-14T13:14:43Z"
       }
     },
     {
@@ -106,7 +116,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:44Z",
     "text_extraction_latest_update": "2026-07-13T11:57:49.262397Z"
   }
 }

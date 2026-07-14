@@ -25,6 +25,60 @@
   ],
   "actions": [
     {
+      "description": "Held at the desk.",
+      "date": "2025-12-15T21:19:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Received in the House.",
+      "date": "2025-12-15T21:06:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2025-12-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8693; text of amendment in the nature of a substitute: CR S8693)",
+      "date": "2025-12-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "date": "2025-12-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
       "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 232.",
       "date": "2025-10-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -119,6 +173,14 @@
       "organization_id": null
     },
     {
+      "name": "Raphael Warnock",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Raphael Warnock\"}",
+      "organization_id": null
+    },
+    {
       "name": "Pete Ricketts",
       "classification": "primary",
       "entity_type": "person",
@@ -127,8 +189,29 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 7146",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Engrossed in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1744es/xml/BILLS-119s1744es.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1744es/pdf/BILLS-119s1744es.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-11",
+      "classification": ""
+    },
     {
       "note": "Reported to Senate",
       "links": [
@@ -190,7 +273,8 @@
       "C001056",
       "B001267",
       "B001305",
-      "S001217"
+      "S001217",
+      "W000790"
     ],
     "sponsor_bioguides": [
       "R000618"
@@ -203,7 +287,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:34Z",
     "text_extraction_latest_update": "2026-07-13T12:15:01.814748Z"
   }
 }

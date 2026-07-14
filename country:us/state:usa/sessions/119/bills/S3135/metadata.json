@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Environment and Public Works. Hearings held.",
+      "date": "2026-03-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Environment and Public Works.",
       "date": "2025-11-06T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -53,6 +63,22 @@
       "organization_id": null
     },
     {
+      "name": "John Curtis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Curtis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Murkowski",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lisa Murkowski\"}",
+      "organization_id": null
+    },
+    {
       "name": "Dan Sullivan",
       "classification": "primary",
       "entity_type": "person",
@@ -61,7 +87,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 6250",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in Senate",
@@ -93,7 +125,9 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "L000571"
+      "L000571",
+      "C001114",
+      "M001153"
     ],
     "sponsor_bioguides": [
       "S001198"
@@ -106,7 +140,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:20Z",
+    "logs_latest_update": "2026-07-14T13:14:46Z",
     "text_extraction_latest_update": "2026-07-13T09:07:08.674937Z"
   }
 }

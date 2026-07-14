@@ -16,6 +16,46 @@
   ],
   "actions": [
     {
+      "description": "Motion to proceed to consideration of measure rejected in Senate by Yea-Nay Vote. 43 - 50. Record Vote Number: 4.",
+      "date": "2026-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:42Z"
+      }
+    },
+    {
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S72)",
+      "date": "2026-01-07T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:42Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 290.",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:42Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:42Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Environment and Public Works.",
       "date": "2025-10-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -50,6 +90,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Placed on Calendar Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sjres86pcs/xml/BILLS-119sjres86pcs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119sjres86pcs/pdf/BILLS-119sjres86pcs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-09",
+      "classification": ""
+    },
     {
       "note": "Introduced in Senate",
       "links": [
@@ -91,7 +146,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:15Z",
+    "logs_latest_update": "2026-07-14T13:14:42Z",
     "text_extraction_latest_update": "2026-07-13T10:17:34.435826Z"
   }
 }

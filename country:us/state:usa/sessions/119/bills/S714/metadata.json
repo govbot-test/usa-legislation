@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 335.",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
+      "description": "Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute and an amendment to the title. With written report No. 119-106.",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
       "description": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
       "date": "2025-04-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -31,13 +51,13 @@
       }
     },
     {
-      "description": "Committee on Energy and Natural Resources. Hearings held.",
+      "description": "Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 119-46.",
       "date": "2025-03-12T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:17Z"
+        "log_file_created": "2026-07-14T13:14:38Z"
       }
     },
     {
@@ -116,6 +136,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Reported to Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s714rs/xml/BILLS-119s714rs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s714rs/pdf/BILLS-119s714rs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-11",
+      "classification": ""
+    },
+    {
       "note": "Introduced in Senate",
       "links": [
         {
@@ -138,6 +173,17 @@
         {
           "url": "https://www.cbo.gov/publication/61830",
           "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S. Rept. 119-106",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/srpt106/CRPT-119srpt106.pdf",
+          "media_type": "application/pdf"
         }
       ],
       "date": "",
@@ -174,7 +220,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:17Z",
+    "logs_latest_update": "2026-07-14T13:14:44Z",
     "text_extraction_latest_update": "2026-07-13T07:00:02.955734Z"
   }
 }

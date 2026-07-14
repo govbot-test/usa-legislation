@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Focused Reduction of Effluence and Stormwater runoff through Hydrofracking Environmental Regulation Act of 2025"
+      "title": "To amend the Federal Water Pollution Control Act and direct the Secretary of the Interior to conduct a study with respect to stormwater runoff from oil and gas operations, and for other purposes."
     },
     {
       "note": "",
-      "title": "To amend the Federal Water Pollution Control Act and direct the Secretary of the Interior to conduct a study with respect to stormwater runoff from oil and gas operations, and for other purposes."
+      "title": "Focused Reduction of Effluence and Stormwater runoff through Hydrofracking Environmental Regulation Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Water Resources and Environment.",
+      "date": "2025-11-29T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Transportation and Infrastructure.",
       "date": "2025-11-18T05:00:00+00:00",
@@ -211,6 +221,14 @@
       "organization_id": null
     },
     {
+      "name": "Adelita S. Grijalva",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adelita S. Grijalva\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jared Huffman",
       "classification": "primary",
       "entity_type": "person",
@@ -270,7 +288,8 @@
       "S000344",
       "S001231",
       "C001067",
-      "D000197"
+      "D000197",
+      "G000606"
     ],
     "sponsor_bioguides": [
       "H001068"
@@ -283,7 +302,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:30Z",
     "text_extraction_latest_update": "2026-07-13T07:25:54.145673Z"
   }
 }

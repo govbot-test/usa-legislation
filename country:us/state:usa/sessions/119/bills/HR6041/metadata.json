@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
+      "date": "2025-12-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Agriculture.",
       "date": "2025-11-12T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -71,6 +81,22 @@
       "organization_id": null
     },
     {
+      "name": "Donald G. Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donald G. Davis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Gottheimer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Gottheimer\"}",
+      "organization_id": null
+    },
+    {
       "name": "Andrea Salinas",
       "classification": "primary",
       "entity_type": "person",
@@ -113,7 +139,9 @@
     "cosponsor_bioguides": [
       "V000129",
       "M001232",
-      "C001059"
+      "C001059",
+      "D000230",
+      "G000583"
     ],
     "sponsor_bioguides": [
       "S001226"
@@ -126,7 +154,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:16Z",
+    "logs_latest_update": "2026-07-14T13:14:52Z",
     "text_extraction_latest_update": "2026-07-13T11:05:12.580793Z"
   }
 }

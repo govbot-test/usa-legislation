@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Pursuant to the provisions of H.Res. 1131, H.Res. 707 is amended.",
+      "date": "2026-03-25T18:07:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
       "description": "Pursuant to the provisions of H.Res. 722, H.Res. 707 is amended.",
       "date": "2025-09-17T22:05:25+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -46,7 +56,7 @@
       }
     },
     {
-      "description": "Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 213 - 211 (Roll no. 268). (text: CR H4321-4322: 1)",
+      "description": "Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 213 - 211 (Roll no. 268). (text: CR H4321)",
       "date": "2025-09-16T18:44:23+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -54,7 +64,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:12Z"
+        "log_file_created": "2026-07-14T13:14:34Z"
       }
     },
     {
@@ -149,6 +159,31 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "HRES 313",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HRES 211",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HRES 354",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HRES 722",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HRES 1131",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
     {
       "identifier": "HR 4922",
       "legislative_session": "119",
@@ -259,7 +294,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:41Z",
     "text_extraction_latest_update": "2026-07-13T07:20:42.658534Z"
   }
 }

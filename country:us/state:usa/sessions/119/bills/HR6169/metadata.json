@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on General Farm Commodities, Risk Management, and Credit.",
+      "date": "2025-12-05T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Agriculture.",
       "date": "2025-11-20T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -52,6 +62,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Jennifer L. McClellan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James P. McGovern",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James P. McGovern\"}",
       "organization_id": null
     },
     {
@@ -101,7 +119,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "M001227"
+      "M001227",
+      "M000312"
     ],
     "sponsor_bioguides": [
       "A000370"
@@ -114,7 +133,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:13Z",
+    "logs_latest_update": "2026-07-14T13:14:56Z",
     "text_extraction_latest_update": "2026-07-13T10:34:30.038236Z"
   }
 }

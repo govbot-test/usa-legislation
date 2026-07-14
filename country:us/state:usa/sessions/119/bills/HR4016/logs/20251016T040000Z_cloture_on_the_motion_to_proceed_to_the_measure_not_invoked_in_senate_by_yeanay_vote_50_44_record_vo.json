@@ -1,6 +1,6 @@
 {
   "action": {
-    "description": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 50 - 44. Record Vote Number: 575. (: CR S7154)",
+    "description": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 50 - 44. Record Vote Number: 575. (CR S7154)",
     "occurred_at": "2025-10-16T04:00:00+00:00",
     "jurisdiction_id": "~{\"classification\": \"upper\"}",
     "session_id": "119",

@@ -1,20 +1,35 @@
 {
   "legislative_session": "119",
   "identifier": "HR 6209",
-  "title": "To repeal section 781 of the Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026, relating to amendments to the Agricultural Marketing Act of 1946, with respect to hemp.",
+  "title": "American Hemp Protection Act of 2025",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To repeal section 781 of the Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026, relating to amendments to the Agricultural Marketing Act of 1946, with respect to hemp."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr6209"
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Commodity Markets, Digital Assets, and Rural Development.",
+      "date": "2026-01-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Agriculture.",
       "date": "2025-11-20T05:00:00+00:00",
@@ -75,7 +90,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6209ih/xml/BILLS-119hr6209ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6209ih/pdf/BILLS-119hr6209ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-20",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -105,7 +136,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:20Z",
+    "logs_latest_update": "2026-07-14T13:14:42Z",
     "text_extraction_latest_update": "2026-07-14T09:47:38.273380Z"
   }
 }

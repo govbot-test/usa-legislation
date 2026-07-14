@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
       "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2025-07-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -41,7 +61,7 @@
       }
     },
     {
-      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 215). (text: CR H3541: 6)",
+      "description": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 215). (text: CR H3541)",
       "date": "2025-07-22T20:48:49+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -49,7 +69,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:15Z"
+        "log_file_created": "2026-07-14T13:14:34Z"
       }
     },
     {
@@ -65,13 +85,13 @@
       }
     },
     {
-      "description": "Considered as unfinished business. (consideration: CR H3544-3545: 2)",
+      "description": "Considered as unfinished business. (consideration: CR H3544-3545)",
       "date": "2025-07-22T20:19:31+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:15Z"
+        "log_file_created": "2026-07-14T13:14:34Z"
       }
     },
     {
@@ -95,13 +115,13 @@
       }
     },
     {
-      "description": "Considered under suspension of the rules. (consideration: CR H3541-3543: 6)",
+      "description": "Considered under suspension of the rules. (consideration: CR H3541-3543)",
       "date": "2025-07-22T20:01:13+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:15Z"
+        "log_file_created": "2026-07-14T13:14:34Z"
       }
     },
     {
@@ -264,7 +284,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:15Z",
+    "logs_latest_update": "2026-07-14T13:14:53Z",
     "text_extraction_latest_update": "2026-07-13T06:35:13.774843Z"
   }
 }

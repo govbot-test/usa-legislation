@@ -21,6 +21,42 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-54.",
+      "date": "2025-12-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2025-12-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Presented to President.",
+      "date": "2025-12-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
       "description": "Message on Senate action sent to the House.",
       "date": "2025-11-20T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -117,13 +153,13 @@
       }
     },
     {
-      "description": "Considered under suspension of the rules. (consideration: CR H1439-1441: 2)",
+      "description": "Considered under suspension of the rules. (consideration: CR H1439-1441)",
       "date": "2025-04-07T21:22:07+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:12Z"
+        "log_file_created": "2026-07-14T13:14:29Z"
       }
     },
     {
@@ -209,6 +245,14 @@
       "note": "Enrolled Bill",
       "links": [
         {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr970enr/uslm/BILLS-119hr970enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr970enr/uslm/BILLS-119hr970enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
           "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr970enr/xml/BILLS-119hr970enr.xml",
           "media_type": "text/xml"
         },
@@ -264,10 +308,34 @@
       ],
       "date": "2025-02-04",
       "classification": ""
+    },
+    {
+      "note": "Public Law",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ54/uslm/PLAW-119publ54.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ54/uslm/PLAW-119publ54.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-13",
+      "classification": ""
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-54",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ54/PLAW-119publ54.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr970.xml",
@@ -294,7 +362,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:52Z",
     "text_extraction_latest_update": "2026-07-13T07:44:43.222462Z"
   }
 }

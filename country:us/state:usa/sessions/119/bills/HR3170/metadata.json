@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 3170",
-  "title": "Improving Access to Workers\u2019 Compensation for Injured Federal Workers Act",
+  "title": "Improving Access to Workers\u2019 Compensation for Injured Federal Workers Act of 2025",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -9,6 +9,10 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [
+    {
+      "note": "",
+      "title": "Improving Access to Workers\u2019 Compensation for Injured Federal Workers Act"
+    },
     {
       "note": "",
       "title": "To amend chapter 81 of title 5, United States Code, to cover, for purposes of workers' compensation under such chapter, services by physician assistants and nurse practitioners provided to injured Federal workers, and for other purposes."
@@ -20,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 343.",
+      "date": "2025-12-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-394.",
+      "date": "2025-12-04T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
     {
       "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 34 - 0.",
       "date": "2025-06-25T04:00:00+00:00",
@@ -214,6 +238,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3170rh/xml/BILLS-119hr3170rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3170rh/pdf/BILLS-119hr3170rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-04",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -236,6 +275,17 @@
         {
           "url": "https://www.cbo.gov/publication/61636",
           "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-394",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt394/CRPT-119hrpt394.pdf",
+          "media_type": "application/pdf"
         }
       ],
       "date": "",
@@ -284,7 +334,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:13Z",
+    "logs_latest_update": "2026-07-14T13:14:46Z",
     "text_extraction_latest_update": "2026-07-13T08:49:54.149139Z"
   }
 }

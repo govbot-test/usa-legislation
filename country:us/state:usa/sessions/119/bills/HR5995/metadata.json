@@ -1,20 +1,35 @@
 {
   "legislative_session": "119",
   "identifier": "HR 5995",
-  "title": "To direct the Secretary of Veterans Affairs to make grants to eligible entities for the purpose of carrying out Ask the Question Campaigns, and for other purposes.",
+  "title": "Have You Served Act",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To direct the Secretary of Veterans Affairs to make grants to eligible entities for the purpose of carrying out Ask the Question Campaigns, and for other purposes."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr5995"
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2025-11-10T05:00:00+00:00",
@@ -74,6 +89,14 @@
       "organization_id": null
     },
     {
+      "name": "Andr\u00e9 Carson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andr\\u00e9 Carson\"}",
+      "organization_id": null
+    },
+    {
       "name": "Julia Brownley",
       "classification": "primary",
       "entity_type": "person",
@@ -83,7 +106,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5995ih/xml/BILLS-119hr5995ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5995ih/pdf/BILLS-119hr5995ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-10",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -101,7 +140,8 @@
       "T000488",
       "S001185",
       "L000562",
-      "T000481"
+      "T000481",
+      "C001072"
     ],
     "sponsor_bioguides": [
       "B001285"
@@ -114,7 +154,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:53Z",
     "text_extraction_latest_update": "2026-07-14T09:47:37.288287Z"
   }
 }

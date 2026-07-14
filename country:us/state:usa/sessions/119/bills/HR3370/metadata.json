@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Providing Resources and Operational Training to Eliminate Crisis Threats to Firefighters Act"
+      "title": "To direct the United States Fire Administration to develop a comprehensive strategy to improve equipment, training, and staffing standards for firefighter Rapid Intervention Teams, including those Teams that respond to port facility fires, and for other purposes."
     },
     {
       "note": "",
-      "title": "To direct the United States Fire Administration to develop a comprehensive strategy to improve equipment, training, and staffing standards for firefighter Rapid Intervention Teams, including those Teams that respond to port facility fires, and for other purposes."
+      "title": "Providing Resources and Operational Training to Eliminate Crisis Threats to Firefighters Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "ASSUMING FIRST SPONSORSHIP - Ms. Houlahan asked unanimous consent that she may hereafter be considered as the first sponsor of H.R. 3370, a bill originally introduced by Representative Sherrill, for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection.",
+      "date": "2026-02-11T23:45:24+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Science, Space, and Technology.",
       "date": "2025-05-13T04:00:00+00:00",
@@ -121,7 +131,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:49Z",
     "text_extraction_latest_update": "2026-07-13T12:06:00.470455Z"
   }
 }

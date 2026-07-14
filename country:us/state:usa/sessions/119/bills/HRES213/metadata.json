@@ -1,14 +1,19 @@
 {
   "legislative_session": "119",
   "identifier": "HRES 213",
-  "title": "Electing Members to a certain standing committee of the House of Representatives.",
+  "title": "Electing Members to certain standing committees of the House of Representatives.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "Electing Members to a certain standing committee of the House of Representatives."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hres213"
@@ -49,16 +54,6 @@
     },
     {
       "description": "Considered as privileged matter. (consideration: CR H1127)",
-      "date": "2025-03-11T21:55:44+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-13T05:35:17Z"
-      }
-    },
-    {
-      "description": "Submitted in House",
       "date": "2025-03-11T21:55:44+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
@@ -133,7 +128,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:17Z",
+    "logs_latest_update": "2026-07-14T13:14:52Z",
     "text_extraction_latest_update": "2026-07-13T06:15:17.784008Z"
   }
 }

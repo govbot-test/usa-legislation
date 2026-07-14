@@ -48,13 +48,13 @@
       }
     },
     {
-      "description": "Upon reconsideration, cloture on the measure invoked in Senate by Yea-Nay Vote. 53 - 43. Record Vote Number: 516. (: CR S6564)",
+      "description": "Upon reconsideration, cloture on the measure invoked in Senate by Yea-Nay Vote. 53 - 43. Record Vote Number: 516. (CR S6564)",
       "date": "2025-09-11T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:09Z"
+        "log_file_created": "2026-07-14T13:14:36Z"
       }
     },
     {
@@ -118,23 +118,33 @@
       }
     },
     {
-      "description": "Cloture not invoked in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 513. (CR S6564-6565: 3)",
+      "description": "Cloture not invoked in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 513. (CR S6564-6565)",
       "date": "2025-09-11T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:09Z"
+        "log_file_created": "2026-07-14T13:14:36Z"
       }
     },
     {
-      "description": "Cloture motion on the measure presented in Senate. (CR S6462: 1)",
+      "description": "By unanimous consent agreement, mandatory quorum required under Rule XXII waived.",
+      "date": "2025-09-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Cloture motion on the measure presented in Senate. (CR S6462)",
       "date": "2025-09-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:09Z"
+        "log_file_created": "2026-07-14T13:14:36Z"
       }
     },
     {
@@ -311,7 +321,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:09Z",
+    "logs_latest_update": "2026-07-14T13:14:37Z",
     "text_extraction_latest_update": "2026-07-13T08:49:08.385075Z"
   }
 }

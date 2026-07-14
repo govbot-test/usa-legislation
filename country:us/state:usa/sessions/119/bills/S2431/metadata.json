@@ -51,6 +51,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T05:35:15Z"
       }
+    },
+    {
+      "description": "Subcommittee on Department of Interior, Environment, and Related Agencies. Hearings held on the subject prior to the subcommittee ordering to be reported an original measure. With printed Hearing: S.Hrg. 119-67.",
+      "date": "2025-06-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -64,6 +74,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "HR 6938",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
     {
       "identifier": "HR 4754",
       "legislative_session": "119",
@@ -124,7 +139,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:15Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T08:55:56.321166Z"
   }
 }

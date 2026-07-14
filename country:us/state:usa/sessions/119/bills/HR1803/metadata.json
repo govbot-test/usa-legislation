@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Subcommittee Consideration and Mark-up Session Held",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
       "description": "Subcommittee Hearings Held",
       "date": "2025-03-11T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -91,6 +111,14 @@
       "organization_id": null
     },
     {
+      "name": "Timothy M. Kennedy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timothy M. Kennedy\"}",
+      "organization_id": null
+    },
+    {
       "name": "Grace Meng",
       "classification": "primary",
       "entity_type": "person",
@@ -133,7 +161,8 @@
     "cosponsor_bioguides": [
       "M000317",
       "F000466",
-      "C001068"
+      "C001068",
+      "K000402"
     ],
     "sponsor_bioguides": [
       "M001188"
@@ -146,7 +175,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:41Z",
     "text_extraction_latest_update": "2026-07-13T13:23:54.936247Z"
   }
 }

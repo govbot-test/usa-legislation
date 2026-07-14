@@ -1,6 +1,6 @@
 {
   "action": {
-    "description": "Motion to proceed to consideration of measure made in Senate. (: CR S7172)",
+    "description": "Motion to proceed to consideration of measure made in Senate. (CR S7172)",
     "occurred_at": "2025-10-21T04:00:00+00:00",
     "jurisdiction_id": "~{\"classification\": \"upper\"}",
     "session_id": "119",

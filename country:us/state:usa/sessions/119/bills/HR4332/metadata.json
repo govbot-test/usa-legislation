@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To establish a comprehensive United States Government initiative to build the capacity of young leaders and entrepreneurs in Africa, and for other purposes."
+      "title": "Young African Leaders Initiative Act of 2025"
     },
     {
       "note": "",
-      "title": "Young African Leaders Initiative Act of 2025"
+      "title": "To establish a comprehensive United States Government initiative to build the capacity of young leaders and entrepreneurs in Africa, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 39 - 6.",
+      "date": "2026-05-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-05-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:48Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Foreign Affairs.",
       "date": "2025-07-10T04:00:00+00:00",
@@ -203,6 +223,22 @@
       "organization_id": null
     },
     {
+      "name": "Ami Bera",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ami Bera\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joaquin Castro",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joaquin Castro\"}",
+      "organization_id": null
+    },
+    {
       "name": "Sydney Kamlager-Dove",
       "classification": "primary",
       "entity_type": "person",
@@ -235,7 +271,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 4332, Young African Leaders Initiative Act of 2026",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62477",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -267,7 +315,9 @@
       "O000173",
       "F000466",
       "M001188",
-      "M001223"
+      "M001223",
+      "B001287",
+      "C001091"
     ],
     "sponsor_bioguides": [
       "K000400"
@@ -280,7 +330,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:49Z",
     "text_extraction_latest_update": "2026-07-13T12:32:21.553672Z"
   }
 }

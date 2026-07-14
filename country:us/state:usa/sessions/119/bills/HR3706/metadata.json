@@ -25,6 +25,36 @@
   ],
   "actions": [
     {
+      "description": "Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Subcommittee on Water, Wildlife and Fisheries Discharged",
+      "date": "2026-02-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
       "description": "Subcommittee Hearings Held",
       "date": "2025-07-22T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -79,6 +109,14 @@
       "organization_id": null
     },
     {
+      "name": "Aumua Amata Coleman Radewagen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Aumua Amata Coleman Radewagen\"}",
+      "organization_id": null
+    },
+    {
       "name": "Brian Babin",
       "classification": "primary",
       "entity_type": "person",
@@ -119,7 +157,8 @@
   ],
   "extras": {
     "cosponsor_bioguides": [
-      "V000138"
+      "V000138",
+      "R000600"
     ],
     "sponsor_bioguides": [
       "B001291"
@@ -132,7 +171,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:41Z",
     "text_extraction_latest_update": "2026-07-13T07:01:25.802734Z"
   }
 }

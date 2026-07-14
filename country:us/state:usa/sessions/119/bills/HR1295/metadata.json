@@ -21,6 +21,36 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 397.",
+      "date": "2026-01-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Committee on Rules discharged.",
+      "date": "2026-01-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-464, Part I.",
+      "date": "2026-01-27T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 20.",
       "date": "2025-03-25T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -236,6 +266,21 @@
   ],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1295rh/xml/BILLS-119hr1295rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1295rh/pdf/BILLS-119hr1295rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-01-27",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -258,6 +303,17 @@
         {
           "url": "https://www.cbo.gov/publication/61350",
           "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-464",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt464/CRPT-119hrpt464.pdf",
+          "media_type": "application/pdf"
         }
       ],
       "date": "",
@@ -308,7 +364,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:35Z",
     "text_extraction_latest_update": "2026-07-13T07:04:42.291575Z"
   }
 }

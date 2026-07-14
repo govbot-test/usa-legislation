@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+      "date": "2025-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:49Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2025-03-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -60,6 +70,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Josh Harder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "George Whitesides",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"George Whitesides\"}",
       "organization_id": null
     },
     {
@@ -115,7 +133,8 @@
   "extras": {
     "cosponsor_bioguides": [
       "N000191",
-      "H001090"
+      "H001090",
+      "W000830"
     ],
     "sponsor_bioguides": [
       "M001199"
@@ -128,7 +147,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:15Z",
+    "logs_latest_update": "2026-07-14T13:14:55Z",
     "text_extraction_latest_update": "2026-07-13T05:57:24.112576Z"
   }
 }

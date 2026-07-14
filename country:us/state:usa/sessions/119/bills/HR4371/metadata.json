@@ -11,7 +11,15 @@
   "other_titles": [
     {
       "note": "",
+      "title": "To amend the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 and the Homeland Security Act of 2002 to enhance efforts to combat the trafficking of children"
+    },
+    {
+      "note": "",
       "title": "To amend the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 to enhance efforts to combat the trafficking of children."
+    },
+    {
+      "note": "",
+      "title": "To amend the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 and the Homeland Security Act of 2002 to enhance efforts to combat the trafficking of children."
     }
   ],
   "other_identifiers": [
@@ -20,6 +28,168 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate.",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:51Z"
+      }
+    },
+    {
+      "description": "The title of the measure was amended. Agreed to without objection.",
+      "date": "2025-12-16T21:53:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:51Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2025-12-16T21:53:31+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:51Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 225 - 201 (Roll no. 340). (text of amendment in the nature of a substitute: CR H5921-5922)",
+      "date": "2025-12-16T21:53:29+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:51Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 225 - 201 (Roll no. 340). (text of amendment in the nature of a substitute: CR H5921-5922)",
+      "date": "2025-12-16T21:53:29+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:51Z"
+      }
+    },
+    {
+      "description": "On motion to recommit Failed by the Yeas and Nays: 208 - 218 (Roll no. 339).",
+      "date": "2025-12-16T21:47:26+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:51Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H5933-5934)",
+      "date": "2025-12-16T21:15:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:51Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate H.R. 4371, the Chair put the question on motion to recommit and announced that the ayes had prevailed. Ms. Stansbury demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2025-12-16T20:24:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:51Z"
+      }
+    },
+    {
+      "description": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "date": "2025-12-16T20:24:24+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:51Z"
+      }
+    },
+    {
+      "description": "Ms. Stansbury moved to recommit to the Committee on the Judiciary. (text: CR H5927)",
+      "date": "2025-12-16T20:24:10+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:51Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2025-12-16T20:23:31+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:51Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 4371.",
+      "date": "2025-12-16T19:36:29+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:51Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of H.R. 4776, H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632 and H.R. 4371. The resolution provides for consideration of H.R. 4776, under a structured rule and H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632, and H.R. 4371 under a closed rule. The resolution provides one motion to recommit on each bill.",
+      "date": "2025-12-16T19:35:29+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:51Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 951. (consideration: CR H5921-5927)",
+      "date": "2025-12-16T19:35:24+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:51Z"
+      }
+    },
+    {
+      "description": "Rule H. Res. 951 passed House.",
+      "date": "2025-12-16T19:32:49+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:51Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 951 Reported to House. Rule provides for consideration of H.R. 4776, H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632 and H.R. 4371. The resolution provides for consideration of H.R. 4776, under a structured rule and H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632, and H.R. 4371 under a closed rule. The resolution provides one motion to recommit on each bill.",
+      "date": "2025-12-16T14:59:03+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:51Z"
+      }
+    },
     {
       "description": "Placed on the Union Calendar, Calendar No. 297.",
       "date": "2025-10-17T04:00:00+00:00",
@@ -111,8 +281,34 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 3054",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HRES 951",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4371eh/xml/BILLS-119hr4371eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4371eh/pdf/BILLS-119hr4371eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-16",
+      "classification": ""
+    },
     {
       "note": "Reported in House",
       "links": [
@@ -145,6 +341,28 @@
     }
   ],
   "documents": [
+    {
+      "note": "HAMDT 135",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/135",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "CBO: H.R. 4371, Kayla Hamilton Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62493",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "H. Rept. 119-345",
       "links": [
@@ -184,7 +402,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:54Z",
     "text_extraction_latest_update": "2026-07-13T06:39:07.598006Z"
   }
 }

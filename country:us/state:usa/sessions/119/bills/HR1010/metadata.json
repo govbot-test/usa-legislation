@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Bridging Agency Data Gaps and Ensuring Safety for Native Communities Act"
+      "title": "To require Federal law enforcement agencies to report on cases of missing or murdered Indians, and for other purposes."
     },
     {
       "note": "",
-      "title": "To require Federal law enforcement agencies to report on cases of missing or murdered Indians, and for other purposes."
+      "title": "Bridging Agency Data Gaps and Ensuring Safety for Native Communities Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Subcommittee Hearings Held",
+      "date": "2026-05-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Indian and Insular Affairs.",
+      "date": "2026-05-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
     {
       "description": "Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, Natural Resources, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-02-05T05:00:00+00:00",
@@ -83,6 +103,30 @@
       "organization_id": null
     },
     {
+      "name": "Suzan K. DelBene",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Suzan K. DelBene\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Quigley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Quigley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gabe Vasquez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gabe Vasquez\"}",
+      "organization_id": null
+    },
+    {
       "name": "Teresa Leger Fernandez",
       "classification": "primary",
       "entity_type": "person",
@@ -91,7 +135,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 390",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in House",
@@ -126,7 +176,10 @@
       "N000189",
       "D000629",
       "B000490",
-      "N000147"
+      "N000147",
+      "D000617",
+      "Q000023",
+      "V000136"
     ],
     "sponsor_bioguides": [
       "L000273"
@@ -139,7 +192,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:42Z",
     "text_extraction_latest_update": "2026-07-13T07:00:37.117941Z"
   }
 }

@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "ASSUMING FIRST SPONSORSHIP - Mr. Murphy asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 1849, a bill originally introduced by Representative LaMalfa, for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection.",
+      "date": "2026-02-04T21:15:37+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:35Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Ways and Means.",
       "date": "2025-03-05T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -239,6 +249,62 @@
       "organization_id": null
     },
     {
+      "name": "Dave Min",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dave Min\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Derek Tran",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Derek Tran\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Juan Vargas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Juan Vargas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lance Gooden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lance Gooden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Darin LaHood",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Darin LaHood\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James Gallagher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James Gallagher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angie Craig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angie Craig\"}",
+      "organization_id": null
+    },
+    {
       "name": "Doug LaMalfa",
       "classification": "primary",
       "entity_type": "person",
@@ -308,7 +374,14 @@
       "M001240",
       "D000230",
       "P000613",
-      "L000593"
+      "L000593",
+      "M001241",
+      "T000491",
+      "V000130",
+      "G000589",
+      "L000585",
+      "G000607",
+      "C001119"
     ],
     "sponsor_bioguides": [
       "L000578"
@@ -321,7 +394,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:47Z",
     "text_extraction_latest_update": "2026-07-13T11:20:34.889997Z"
   }
 }

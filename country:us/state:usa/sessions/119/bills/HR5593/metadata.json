@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2025-12-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2025-09-26T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -74,6 +84,30 @@
       "organization_id": null
     },
     {
+      "name": "Josh Harder",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Harder\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kimberlyn King-Hinds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kimberlyn King-Hinds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Blake D. Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Blake D. Moore\"}",
+      "organization_id": null
+    },
+    {
       "name": "Celeste Maloy",
       "classification": "primary",
       "entity_type": "person",
@@ -117,7 +151,10 @@
       "V000135",
       "M001215",
       "O000086",
-      "M001210"
+      "M001210",
+      "H001090",
+      "K000404",
+      "M001213"
     ],
     "sponsor_bioguides": [
       "M001228"
@@ -130,7 +167,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:47Z",
     "text_extraction_latest_update": "2026-07-13T12:51:54.520819Z"
   }
 }

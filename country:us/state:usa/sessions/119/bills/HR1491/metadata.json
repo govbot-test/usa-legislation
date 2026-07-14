@@ -21,6 +21,84 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-64.",
+      "date": "2025-12-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2025-12-26T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Presented to President.",
+      "date": "2025-12-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2025-12-15T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S8694; text: CR S8694)",
+      "date": "2025-12-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.",
+      "date": "2025-12-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
+      "description": "Senate Committee on Finance discharged by Unanimous Consent.",
+      "date": "2025-12-11T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:34Z"
+      }
+    },
+    {
       "description": "Received in the Senate and Read twice and referred to the Committee on Finance.",
       "date": "2025-04-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -53,7 +131,7 @@
       }
     },
     {
-      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 88).",
+      "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 88). (text: 03/31/2025 CR H1353)",
       "date": "2025-04-01T18:34:05+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -61,17 +139,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:15Z"
+        "log_file_created": "2026-07-14T13:14:34Z"
       }
     },
     {
-      "description": "Considered as unfinished business. (consideration: CR H1399: 1)",
+      "description": "Considered as unfinished business. (consideration: CR H1399)",
       "date": "2025-04-01T18:16:06+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:15Z"
+        "log_file_created": "2026-07-14T13:14:34Z"
       }
     },
     {
@@ -95,13 +173,13 @@
       }
     },
     {
-      "description": "Considered under suspension of the rules. (consideration: CR H1353: 1)",
+      "description": "Considered under suspension of the rules. (consideration: CR H1353)",
       "date": "2025-03-31T21:23:01+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:15Z"
+        "log_file_created": "2026-07-14T13:14:34Z"
       }
     },
     {
@@ -214,6 +292,29 @@
   ],
   "versions": [
     {
+      "note": "Enrolled Bill",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1491enr/uslm/BILLS-119hr1491enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1491enr/uslm/BILLS-119hr1491enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1491enr/xml/BILLS-119hr1491enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1491enr/pdf/BILLS-119hr1491enr.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Engrossed in House",
       "links": [
         {
@@ -272,6 +373,21 @@
       ],
       "date": "2025-02-21",
       "classification": ""
+    },
+    {
+      "note": "Public Law",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ64/uslm/PLAW-119publ64.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ64/uslm/PLAW-119publ64.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-27",
+      "classification": ""
     }
   ],
   "documents": [
@@ -298,7 +414,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-64",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ64/PLAW-119publ64.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1491.xml",
@@ -325,7 +450,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:15Z",
+    "logs_latest_update": "2026-07-14T13:14:36Z",
     "text_extraction_latest_update": "2026-07-13T10:58:39.053727Z"
   }
 }

@@ -25,6 +25,26 @@
   ],
   "actions": [
     {
+      "description": "Subcommittee Hearings Held",
+      "date": "2026-02-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Energy and Mineral Resources.",
+      "date": "2026-02-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Natural Resources.",
       "date": "2025-04-17T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -139,6 +159,14 @@
       "organization_id": null
     },
     {
+      "name": "Pat Harrigan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pat Harrigan\"}",
+      "organization_id": null
+    },
+    {
       "name": "Robert J. Wittman",
       "classification": "primary",
       "entity_type": "person",
@@ -195,7 +223,8 @@
       "T000486",
       "C001118",
       "M001237",
-      "V000138"
+      "V000138",
+      "H001101"
     ],
     "sponsor_bioguides": [
       "W000804"
@@ -208,7 +237,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:46Z",
     "text_extraction_latest_update": "2026-07-13T08:04:27.110285Z"
   }
 }

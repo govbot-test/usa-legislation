@@ -61,6 +61,16 @@
       }
     },
     {
+      "description": "Referred to the Subcommittee on Counterterrorism and Intelligence.",
+      "date": "2025-09-01T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:33Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on the Judiciary, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-08-29T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -127,6 +137,14 @@
       "organization_id": null
     },
     {
+      "name": "Jefferson Van Drew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jefferson Van Drew\"}",
+      "organization_id": null
+    },
+    {
       "name": "Andrew R. Garbarino",
       "classification": "primary",
       "entity_type": "person",
@@ -171,7 +189,8 @@
       "G000546",
       "L000560",
       "R000606",
-      "G000605"
+      "G000605",
+      "V000133"
     ],
     "sponsor_bioguides": [
       "G000597"
@@ -184,7 +203,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:39Z",
     "text_extraction_latest_update": "2026-07-13T12:01:26.367168Z"
   }
 }

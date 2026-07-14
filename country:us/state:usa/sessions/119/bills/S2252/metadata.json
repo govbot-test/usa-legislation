@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-06-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Foreign Relations.",
       "date": "2025-07-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -117,6 +127,38 @@
       "organization_id": null
     },
     {
+      "name": "Tammy Duckworth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tammy Duckworth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Van Hollen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chris Van Hollen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cory Booker",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cory Booker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angela Alsobrooks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angela Alsobrooks\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jeanne Shaheen",
       "classification": "primary",
       "entity_type": "person",
@@ -171,7 +213,11 @@
       "S001150",
       "M001153",
       "K000394",
-      "B001267"
+      "B001267",
+      "D000622",
+      "V000128",
+      "B001288",
+      "A000382"
     ],
     "sponsor_bioguides": [
       "S001181"
@@ -184,7 +230,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:16Z",
+    "logs_latest_update": "2026-07-14T13:14:55Z",
     "text_extraction_latest_update": "2026-07-13T06:29:21.833514Z"
   }
 }

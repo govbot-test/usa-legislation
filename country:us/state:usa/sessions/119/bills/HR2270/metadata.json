@@ -21,6 +21,136 @@
   ],
   "actions": [
     {
+      "description": "POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule XIX, the Chair announced that further proceedings on H.R. 2270 is postponed.",
+      "date": "2026-01-13T22:58:29+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "On motion to recommit Failed by the Yeas and Nays: 209 - 213 (Roll no. 20).",
+      "date": "2026-01-13T22:58:26+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H693-694)",
+      "date": "2026-01-13T22:52:23+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 2270, the Chair put the question on motion to recommit and by voice vote, announced the noes had prevailed. Ms. Lee (PA) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2026-01-13T19:55:08+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "date": "2026-01-13T19:54:43+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Ms. Lee (PA) moved to recommit to the Committee on Education and Workforce. (text: CR H684-685)",
+      "date": "2026-01-13T19:54:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2026-01-13T19:53:57+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 2270.",
+      "date": "2026-01-13T19:33:28+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of H.R. 2988, H.R. 2262, H.R. 2270, H.R. 2312 and H.R. 4366. The resolution provides for consideration of H.R. 2988 under a structured rule, and H.R. 2262, H.R. 2270, H.R. 2312, and H.R. 4366 under a closed rule. The rule provides for one hour of general debate and one motion to recommit on each bill.",
+      "date": "2026-01-13T19:32:57+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 988. (consideration: CR H681-685; text of amendment in the nature of a substitute: CR H681)",
+      "date": "2026-01-13T19:32:52+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 988 Reported to House. Rule provides for consideration of H.R. 2988, H.R. 2262, H.R. 2270, H.R. 2312 and H.R. 4366. The resolution provides for consideration of H.R. 2988 under a structured rule, and H.R. 2262, H.R. 2270, H.R. 2312, and H.R. 4366 under a closed rule. The rule provides for one hour of general debate and one motion to recommit on each bill.",
+      "date": "2026-01-12T23:48:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 359.",
+      "date": "2025-12-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-413.",
+      "date": "2025-12-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 13.",
       "date": "2025-04-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -139,8 +269,29 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HRES 988",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2270rh/xml/BILLS-119hr2270rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2270rh/pdf/BILLS-119hr2270rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-18",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -159,11 +310,33 @@
   ],
   "documents": [
     {
+      "note": "HAMDT 147",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/147",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "CBO: H.R. 2270, Empowering Employer Child and Elder Care Solutions Act",
       "links": [
         {
           "url": "https://www.cbo.gov/publication/61601",
           "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-413",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt413/CRPT-119hrpt413.pdf",
+          "media_type": "application/pdf"
         }
       ],
       "date": "",
@@ -203,7 +376,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:38Z",
     "text_extraction_latest_update": "2026-07-13T09:57:39.787422Z"
   }
 }

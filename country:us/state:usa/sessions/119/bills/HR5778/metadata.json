@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 358.",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
+      "description": "Reported by the Committee on Small Business. H. Rept. 119-412.",
+      "date": "2025-12-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:29Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported by the Yeas and Nays: 27 - 0.",
       "date": "2025-11-18T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -118,6 +138,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5778rh/xml/BILLS-119hr5778rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5778rh/pdf/BILLS-119hr5778rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-17",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -133,7 +168,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 5778, Improving SBA Engagement on Employee Ownership Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62327",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-412",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt412/CRPT-119hrpt412.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -164,7 +222,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:41Z",
     "text_extraction_latest_update": "2026-07-13T08:11:19.587455Z"
   }
 }

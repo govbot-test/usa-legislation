@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2025-12-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:44Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Armed Services, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-08-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -71,6 +81,14 @@
       "organization_id": null
     },
     {
+      "name": "Ed Case",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ed Case\"}",
+      "organization_id": null
+    },
+    {
       "name": "Judy Chu",
       "classification": "primary",
       "entity_type": "person",
@@ -113,7 +131,8 @@
     "cosponsor_bioguides": [
       "W000795",
       "S001199",
-      "M001160"
+      "M001160",
+      "C001055"
     ],
     "sponsor_bioguides": [
       "C001080"
@@ -126,7 +145,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T08:14:35.705666Z"
   }
 }

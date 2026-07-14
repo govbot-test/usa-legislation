@@ -21,6 +21,178 @@
   ],
   "actions": [
     {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-02-11T23:06:33+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 223 - 206 (Roll no. 64). (text of amendment in the nature of a substitute: CR H2150)",
+      "date": "2026-02-11T23:06:31+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 223 - 206 (Roll no. 64).",
+      "date": "2026-02-11T23:06:31+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "On motion to recommit Failed by the Yeas and Nays: 214 - 215 (Roll no. 63).",
+      "date": "2026-02-11T22:59:54+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H2167-2169)",
+      "date": "2026-02-11T22:17:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 3617, the Chair put the question on the motion to recommit and by voice vote, announced the noes had prevailed. Mr. Landsman demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2026-02-11T19:56:58+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "date": "2026-02-11T19:56:43+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Mr. Landsman moved to recommit to the Committee on Energy and Commerce. (text: CR H2154)",
+      "date": "2026-02-11T19:56:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2026-02-11T19:55:57+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 3617.",
+      "date": "2026-02-11T19:21:37+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of S. 1383, H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of S. 1383, H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one motion to recommit H.R. 2189, H.R. 261, and H.R. 3617, and one motion to commit S. 1383.",
+      "date": "2026-02-11T19:20:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 1057. (consideration: CR H2150-2154)",
+      "date": "2026-02-11T19:20:20+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Rule H. Res. 1057 passed House.",
+      "date": "2026-02-11T18:02:53+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 1057 Reported to House. Rule provides for consideration of S. 1383, H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of S. 1383, H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one motion to recommit H.R. 2189, H.R. 261, and H.R. 3617, and one motion to commit S. 1383.",
+      "date": "2026-02-11T15:46:51+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Rule H. Res. 1042 failed passage of House.",
+      "date": "2026-02-11T02:55:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 1042 Reported to House. Rule provides for consideration of H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one hour of debate and one motion to recommit on each bill.",
+      "date": "2026-02-10T01:50:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
       "description": "Placed on the Union Calendar, Calendar No. 224.",
       "date": "2025-09-11T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -157,8 +329,49 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HRES 1042",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HRES 1057",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3617rfs/xml/BILLS-119hr3617rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3617rfs/pdf/BILLS-119hr3617rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-12",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3617eh/xml/BILLS-119hr3617eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr3617eh/pdf/BILLS-119hr3617eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-11",
+      "classification": ""
+    },
     {
       "note": "Reported in House",
       "links": [
@@ -191,6 +404,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "HAMDT 164",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/164",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "CBO: H.R. 3617, Securing America\u2019s Critical Minerals Supply Act",
       "links": [
@@ -243,7 +467,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:34Z",
     "text_extraction_latest_update": "2026-07-13T10:23:37.076491Z"
   }
 }

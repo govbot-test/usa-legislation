@@ -21,6 +21,42 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-44.",
+      "date": "2025-12-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Became Public Law No: 119-44",
+      "date": "2025-12-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2025-12-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
       "description": "Presented to President.",
       "date": "2025-11-25T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -431,12 +467,32 @@
       "relation_type": "companion"
     },
     {
+      "identifier": "HR 912",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 1004",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 1036",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 2121",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
       "identifier": "S 2532",
       "legislative_session": "119",
       "relation_type": "companion"
     },
     {
-      "identifier": "S 891",
+      "identifier": "S 3006",
       "legislative_session": "119",
       "relation_type": "companion"
     },
@@ -446,12 +502,32 @@
       "relation_type": "companion"
     },
     {
-      "identifier": "HR 912",
+      "identifier": "S 946",
       "legislative_session": "119",
       "relation_type": "companion"
     },
     {
-      "identifier": "S 946",
+      "identifier": "HR 2695",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 3260",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 1007",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 3689",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 891",
       "legislative_session": "119",
       "relation_type": "companion"
     },
@@ -464,17 +540,20 @@
       "identifier": "HR 1768",
       "legislative_session": "119",
       "relation_type": "companion"
-    },
-    {
-      "identifier": "S 2121",
-      "legislative_session": "119",
-      "relation_type": "companion"
     }
   ],
   "versions": [
     {
       "note": "Enrolled Bill",
       "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2483enr/uslm/BILLS-119hr2483enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2483enr/uslm/BILLS-119hr2483enr.pdf",
+          "media_type": "application/pdf"
+        },
         {
           "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2483enr/xml/BILLS-119hr2483enr.xml",
           "media_type": "text/xml"
@@ -546,6 +625,21 @@
       ],
       "date": "2025-03-31",
       "classification": ""
+    },
+    {
+      "note": "Public Law",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ44/uslm/PLAW-119publ44.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ44/uslm/PLAW-119publ44.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-02",
+      "classification": ""
     }
   ],
   "documents": [
@@ -605,7 +699,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-44",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ44/PLAW-119publ44.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2483.xml",
@@ -631,7 +734,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:37Z",
     "text_extraction_latest_update": "2026-07-13T06:54:29.355638Z"
   }
 }

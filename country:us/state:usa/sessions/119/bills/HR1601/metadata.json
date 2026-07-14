@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "ASSUMING FIRST SPONSORSHIP - Mr. Walkinshaw asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 1601, a bill originally introduced by Representative Connolly, for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection.",
+      "date": "2026-01-08T22:15:39+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:38Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Foreign Affairs.",
       "date": "2025-02-26T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -127,14 +137,6 @@
       "organization_id": null
     },
     {
-      "name": "Josh Gottheimer",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Josh Gottheimer\"}",
-      "organization_id": null
-    },
-    {
       "name": "Gerald E. Connolly",
       "classification": "primary",
       "entity_type": "person",
@@ -184,8 +186,7 @@
       "H000874",
       "L000601",
       "P000608",
-      "M001137",
-      "G000583"
+      "M001137"
     ],
     "sponsor_bioguides": [
       "C001078"
@@ -198,7 +199,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:17Z",
+    "logs_latest_update": "2026-07-14T13:14:43Z",
     "text_extraction_latest_update": "2026-07-13T08:16:38.182954Z"
   }
 }

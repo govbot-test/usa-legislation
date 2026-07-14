@@ -21,6 +21,30 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-40.",
+      "date": "2025-11-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Signed by President.",
+      "date": "2025-11-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
       "description": "Presented to President.",
       "date": "2025-11-25T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -43,13 +67,13 @@
       }
     },
     {
-      "description": "Passed Senate without amendment by Unanimous Consent.",
+      "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S7734)",
       "date": "2025-10-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:15Z"
+        "log_file_created": "2026-07-14T13:14:30Z"
       }
     },
     {
@@ -129,13 +153,13 @@
       }
     },
     {
-      "description": "Considered under suspension of the rules. (consideration: CR H3224: 1)",
+      "description": "Considered under suspension of the rules. (consideration: CR H3224)",
       "date": "2025-07-14T20:26:38+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:15Z"
+        "log_file_created": "2026-07-14T13:14:30Z"
       }
     },
     {
@@ -283,6 +307,14 @@
       "note": "Enrolled Bill",
       "links": [
         {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2316enr/uslm/BILLS-119hr2316enr.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2316enr/uslm/BILLS-119hr2316enr.pdf",
+          "media_type": "application/pdf"
+        },
+        {
           "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2316enr/xml/BILLS-119hr2316enr.xml",
           "media_type": "text/xml"
         },
@@ -353,6 +385,21 @@
       ],
       "date": "2025-03-25",
       "classification": ""
+    },
+    {
+      "note": "Public Law",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ40/uslm/PLAW-119publ40.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ40/uslm/PLAW-119publ40.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-26",
+      "classification": ""
     }
   ],
   "documents": [
@@ -368,7 +415,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-40",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ40/PLAW-119publ40.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2316.xml",
@@ -396,7 +452,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:15Z",
+    "logs_latest_update": "2026-07-14T13:14:31Z",
     "text_extraction_latest_update": "2026-07-13T12:35:23.092746Z"
   }
 }

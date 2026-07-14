@@ -21,13 +21,23 @@
   ],
   "actions": [
     {
-      "description": "Committee on Veterans' Affairs. Hearings held.",
+      "description": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-03-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 119-86.",
       "date": "2025-05-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:14Z"
+        "log_file_created": "2026-07-14T13:14:31Z"
       }
     },
     {
@@ -79,6 +89,30 @@
       "organization_id": null
     },
     {
+      "name": "Angela Alsobrooks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angela Alsobrooks\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Merkley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Merkley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maggie Hassan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Maggie Hassan\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jerry Moran",
       "classification": "primary",
       "entity_type": "person",
@@ -111,7 +145,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: S. 649, Guard and Reserve GI Bill Parity Act of 2026",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62278",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -127,7 +173,10 @@
     "cosponsor_bioguides": [
       "B001277",
       "B001230",
-      "B001288"
+      "B001288",
+      "A000382",
+      "M001176",
+      "H001076"
     ],
     "sponsor_bioguides": [
       "M000934"
@@ -140,7 +189,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:40Z",
     "text_extraction_latest_update": "2026-07-13T08:28:12.509788Z"
   }
 }

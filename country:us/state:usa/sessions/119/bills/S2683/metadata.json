@@ -25,6 +25,26 @@
   ],
   "actions": [
     {
+      "description": "Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-03-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
+      "description": "Committee on Veterans' Affairs. Hearings held.",
+      "date": "2025-12-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Veterans' Affairs.",
       "date": "2025-09-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -81,6 +101,14 @@
       "organization_id": null
     },
     {
+      "name": "Ashley Moody",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ashley Moody\"}",
+      "organization_id": null
+    },
+    {
       "name": "John Cornyn",
       "classification": "primary",
       "entity_type": "person",
@@ -113,7 +141,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: S. 2683, Veterans Scam And Fraud Evasion Act of 2026",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62284",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -130,7 +170,8 @@
       "H001076",
       "B001236",
       "K000383",
-      "K000377"
+      "K000377",
+      "M001244"
     ],
     "sponsor_bioguides": [
       "C001056"
@@ -143,7 +184,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:46Z",
     "text_extraction_latest_update": "2026-07-13T07:09:52.713097Z"
   }
 }

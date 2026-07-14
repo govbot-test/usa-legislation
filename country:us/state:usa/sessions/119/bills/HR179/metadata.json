@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-430, Part I.",
+      "date": "2026-01-08T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
       "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 24 - 15.",
       "date": "2025-07-23T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -167,7 +177,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "CBO: H.R. 179, Proven Forest Management Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/61992",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H. Rept. 119-430",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt430/CRPT-119hrpt430.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -201,7 +234,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:39Z",
     "text_extraction_latest_update": "2026-07-13T09:50:55.327822Z"
   }
 }

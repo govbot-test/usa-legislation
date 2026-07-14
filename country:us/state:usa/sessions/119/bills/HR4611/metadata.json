@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Equal Access to Abortion Coverage in Health Insurance Act of 2025"
+      "title": "To ensure affordable abortion coverage and care for every person, and for other purposes."
     },
     {
       "note": "",
-      "title": "To ensure affordable abortion coverage and care for every person, and for other purposes."
+      "title": "Equal Access to Abortion Coverage in Health Insurance Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2025-12-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:49Z"
+      }
+    },
     {
       "description": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Natural Resources, Armed Services, Veterans' Affairs, the Judiciary, Oversight and Government Reform, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-07-22T04:00:00+00:00",
@@ -38,14 +48,14 @@
     },
     {
       "description": "Introduced in House",
-      "date": "2025-07-22T04:00:00+00:00",
+      "date": "2025-07-21T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:11Z"
+        "log_file_created": "2026-07-14T13:14:49Z"
       }
     },
     {
@@ -1485,6 +1495,62 @@
       "organization_id": null
     },
     {
+      "name": "Donald Norcross",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donald Norcross\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura Friedman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Laura Friedman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bonnie Watson Coleman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bonnie Watson Coleman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "LaMonica McIver",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"LaMonica McIver\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James R. Walkinshaw",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James R. Walkinshaw\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eugene Simon Vindman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eugene Simon Vindman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christian D. Menefee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christian D. Menefee\"}",
+      "organization_id": null
+    },
+    {
       "name": "Ayanna Pressley",
       "classification": "primary",
       "entity_type": "person",
@@ -1708,7 +1774,14 @@
       "P000621",
       "W000187",
       "S000185",
-      "G000585"
+      "G000585",
+      "N000188",
+      "F000483",
+      "W000822",
+      "M001229",
+      "W000831",
+      "V000138",
+      "M001245"
     ],
     "sponsor_bioguides": [
       "P000617"
@@ -1721,7 +1794,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T11:50:45.761536Z"
   }
 }

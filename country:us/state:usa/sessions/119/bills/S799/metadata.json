@@ -21,16 +21,6 @@
   ],
   "actions": [
     {
-      "description": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.",
-      "date": "2025-10-22T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-13T05:35:20Z"
-      }
-    },
-    {
       "description": "Read twice and referred to the Committee on Foreign Relations.",
       "date": "2025-02-27T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -71,7 +61,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "S 3496",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in Senate",
@@ -116,7 +112,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:20Z",
+    "logs_latest_update": "2026-07-14T13:14:55Z",
     "text_extraction_latest_update": "2026-07-13T08:54:06.155332Z"
   }
 }

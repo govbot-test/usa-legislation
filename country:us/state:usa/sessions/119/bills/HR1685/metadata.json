@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Subcommittee Hearings Held",
+      "date": "2026-02-03T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:37Z"
+      }
+    },
+    {
       "description": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
       "date": "2025-03-27T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -249,6 +259,38 @@
       "organization_id": null
     },
     {
+      "name": "Mike Kelly",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Kelly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bradley Scott Schneider",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bradley Scott Schneider\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Seth Magaziner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Seth Magaziner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Suzan K. DelBene",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Suzan K. DelBene\"}",
+      "organization_id": null
+    },
+    {
       "name": "Brian K. Fitzpatrick",
       "classification": "primary",
       "entity_type": "person",
@@ -258,6 +300,16 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "HR 5827",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 6636",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
     {
       "identifier": "S 749",
       "legislative_session": "119",
@@ -323,7 +375,11 @@
       "N000147",
       "R000622",
       "M001216",
-      "H001095"
+      "H001095",
+      "K000376",
+      "S001190",
+      "M001223",
+      "D000617"
     ],
     "sponsor_bioguides": [
       "F000466"
@@ -336,7 +392,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:20Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T08:43:31.481416Z"
   }
 }

@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "ASSUMING FIRST SPONSORSHIP - Ms. Houlahan asked unanimous consent that she may hereafter be considered as the first sponsor of H.R. 1742, a bill originally introduced by Representative Sherrill, for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection.",
+      "date": "2026-02-11T23:45:25+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Armed Services.",
       "date": "2025-02-27T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -663,6 +673,22 @@
       "organization_id": null
     },
     {
+      "name": "Chris Pappas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chris Pappas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Cohen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Cohen\"}",
+      "organization_id": null
+    },
+    {
       "name": "Mikie Sherrill",
       "classification": "primary",
       "entity_type": "person",
@@ -779,7 +805,9 @@
       "B001324",
       "S001216",
       "D000635",
-      "U000040"
+      "U000040",
+      "P000614",
+      "C001068"
     ],
     "sponsor_bioguides": [
       "S001207"
@@ -792,7 +820,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:50Z",
     "text_extraction_latest_update": "2026-07-13T11:06:33.345014Z"
   }
 }

@@ -16,6 +16,58 @@
   ],
   "actions": [
     {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2025-12-10T00:08:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:42Z"
+      }
+    },
+    {
+      "description": "On agreeing to the resolution Agreed to without objection. (text: CR H5102)",
+      "date": "2025-12-10T00:08:09+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:42Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H5102)",
+      "date": "2025-12-10T00:08:09+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:42Z"
+      }
+    },
+    {
+      "description": "Mr. Steil asked unanimous consent to consider as introduced.",
+      "date": "2025-12-10T00:07:47+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:42Z"
+      }
+    },
+    {
+      "description": "Considered by unanimous consent. (consideration: CR H5102)",
+      "date": "2025-12-10T00:07:47+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:42Z"
+      }
+    },
+    {
       "description": "Placed on the House Calendar, Calendar No. 19.",
       "date": "2025-04-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -48,6 +100,21 @@
   ],
   "related_bills": [],
   "versions": [
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres311eh/xml/BILLS-119hres311eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres311eh/pdf/BILLS-119hres311eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-09",
+      "classification": ""
+    },
     {
       "note": "Reported in House",
       "links": [
@@ -101,7 +168,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:56Z",
     "text_extraction_latest_update": "2026-07-13T09:17:33.626394Z"
   }
 }

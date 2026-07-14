@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+      "date": "2025-12-02T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2025-04-01T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -64,6 +74,22 @@
       "organization_id": null
     },
     {
+      "name": "John W. Hickenlooper",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John W. Hickenlooper\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Daines",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Daines\"}",
+      "organization_id": null
+    },
+    {
       "name": "James E. Risch",
       "classification": "primary",
       "entity_type": "person",
@@ -106,7 +132,9 @@
     "cosponsor_bioguides": [
       "M001176",
       "C000880",
-      "C001113"
+      "C001113",
+      "H000273",
+      "D000618"
     ],
     "sponsor_bioguides": [
       "R000584"
@@ -119,7 +147,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:41Z",
     "text_extraction_latest_update": "2026-07-13T09:40:44.011629Z"
   }
 }

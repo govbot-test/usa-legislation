@@ -11,7 +11,15 @@
   "other_titles": [
     {
       "note": "",
+      "title": "To amend the National Marine Sanctuaries Act to prohibit the Secretary of Commerce from prohibiting, or requiring any permit or other authorization for, the installation, continued presence, operation, maintenance, repair, or recovery of undersea fiber optic cables in a national marine sanctuary if such activities have been authorized by a Federal or State agency."
+    },
+    {
+      "note": "",
       "title": "To amend the National Marine Sanctuaries Act to prohibit requiring an authorization for the installation, continued presence, operation, maintenance, repair, or recovery of undersea fiber optic cables in a national marine sanctuary if such activities have previously been authorized by a Federal or State agency."
+    },
+    {
+      "note": "",
+      "title": "To amend the National Marine Sanctuaries Act to prohibit the Secretary of Commerce from prohibiting, or requiring any permit or other authorization for, the installation, continued presence, operation, maintenance, repair, or recovery of undersea fiber optic cables in a national marine sanctuary if such activities have been authorized by a Federal or State agency"
     }
   ],
   "other_identifiers": [
@@ -20,6 +28,168 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "date": "2026-02-12T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "The title of the measure was amended. Agreed to without objection.",
+      "date": "2026-02-11T23:30:32+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2026-02-11T23:30:28+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "On passage Passed by the Yeas and Nays: 218 - 212 (Roll no. 67). (text of amendment in the nature of a substitute: CR H2162)",
+      "date": "2026-02-11T23:30:27+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 218 - 212 (Roll no. 67).",
+      "date": "2026-02-11T23:30:27+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "On motion to recommit Failed by the Yeas and Nays: 214 - 216 (Roll no. 66).",
+      "date": "2026-02-11T23:24:22+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H2169-2171)",
+      "date": "2026-02-11T23:18:20+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 261, the Chair put the question on motion to recommit and by voice vote, announced the noes had prevailed. Mr. Carbajal demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2026-02-11T21:45:23+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "date": "2026-02-11T21:45:14+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Mr. Carbajal moved to recommit to the Committee on Natural Resources. (text: CR H2166)",
+      "date": "2026-02-11T21:45:03+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered pursuant to the rule.",
+      "date": "2026-02-11T21:44:23+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H.R. 261.",
+      "date": "2026-02-11T21:09:04+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Rule provides for consideration of S. 1383, H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of S. 1383, H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one motion to recommit H.R. 2189, H.R. 261, and H.R. 3617, and one motion to commit S. 1383.",
+      "date": "2026-02-11T21:08:46+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Considered under the provisions of rule H. Res. 1057. (consideration: CR H2161-2166)",
+      "date": "2026-02-11T21:08:41+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 1057 Reported to House. Rule provides for consideration of S. 1383, H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of S. 1383, H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one motion to recommit H.R. 2189, H.R. 261, and H.R. 3617, and one motion to commit S. 1383.",
+      "date": "2026-02-11T15:46:51+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
+    {
+      "description": "Rules Committee Resolution H. Res. 1042 Reported to House. Rule provides for consideration of H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one hour of debate and one motion to recommit on each bill.",
+      "date": "2026-02-10T01:50:17+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
     {
       "description": "Placed on the Union Calendar, Calendar No. 146.",
       "date": "2025-07-02T04:00:00+00:00",
@@ -181,8 +351,54 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HRES 1042",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "HRES 1057",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 2873",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr261rfs/xml/BILLS-119hr261rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr261rfs/pdf/BILLS-119hr261rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-12",
+      "classification": ""
+    },
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr261eh/xml/BILLS-119hr261eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr261eh/pdf/BILLS-119hr261eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-02-11",
+      "classification": ""
+    },
     {
       "note": "Reported in House",
       "links": [
@@ -215,6 +431,28 @@
     }
   ],
   "documents": [
+    {
+      "note": "HAMDT 165",
+      "links": [
+        {
+          "url": "https://www.congress.gov/amendment/119th-congress/house-amendment/165",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "CBO: H.R. 261, Undersea Cable Protection Act of 2025",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62090",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "H. Rept. 119-181",
       "links": [
@@ -259,7 +497,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:20Z",
+    "logs_latest_update": "2026-07-14T13:14:51Z",
     "text_extraction_latest_update": "2026-07-13T08:05:17.181473Z"
   }
 }

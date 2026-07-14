@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Transportation and Maritime Security.",
+      "date": "2025-06-05T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on the Judiciary, and in addition to the Committees on Education and Workforce, Armed Services, Oversight and Government Reform, Financial Services, Energy and Commerce, Foreign Affairs, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2025-06-04T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -311,6 +321,38 @@
       "organization_id": null
     },
     {
+      "name": "Delia C. Ramirez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Delia C. Ramirez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dwight Evans",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dwight Evans\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adelita S. Grijalva",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adelita S. Grijalva\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Danny K. Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Danny K. Davis\"}",
+      "organization_id": null
+    },
+    {
       "name": "Becca Balint",
       "classification": "primary",
       "entity_type": "person",
@@ -389,7 +431,11 @@
       "L000606",
       "L000601",
       "G000586",
-      "M001232"
+      "M001232",
+      "R000617",
+      "E000296",
+      "G000606",
+      "D000096"
     ],
     "sponsor_bioguides": [
       "B001318"
@@ -402,7 +448,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:18Z",
+    "logs_latest_update": "2026-07-14T13:14:45Z",
     "text_extraction_latest_update": "2026-07-13T10:42:19.209784Z"
   }
 }

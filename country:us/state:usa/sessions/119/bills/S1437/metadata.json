@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "A bill to require the Administrator of the National Aeronautics and Space Administration to establish a program to identify, evaluate, acquire, and disseminate commercial Earth remote sensing data and imagery in order to satisfy the scientific, operational, and educational requirements of the Administration, and for other purposes."
+      "title": "Accessing Satellite Capabilities to Enable New Discoveries Act"
     },
     {
       "note": "",
-      "title": "Accessing Satellite Capabilities to Enable New Discoveries Act"
+      "title": "A bill to require the Administrator of the National Aeronautics and Space Administration to establish a program to identify, evaluate, acquire, and disseminate commercial Earth remote sensing data and imagery in order to satisfy the scientific, operational, and educational requirements of the Administration, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,60 @@
     }
   ],
   "actions": [
+    {
+      "description": "Held at the desk.",
+      "date": "2025-12-10T17:25:43+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Message on Senate action sent to the House.",
+      "date": "2025-12-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Received in the House.",
+      "date": "2025-12-10T17:03:50+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8581; text: CR S8581)",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
     {
       "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 173.",
       "date": "2025-09-29T04:00:00+00:00",
@@ -95,14 +149,23 @@
       "organization_id": null
     }
   ],
-  "related_bills": [
-    {
-      "identifier": "HR 2600",
-      "legislative_session": "119",
-      "relation_type": "companion"
-    }
-  ],
+  "related_bills": [],
   "versions": [
+    {
+      "note": "Engrossed in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1437es/xml/BILLS-119s1437es.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s1437es/pdf/BILLS-119s1437es.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-09",
+      "classification": ""
+    },
     {
       "note": "Reported to Senate",
       "links": [
@@ -184,7 +247,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:12Z",
+    "logs_latest_update": "2026-07-14T13:14:41Z",
     "text_extraction_latest_update": "2026-07-13T13:19:25.568698Z"
   }
 }

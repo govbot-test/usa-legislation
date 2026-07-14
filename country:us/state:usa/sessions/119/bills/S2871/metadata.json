@@ -21,13 +21,23 @@
   ],
   "actions": [
     {
-      "description": "Read twice and referred to the Committee on Indian Affairs. (Sponsor introductory remarks on measure: CR S6734: 1)",
+      "description": "Committee on Indian Affairs. Hearings held.",
+      "date": "2026-06-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:46Z"
+      }
+    },
+    {
+      "description": "Read twice and referred to the Committee on Indian Affairs. (Sponsor introductory remarks on measure: CR S6734)",
       "date": "2025-09-18T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:19Z"
+        "log_file_created": "2026-07-14T13:14:46Z"
       }
     },
     {
@@ -106,7 +116,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:48Z",
     "text_extraction_latest_update": "2026-07-13T11:08:47.553035Z"
   }
 }

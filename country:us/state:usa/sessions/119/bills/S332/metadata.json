@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
+      "description": "Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.",
+      "date": "2025-12-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:31Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2025-01-30T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -77,6 +97,22 @@
       "organization_id": null
     },
     {
+      "name": "Kirsten E. Gillibrand",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kirsten E. Gillibrand\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angela Alsobrooks",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angela Alsobrooks\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jacklyn Rosen",
       "classification": "primary",
       "entity_type": "person",
@@ -126,7 +162,9 @@
       "L000575",
       "B001277",
       "G000574",
-      "B001288"
+      "B001288",
+      "G000555",
+      "A000382"
     ],
     "sponsor_bioguides": [
       "R000608"
@@ -139,7 +177,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:15Z",
+    "logs_latest_update": "2026-07-14T13:14:53Z",
     "text_extraction_latest_update": "2026-07-13T09:27:30.867391Z"
   }
 }

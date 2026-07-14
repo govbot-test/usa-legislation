@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2025-12-19T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:32Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Veterans' Affairs.",
       "date": "2025-02-18T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -319,6 +329,22 @@
       "organization_id": null
     },
     {
+      "name": "Veronica Escobar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Veronica Escobar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eugene Simon Vindman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eugene Simon Vindman\"}",
+      "organization_id": null
+    },
+    {
       "name": "Julia Brownley",
       "classification": "primary",
       "entity_type": "person",
@@ -398,7 +424,9 @@
       "W000831",
       "R000621",
       "S001230",
-      "L000397"
+      "L000397",
+      "E000299",
+      "V000138"
     ],
     "sponsor_bioguides": [
       "B001285"
@@ -411,7 +439,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:13Z",
+    "logs_latest_update": "2026-07-14T13:14:38Z",
     "text_extraction_latest_update": "2026-07-13T05:56:51.567768Z"
   }
 }

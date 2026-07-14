@@ -21,13 +21,23 @@
   ],
   "actions": [
     {
-      "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S6732-6734: 2)",
+      "description": "Committee on Health, Education, Labor, and Pensions. Hearings held.",
+      "date": "2026-03-19T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:42Z"
+      }
+    },
+    {
+      "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S6732-6734)",
       "date": "2025-09-18T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:14Z"
+        "log_file_created": "2026-07-14T13:14:42Z"
       }
     },
     {
@@ -269,6 +279,22 @@
       "organization_id": null
     },
     {
+      "name": "James C. Justice",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James C. Justice\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Lee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Lee\"}",
+      "organization_id": null
+    },
+    {
       "name": "James Lankford",
       "classification": "primary",
       "entity_type": "person",
@@ -342,7 +368,9 @@
       "C001056",
       "M001190",
       "E000295",
-      "H001061"
+      "H001061",
+      "J000312",
+      "L000577"
     ],
     "sponsor_bioguides": [
       "L000575"
@@ -355,7 +383,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:14Z",
+    "logs_latest_update": "2026-07-14T13:14:44Z",
     "text_extraction_latest_update": "2026-07-13T11:00:37.780814Z"
   }
 }

@@ -1,20 +1,35 @@
 {
   "legislative_session": "119",
   "identifier": "S 3269",
-  "title": "A bill to direct the Comptroller General of the United States to conduct a technology assessment focused on liquid cooling systems for artificial intelligence compute clusters and high-performance computing facilities, and for other purposes.",
+  "title": "Liquid Cooling for AI Act of 2025",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "A bill to direct the Comptroller General of the United States to conduct a technology assessment focused on liquid cooling systems for artificial intelligence compute clusters and high-performance computing facilities, and for other purposes."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-s3269"
     }
   ],
   "actions": [
+    {
+      "description": "Committee on Energy and Natural Resources Subcommittee on Energy. Hearings held.",
+      "date": "2026-04-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:40Z"
+      }
+    },
     {
       "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2025-11-20T05:00:00+00:00",
@@ -73,7 +88,23 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3269is/xml/BILLS-119s3269is.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s3269is/pdf/BILLS-119s3269is.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-20",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
@@ -103,7 +134,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:09Z",
+    "logs_latest_update": "2026-07-14T13:14:45Z",
     "text_extraction_latest_update": "2026-07-14T09:47:38.541295Z"
   }
 }

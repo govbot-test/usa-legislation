@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-06-17T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:39Z"
+      }
+    },
+    {
       "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
       "date": "2025-06-04T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -77,6 +87,14 @@
       "organization_id": null
     },
     {
+      "name": "Jon Ossoff",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jon Ossoff\"}",
+      "organization_id": null
+    },
+    {
       "name": "Mike Lee",
       "classification": "primary",
       "entity_type": "person",
@@ -85,7 +103,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 5526",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Introduced in Senate",
@@ -120,7 +144,8 @@
       "L000570",
       "P000603",
       "H001076",
-      "S001227"
+      "S001227",
+      "O000174"
     ],
     "sponsor_bioguides": [
       "L000577"
@@ -133,7 +158,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:09Z",
+    "logs_latest_update": "2026-07-14T13:14:40Z",
     "text_extraction_latest_update": "2026-07-13T05:55:43.609556Z"
   }
 }

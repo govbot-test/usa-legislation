@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Continuing Appropriations Act, 2026"
+      "title": "A bill making continuing appropriations for the fiscal year ending September 30, 2026, and for other purposes."
     },
     {
       "note": "",
-      "title": "A bill making continuing appropriations for the fiscal year ending September 30, 2026, and for other purposes."
+      "title": "Continuing Appropriations Act, 2026"
     }
   ],
   "other_identifiers": [
@@ -35,13 +35,13 @@
       }
     },
     {
-      "description": "Third cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 557.",
+      "description": "Third cloture motion on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 557. (CR S7051)",
       "date": "2025-10-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:15Z"
+        "log_file_created": "2026-07-14T13:14:41Z"
       }
     },
     {
@@ -85,23 +85,23 @@
       }
     },
     {
-      "description": "Third cloture motion on the motion to proceed to the measure presented in Senate.",
+      "description": "Third cloture motion on the motion to proceed to the measure presented in Senate. (CR S6989)",
       "date": "2025-10-07T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:15Z"
+        "log_file_created": "2026-07-14T13:14:41Z"
       }
     },
     {
-      "description": "Motion to proceed to consideration of measure made in Senate.",
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S6989)",
       "date": "2025-10-07T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:15Z"
+        "log_file_created": "2026-07-14T13:14:41Z"
       }
     },
     {
@@ -115,23 +115,43 @@
       }
     },
     {
-      "description": "Second cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 45 - 50. Record Vote Number: 544.",
+      "description": "Second cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 45 - 50. Record Vote Number: 544. (CR S6951)",
       "date": "2025-10-06T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:15Z"
+        "log_file_created": "2026-07-14T13:14:41Z"
       }
     },
     {
-      "description": "Second cloture motion on the motion to proceed to the measure presented in Senate.",
+      "description": "Motion to proceed to consideration of measure withdrawn in Senate. (consideration: CR S6936)",
       "date": "2025-10-03T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:15Z"
+        "log_file_created": "2026-07-14T13:14:41Z"
+      }
+    },
+    {
+      "description": "Second cloture motion on the motion to proceed to the measure presented in Senate. (CR S6931)",
+      "date": "2025-10-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:41Z"
+      }
+    },
+    {
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S6931)",
+      "date": "2025-10-03T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:41Z"
       }
     },
     {
@@ -225,23 +245,23 @@
       }
     },
     {
-      "description": "Cloture motion on the motion to proceed to the measure presented in Senate. (: CR S6842)",
+      "description": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S6842)",
       "date": "2025-09-29T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:15Z"
+        "log_file_created": "2026-07-14T13:14:41Z"
       }
     },
     {
-      "description": "Motion to proceed to consideration of measure made in Senate. (: CR S6842)",
+      "description": "Motion to proceed to consideration of measure made in Senate. (CR S6842)",
       "date": "2025-09-29T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:15Z"
+        "log_file_created": "2026-07-14T13:14:41Z"
       }
     },
     {
@@ -255,13 +275,13 @@
       }
     },
     {
-      "description": "Under the order of 9/19/2025, the third reading was vitiated. (: CR S6785)",
+      "description": "Under the order of 9/19/2025, the third reading was vitiated. (CR S6785)",
       "date": "2025-09-19T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:15Z"
+        "log_file_created": "2026-07-14T13:14:41Z"
       }
     },
     {
@@ -411,7 +431,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:15Z",
+    "logs_latest_update": "2026-07-14T13:14:48Z",
     "text_extraction_latest_update": "2026-07-13T06:33:03.230362Z"
   }
 }

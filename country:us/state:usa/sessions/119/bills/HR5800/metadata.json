@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To require all applicants for a commercial driver's license to demonstrate English language proficiency as a condition for testing and issuance, and for other purposes."
+      "title": "Standardized Assessment for Fluency in English for Drivers Act"
     },
     {
       "note": "",
-      "title": "Standardized Assessment for Fluency in English for Drivers Act"
+      "title": "To require all applicants for a commercial driver's license to demonstrate English language proficiency as a condition for testing and issuance, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Highways and Transit.",
+      "date": "2025-12-01T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:53Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Transportation and Infrastructure.",
       "date": "2025-10-21T04:00:00+00:00",
@@ -219,6 +229,70 @@
       "organization_id": null
     },
     {
+      "name": "John W. Rose",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John W. Rose\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ron Estes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ron Estes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William R. Timmons",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William R. Timmons\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rudy Yakym",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rudy Yakym\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brad Knott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brad Knott\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Brecheen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Brecheen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ben Cline",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ben Cline\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Guest",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Guest\"}",
+      "organization_id": null
+    },
+    {
       "name": "Pat Harrigan",
       "classification": "primary",
       "entity_type": "person",
@@ -279,7 +353,15 @@
       "W000806",
       "S000168",
       "M001224",
-      "M001212"
+      "M001212",
+      "R000612",
+      "E000298",
+      "T000480",
+      "Y000067",
+      "K000405",
+      "B001317",
+      "C001118",
+      "G000591"
     ],
     "sponsor_bioguides": [
       "H001101"
@@ -292,7 +374,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:16Z",
+    "logs_latest_update": "2026-07-14T13:14:56Z",
     "text_extraction_latest_update": "2026-07-13T10:39:53.285742Z"
   }
 }

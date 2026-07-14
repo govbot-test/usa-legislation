@@ -21,6 +21,46 @@
   ],
   "actions": [
     {
+      "description": "Placed on the Union Calendar, Calendar No. 609.",
+      "date": "2026-06-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Financial Services. H. Rept. 119-701.",
+      "date": "2026-06-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Ordered to be Reported by the Yeas and Nays: 26 - 25.",
+      "date": "2026-04-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-04-21T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:30Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Financial Services.",
       "date": "2025-01-15T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -1407,6 +1447,14 @@
       "organization_id": null
     },
     {
+      "name": "Ben Cline",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ben Cline\"}",
+      "organization_id": null
+    },
+    {
       "name": "Michael T. McCaul",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -1444,14 +1492,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Maria Elvira Salazar\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Ben Cline",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Ben Cline\"}",
       "organization_id": null
     },
     {
@@ -1535,6 +1575,62 @@
       "organization_id": null
     },
     {
+      "name": "Daniel Meuser",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniel Meuser\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John H. Rutherford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John H. Rutherford\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian J. Mast",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian J. Mast\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Monica De La Cruz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Monica De La Cruz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carlos A. Gimenez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carlos A. Gimenez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pat Harrigan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pat Harrigan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brad Knott",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brad Knott\"}",
+      "organization_id": null
+    },
+    {
       "name": "Warren Davidson",
       "classification": "primary",
       "entity_type": "person",
@@ -1552,6 +1648,21 @@
   ],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr425rh/xml/BILLS-119hr425rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr425rh/pdf/BILLS-119hr425rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-06-18",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -1567,7 +1678,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "H. Rept. 119-701",
+      "links": [
+        {
+          "url": "https://www.congress.gov/119/crpt/hrpt701/CRPT-119hrpt701.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -1751,12 +1874,12 @@
       "B001291",
       "A000055",
       "B001325",
+      "C001118",
       "M001157",
       "L000598",
       "V000133",
       "M001213",
       "S000168",
-      "C001118",
       "L000596",
       "S001196",
       "W000795",
@@ -1766,7 +1889,14 @@
       "K000398",
       "B001322",
       "S001189",
-      "I000056"
+      "I000056",
+      "M001204",
+      "R000609",
+      "M001199",
+      "D000594",
+      "G000593",
+      "H001101",
+      "K000405"
     ],
     "sponsor_bioguides": [
       "D000626"
@@ -1779,7 +1909,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:19Z",
+    "logs_latest_update": "2026-07-14T13:14:46Z",
     "text_extraction_latest_update": "2026-07-13T13:27:23.174117Z"
   }
 }

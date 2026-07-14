@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HRES 432",
-  "title": "Providing for consideration of the bill (H.R. 2550) to nullify the Executive Order relating to Exclusions from Federal Labor-Management Relations Programs, and for other purposes.",
+  "title": "Providing for consideration of the bill (H.R. 2550) to nullify the Executive order relating to Exclusions from Federal Labor-Management Relations Programs, and for other purposes.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "resolution"
@@ -16,13 +16,155 @@
   ],
   "actions": [
     {
-      "description": "Motion to discharge the Committee on Rules filed by Mr. Golden (ME). Assigned to the Discharge Calendar, Calendar No. 3.",
+      "description": "Motion to reconsider laid on the table Agreed to without objection.",
+      "date": "2025-12-11T20:03:36+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
+    {
+      "description": "On agreeing to the resolution Agreed to by the Yeas and Nays: 232 - 194 (Roll no. 331).",
+      "date": "2025-12-11T20:03:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
+    {
+      "description": "Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 232 - 194 (Roll no. 331).",
+      "date": "2025-12-11T20:03:34+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
+    {
+      "description": "Considered as unfinished business. (consideration: CR H5794-5795)",
+      "date": "2025-12-11T19:55:45+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
+    {
+      "description": "POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 432, the Chair put the question on agreeing to the resolution and by voice vote announced the ayes had prevailed. Mr. Guthrie demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "date": "2025-12-10T22:54:28+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
+    {
+      "description": "The previous question was ordered without objection.",
+      "date": "2025-12-10T22:54:21+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
+    {
+      "description": "DEBATE - The House proceeded with one hour of debate on H. Res. 432.",
+      "date": "2025-12-10T22:44:16+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
+    {
+      "description": "Considered from the Discharge Calendar. (consideration: CR H5520-5522; text: CR H5521)",
+      "date": "2025-12-10T22:43:11+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
+    {
+      "description": "Consideration initiated from the Discharge Calendar.",
+      "date": "2025-12-10T22:43:09+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
+    {
+      "description": "On motion to discharge Agreed to by the Yeas and Nays: 222 - 200 (Roll no. 321).",
+      "date": "2025-12-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
+    {
+      "description": "Mr. Golden (ME) moved to discharge.",
+      "date": "2025-12-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
+    {
+      "description": "DEBATE - Pursuant to the rule, the House proceeded with 20 minutes of debate on the Golden (ME) motion to discharge.",
+      "date": "2025-12-10T22:33:57+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
+    {
+      "description": "MOTION TO DISCHARGE COMMITTEE - Pursuant to clause 2 of Rule XV, Mr. Golden (ME) called up motion No. 3, to discharge the Committee on Rules from further consideration of H. Res. 432.",
+      "date": "2025-12-10T22:33:38+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
+    {
+      "description": "NOTIFICATION OF INTENT TO OFFER MOTION TO DISCHARGE - Mr. Golden (ME) notified the House of his intent to offer a motion to discharge the Committee on Rules from further consideration of H.Res. 432 pursuant to clause 2(c) of rule XV. The Chair announced that the House will entertain the gentleman's motion within two legislative days.",
+      "date": "2025-12-10T00:12:41+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:50Z"
+      }
+    },
+    {
+      "description": "Motion to discharge the Committee on Rules filed by Mr. Golden (ME). Assigned to the Discharge Calendar, Calendar No. 3. (consideration: CR H4702)",
       "date": "2025-11-17T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T05:35:10Z"
+        "log_file_created": "2026-07-14T13:14:50Z"
       }
     },
     {
@@ -70,8 +212,29 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HR 2550",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
+    {
+      "note": "Engrossed in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres432eh/xml/BILLS-119hres432eh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hres432eh/pdf/BILLS-119hres432eh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-12-11",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -113,7 +276,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:10Z",
+    "logs_latest_update": "2026-07-14T13:14:56Z",
     "text_extraction_latest_update": "2026-07-13T09:27:41.782753Z"
   }
 }

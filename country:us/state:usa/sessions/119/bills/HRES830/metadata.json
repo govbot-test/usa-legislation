@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "Motion to Discharge Committee filed by Mrs. Fletcher. Petition No: 119-23. (<a href=\"https://clerk.house.gov/DischargePetition/2026060923\">Discharge petition</a> text with signatures.)",
+      "date": "2026-06-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:47Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Rules.",
       "date": "2025-10-24T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -93,7 +103,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:11Z",
+    "logs_latest_update": "2026-07-14T13:14:50Z",
     "text_extraction_latest_update": "2026-07-13T11:09:14.888492Z"
   }
 }

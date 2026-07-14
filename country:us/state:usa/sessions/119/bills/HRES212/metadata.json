@@ -58,16 +58,6 @@
       }
     },
     {
-      "description": "Submitted in House",
-      "date": "2025-03-11T18:14:47+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-13T05:35:20Z"
-      }
-    },
-    {
       "description": "No action text provided by the source",
       "date": "2025-03-11T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -91,6 +81,11 @@
     }
   ],
   "related_bills": [
+    {
+      "identifier": "HJRES 25",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
     {
       "identifier": "SJRES 3",
       "legislative_session": "119",
@@ -139,7 +134,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:20Z",
+    "logs_latest_update": "2026-07-14T13:14:32Z",
     "text_extraction_latest_update": "2026-07-13T08:42:44.780453Z"
   }
 }

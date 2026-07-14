@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Advancing Lifesaving Efforts with Rapid Test strips for Communities Act"
+      "title": "To require research with respect to fentanyl and xylazine test strips, to authorize the use of grant funds for such test strips, and for other purposes."
     },
     {
       "note": "",
-      "title": "To require research with respect to fentanyl and xylazine test strips, to authorize the use of grant funds for such test strips, and for other purposes."
+      "title": "Advancing Lifesaving Efforts with Rapid Test strips for Communities Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,36 @@
     }
   ],
   "actions": [
+    {
+      "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:51Z"
+      }
+    },
+    {
+      "description": "Subcommittee Consideration and Mark-up Session Held",
+      "date": "2026-06-25T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:51Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Health.",
+      "date": "2025-02-25T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:51Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Energy and Commerce.",
       "date": "2025-02-25T05:00:00+00:00",
@@ -112,7 +142,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:13Z",
+    "logs_latest_update": "2026-07-14T13:14:53Z",
     "text_extraction_latest_update": "2026-07-13T09:48:25.484786Z"
   }
 }

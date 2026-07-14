@@ -1,6 +1,6 @@
 {
   "action": {
-    "description": "Cloture motion on the motion to proceed to the measure presented in Senate. (: CR S7113-7114)",
+    "description": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S7113-7114)",
     "occurred_at": "2025-10-14T04:00:00+00:00",
     "jurisdiction_id": "~{\"classification\": \"upper\"}",
     "session_id": "119",

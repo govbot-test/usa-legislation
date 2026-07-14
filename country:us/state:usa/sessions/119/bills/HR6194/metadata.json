@@ -1,20 +1,45 @@
 {
   "legislative_session": "119",
   "identifier": "HR 6194",
-  "title": "To limit the availability of civil actions affected by United States sanctions.",
+  "title": "Protecting Americans from Russian Litigation Act of 2025",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [],
+  "other_titles": [
+    {
+      "note": "",
+      "title": "To limit the availability of civil actions affected by United States sanctions."
+    }
+  ],
   "other_identifiers": [
     {
       "identifier": "ocd-bill-us-119-hr6194"
     }
   ],
   "actions": [
+    {
+      "description": "Ordered to be Reported (Amended) by Voice Vote.",
+      "date": "2026-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:55Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-03-26T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:14:55Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on the Judiciary.",
       "date": "2025-11-20T05:00:00+00:00",
@@ -90,6 +115,14 @@
       "organization_id": null
     },
     {
+      "name": "Jefferson Van Drew",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jefferson Van Drew\"}",
+      "organization_id": null
+    },
+    {
       "name": "Wesley Hunt",
       "classification": "primary",
       "entity_type": "person",
@@ -98,9 +131,43 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
-  "versions": [],
-  "documents": [],
+  "related_bills": [
+    {
+      "identifier": "S 2934",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "Introduced in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6194ih/xml/BILLS-119hr6194ih.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr6194ih/pdf/BILLS-119hr6194ih.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2025-11-20",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "CBO: H.R. 6194, Protecting Americans from Russian Litigation Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62495",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -119,7 +186,8 @@
       "L000597",
       "N000002",
       "L000582",
-      "K000400"
+      "K000400",
+      "V000133"
     ],
     "sponsor_bioguides": [
       "H001095"
@@ -132,7 +200,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:20Z",
+    "logs_latest_update": "2026-07-14T13:14:55Z",
     "text_extraction_latest_update": "2026-07-14T09:47:36.835232Z"
   }
 }
