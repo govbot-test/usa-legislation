@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Counterterrorism and Intelligence.",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:21Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Emergency Management and Technology.",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:21Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Education and Workforce, and in addition to the Committees on the Judiciary, Homeland Security, Transportation and Infrastructure, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2026-06-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -456,7 +476,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:51Z",
+    "logs_latest_update": "2026-07-21T08:33:22Z",
     "text_extraction_latest_update": "2026-07-14T21:57:15.051959Z"
   }
 }

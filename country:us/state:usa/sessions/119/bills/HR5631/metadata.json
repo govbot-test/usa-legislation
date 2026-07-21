@@ -15,11 +15,11 @@
     },
     {
       "note": "",
-      "title": "To appoint a Geothermal Ombudsman and establish a Geothermal Permitting Task Force from within the Bureau of Land Management, and for other purposes."
+      "title": "To promote responsible geothermal energy development on public lands, and for other purposes."
     },
     {
       "note": "",
-      "title": "To promote responsible geothermal energy development on public lands, and for other purposes."
+      "title": "To appoint a Geothermal Ombudsman and establish a Geothermal Permitting Task Force from within the Bureau of Land Management, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -28,6 +28,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
+      "date": "2026-07-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:18Z"
+      }
+    },
     {
       "description": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.",
       "date": "2026-06-03T04:00:00+00:00",
@@ -369,7 +379,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:54Z",
+    "logs_latest_update": "2026-07-21T08:33:18Z",
     "text_extraction_latest_update": "2026-07-14T19:00:32.946764Z"
   }
 }

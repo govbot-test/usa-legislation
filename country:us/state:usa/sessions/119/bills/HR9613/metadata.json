@@ -21,6 +21,26 @@
   ],
   "actions": [
     {
+      "description": "Forwarded by Subcommittee to Full Committee by Voice Vote.",
+      "date": "2026-07-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:19Z"
+      }
+    },
+    {
+      "description": "Subcommittee Consideration and Mark-up Session Held",
+      "date": "2026-07-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:19Z"
+      }
+    },
+    {
       "description": "Referred to the House Committee on Energy and Commerce.",
       "date": "2026-07-09T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -30,6 +50,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-14T13:14:36Z"
+      }
+    },
+    {
+      "description": "Referred to the Subcommittee on Energy.",
+      "date": "2026-07-09T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:19Z"
       }
     },
     {
@@ -108,7 +138,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:37Z",
+    "logs_latest_update": "2026-07-21T08:33:21Z",
     "text_extraction_latest_update": "2026-07-14T22:20:45.044347Z"
   }
 }

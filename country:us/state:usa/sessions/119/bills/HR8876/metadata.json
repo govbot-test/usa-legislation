@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Water, Wildlife and Fisheries.",
+      "date": "2026-07-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:19Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2026-05-19T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -87,6 +97,22 @@
       "organization_id": null
     },
     {
+      "name": "Bill Huizenga",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Huizenga\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Debbie Dingell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Debbie Dingell\"}",
+      "organization_id": null
+    },
+    {
       "name": "Tim Walberg",
       "classification": "primary",
       "entity_type": "person",
@@ -131,7 +157,9 @@
       "V000129",
       "N000191",
       "E000235",
-      "T000487"
+      "T000487",
+      "H001058",
+      "D000624"
     ],
     "sponsor_bioguides": [
       "W000798"
@@ -144,7 +172,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:51Z",
+    "logs_latest_update": "2026-07-21T08:33:20Z",
     "text_extraction_latest_update": "2026-07-14T18:50:37.700208Z"
   }
 }

@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "ASSUMING FIRST SPONSORSHIP - Mr. Gallagher asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 1420, a bill originally introduced by Representative LaMalfa, for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection.",
+      "date": "2026-07-16T15:22:46+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:20Z"
+      }
+    },
+    {
       "description": "Referred to the Subcommittee on Conservation, Research, and Biotechnology.",
       "date": "2025-03-28T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -154,7 +164,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T05:35:15Z",
+    "logs_latest_update": "2026-07-21T08:33:20Z",
     "text_extraction_latest_update": "2026-07-13T07:03:35.536556Z"
   }
 }

@@ -21,6 +21,28 @@
   ],
   "actions": [
     {
+      "description": "Became Public Law No: 119-102.",
+      "date": "2026-07-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:20Z"
+      }
+    },
+    {
+      "description": "Sent to Archivist of the United States unsigned.",
+      "date": "2026-07-12T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:20Z"
+      }
+    },
+    {
       "description": "Presented to President.",
       "date": "2026-06-30T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -292,7 +314,16 @@
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-102",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ102/PLAW-119publ102.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s629.xml",
@@ -319,7 +350,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:37Z",
+    "logs_latest_update": "2026-07-21T08:33:20Z",
     "text_extraction_latest_update": "2026-07-14T19:07:36.484412Z"
   }
 }

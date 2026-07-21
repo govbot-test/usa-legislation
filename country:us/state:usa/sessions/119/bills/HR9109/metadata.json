@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Counterterrorism and Intelligence.",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:19Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, Ways and Means, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2026-06-02T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -104,7 +114,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:42Z",
+    "logs_latest_update": "2026-07-21T08:33:20Z",
     "text_extraction_latest_update": "2026-07-14T20:48:56.265630Z"
   }
 }

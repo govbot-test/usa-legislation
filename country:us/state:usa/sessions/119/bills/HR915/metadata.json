@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Small Business Technological Act of 2025"
+      "title": "To authorize small business loans to finance access to modern business software, and for other purposes."
     },
     {
       "note": "",
-      "title": "To authorize small business loans to finance access to modern business software, and for other purposes."
+      "title": "Small Business Technological Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.",
+      "date": "2026-07-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:18Z"
+      }
+    },
     {
       "description": "Motion to reconsider laid on the table Agreed to without objection.",
       "date": "2026-06-24T21:17:18+00:00",
@@ -216,6 +226,21 @@
   ],
   "versions": [
     {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr915rfs/xml/BILLS-119hr915rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr915rfs/pdf/BILLS-119hr915rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-13",
+      "classification": ""
+    },
+    {
       "note": "Engrossed in House",
       "links": [
         {
@@ -313,7 +338,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:53Z",
+    "logs_latest_update": "2026-07-21T08:33:18Z",
     "text_extraction_latest_update": "2026-07-14T21:37:05.627909Z"
   }
 }

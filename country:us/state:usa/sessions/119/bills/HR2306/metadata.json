@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To reauthorize the Adams Memorial Commission, and for other purposes."
+      "title": "The Adams Memorial-Great American Heroes Act"
     },
     {
       "note": "",
-      "title": "The Adams Memorial-Great American Heroes Act"
+      "title": "To reauthorize the Adams Memorial Commission, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Read twice and referred to the Committee on Energy and Natural Resources.",
+      "date": "2026-07-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:19Z"
+      }
+    },
     {
       "description": "Received in the Senate.",
       "date": "2025-12-10T05:00:00+00:00",
@@ -270,6 +280,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2306rfs/xml/BILLS-119hr2306rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr2306rfs/pdf/BILLS-119hr2306rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-13",
+      "classification": ""
+    },
+    {
       "note": "Engrossed in House",
       "links": [
         {
@@ -361,7 +386,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:55Z",
+    "logs_latest_update": "2026-07-21T08:33:19Z",
     "text_extraction_latest_update": "2026-07-14T22:12:37.961873Z"
   }
 }

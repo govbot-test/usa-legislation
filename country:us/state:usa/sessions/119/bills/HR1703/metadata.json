@@ -1,7 +1,7 @@
 {
   "legislative_session": "119",
   "identifier": "HR 1703",
-  "title": "Choices for Increased Mobility Act of 2025",
+  "title": "Choices for Increased Mobility Act of 2026",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -9,6 +9,10 @@
   "subject": [],
   "abstracts": [],
   "other_titles": [
+    {
+      "note": "",
+      "title": "Choices for Increased Mobility Act of 2025"
+    },
     {
       "note": "",
       "title": "To amend title XVIII of the Social Security Act to clarify payment rules for manual wheelchairs under part B of the Medicare program."
@@ -20,6 +24,36 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 656.",
+      "date": "2026-07-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:21Z"
+      }
+    },
+    {
+      "description": "Committee on Ways and Means discharged.",
+      "date": "2026-07-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:21Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-753, Part I.",
+      "date": "2026-07-18T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:21Z"
+      }
+    },
     {
       "description": "Ordered to be Reported by the Yeas and Nays: 45 - 0.",
       "date": "2026-05-21T04:00:00+00:00",
@@ -194,6 +228,21 @@
   ],
   "versions": [
     {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1703rh/xml/BILLS-119hr1703rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr1703rh/pdf/BILLS-119hr1703rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-18",
+      "classification": ""
+    },
+    {
       "note": "Introduced in House",
       "links": [
         {
@@ -245,7 +294,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:46Z",
+    "logs_latest_update": "2026-07-21T08:33:21Z",
     "text_extraction_latest_update": "2026-07-14T18:57:06.417574Z"
   }
 }

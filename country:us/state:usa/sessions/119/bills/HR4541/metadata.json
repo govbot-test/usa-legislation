@@ -12,6 +12,14 @@
     {
       "note": "",
       "title": "To reauthorize the Young Women's Breast Health Education and Awareness Requires Learning Young Act of 2009."
+    },
+    {
+      "note": "",
+      "title": "Screening for Communities to Receive Early and Equitable Needed Services for Cancer Act of 2025"
+    },
+    {
+      "note": "",
+      "title": "SCREENS for Cancer Act of 2025"
     }
   ],
   "other_identifiers": [
@@ -20,6 +28,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Placed on the Union Calendar, Calendar No. 650.",
+      "date": "2026-07-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:22Z"
+      }
+    },
+    {
+      "description": "Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-746.",
+      "date": "2026-07-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:22Z"
+      }
+    },
     {
       "description": "Ordered to be Reported (Amended) by the Yeas and Nays: 48 - 0.",
       "date": "2026-05-21T04:00:00+00:00",
@@ -270,9 +298,34 @@
       "identifier": "S 2339",
       "legislative_session": "119",
       "relation_type": "companion"
+    },
+    {
+      "identifier": "HR 1768",
+      "legislative_session": "119",
+      "relation_type": "companion"
+    },
+    {
+      "identifier": "S 891",
+      "legislative_session": "119",
+      "relation_type": "companion"
     }
   ],
   "versions": [
+    {
+      "note": "Reported in House",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4541rh/xml/BILLS-119hr4541rh.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr4541rh/pdf/BILLS-119hr4541rh.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-13",
+      "classification": ""
+    },
     {
       "note": "Introduced in House",
       "links": [
@@ -335,7 +388,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:51Z",
+    "logs_latest_update": "2026-07-21T08:33:22Z",
     "text_extraction_latest_update": "2026-07-14T18:38:26.131989Z"
   }
 }

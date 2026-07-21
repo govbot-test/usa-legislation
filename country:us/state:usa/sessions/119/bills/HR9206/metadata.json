@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "To amend the Homeland Security Act of 2002 to require a Department of Homeland Security-wide policy for public communications, and for other purposes."
+      "title": "Department of Homeland Security Communications, Accuracy, Neutrality, Disclosure, Oversight, and Review Act"
     },
     {
       "note": "",
-      "title": "Department of Homeland Security Communications, Accuracy, Neutrality, Disclosure, Oversight, and Review Act"
+      "title": "To amend the Homeland Security Act of 2002 to require a Department of Homeland Security-wide policy for public communications, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Oversight, Investigations, and Accountability.",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:19Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Homeland Security.",
       "date": "2026-06-08T04:00:00+00:00",
@@ -112,7 +122,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:32Z",
+    "logs_latest_update": "2026-07-21T08:33:20Z",
     "text_extraction_latest_update": "2026-07-14T20:49:12.975226Z"
   }
 }

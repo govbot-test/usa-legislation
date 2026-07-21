@@ -15,7 +15,7 @@
     },
     {
       "note": "",
-      "title": "Supporting Early-childhood Educators\u2019 Deductions Act"
+      "title": "Supporting Early-childhood Educators\u2019 Deductions Act of 2025"
     },
     {
       "note": "",
@@ -23,7 +23,7 @@
     },
     {
       "note": "",
-      "title": "Supporting Early-childhood Educators\u2019 Deductions Act of 2025"
+      "title": "Supporting Early-childhood Educators\u2019 Deductions Act"
     }
   ],
   "other_identifiers": [
@@ -32,6 +32,28 @@
     }
   ],
   "actions": [
+    {
+      "description": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 454.",
+      "date": "2026-07-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:20Z"
+      }
+    },
+    {
+      "description": "Read the first time. Placed on Senate Legislative Calendar under Read the First Time.",
+      "date": "2026-07-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:20Z"
+      }
+    },
     {
       "description": "Received in the Senate.",
       "date": "2026-04-28T04:00:00+00:00",
@@ -368,6 +390,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Placed on Calendar Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5334pcs/xml/BILLS-119hr5334pcs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr5334pcs/pdf/BILLS-119hr5334pcs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-14",
+      "classification": ""
+    },
+    {
       "note": "Engrossed in House",
       "links": [
         {
@@ -485,7 +522,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:40Z",
+    "logs_latest_update": "2026-07-21T08:33:20Z",
     "text_extraction_latest_update": "2026-07-14T19:58:46.259059Z"
   }
 }

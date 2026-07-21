@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Saving Today\u2019s Acute-Care Resources Act"
+      "title": "To amend title XVIII of the Social Security Act to adjust long-term care hospital payment rates under the Medicare program."
     },
     {
       "note": "",
-      "title": "To amend title XVIII of the Social Security Act to adjust long-term care hospital payment rates under the Medicare program."
+      "title": "Saving Today\u2019s Acute-Care Resources Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,26 @@
     }
   ],
   "actions": [
+    {
+      "description": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 40 - 0.",
+      "date": "2026-07-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:19Z"
+      }
+    },
+    {
+      "description": "Committee Consideration and Mark-up Session Held",
+      "date": "2026-07-15T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:19Z"
+      }
+    },
     {
       "description": "Referred to the House Committee on Ways and Means.",
       "date": "2026-06-25T04:00:00+00:00",
@@ -64,6 +84,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Lloyd Smucker\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Kelly",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Kelly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Carey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Carey\"}",
       "organization_id": null
     },
     {
@@ -108,7 +144,9 @@
   "extras": {
     "cosponsor_bioguides": [
       "M001205",
-      "S001199"
+      "S001199",
+      "K000376",
+      "C001126"
     ],
     "sponsor_bioguides": [
       "H001082"
@@ -121,7 +159,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:53Z",
+    "logs_latest_update": "2026-07-21T08:33:22Z",
     "text_extraction_latest_update": "2026-07-14T20:48:41.864076Z"
   }
 }

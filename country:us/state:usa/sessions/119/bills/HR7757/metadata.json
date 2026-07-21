@@ -11,35 +11,7 @@
   "other_titles": [
     {
       "note": "",
-      "title": "AWARE Act"
-    },
-    {
-      "note": "",
-      "title": "Shielding Children\u2019s Retinas from Egregious Exposure on the Net Act"
-    },
-    {
-      "note": "",
-      "title": "Promoting a Safe Internet for Minors Act"
-    },
-    {
-      "note": "",
-      "title": "To protect children and teens online, empower parents and strengthen families, and for other purposes."
-    },
-    {
-      "note": "",
-      "title": "No Fentanyl on Social Media Act"
-    },
-    {
-      "note": "",
       "title": "Kids Internet and Digital Safety Act"
-    },
-    {
-      "note": "",
-      "title": "Safe Social Media Act"
-    },
-    {
-      "note": "",
-      "title": "Stop Profiling Youth and Kids Act"
     },
     {
       "note": "",
@@ -47,23 +19,11 @@
     },
     {
       "note": "",
+      "title": "Promoting a Safe Internet for Minors Act"
+    },
+    {
+      "note": "",
       "title": "SCREEN Act"
-    },
-    {
-      "note": "",
-      "title": "AI Warnings And Resources for Education Act"
-    },
-    {
-      "note": "",
-      "title": "Safeguarding Adolescents From Exploitative BOTs Act"
-    },
-    {
-      "note": "",
-      "title": "SPY Kids Act"
-    },
-    {
-      "note": "",
-      "title": "Kids Internet Safety Partnership Act"
     },
     {
       "note": "",
@@ -71,7 +31,47 @@
     },
     {
       "note": "",
+      "title": "No Fentanyl on Social Media Act"
+    },
+    {
+      "note": "",
+      "title": "Safe Social Media Act"
+    },
+    {
+      "note": "",
+      "title": "AWARE Act"
+    },
+    {
+      "note": "",
+      "title": "Kids Internet Safety Partnership Act"
+    },
+    {
+      "note": "",
+      "title": "AI Warnings And Resources for Education Act"
+    },
+    {
+      "note": "",
+      "title": "SPY Kids Act"
+    },
+    {
+      "note": "",
+      "title": "Stop Profiling Youth and Kids Act"
+    },
+    {
+      "note": "",
       "title": "Kids Online Safety Act"
+    },
+    {
+      "note": "",
+      "title": "Shielding Children\u2019s Retinas from Egregious Exposure on the Net Act"
+    },
+    {
+      "note": "",
+      "title": "To protect children and teens online, empower parents and strengthen families, and for other purposes."
+    },
+    {
+      "note": "",
+      "title": "Safeguarding Adolescents From Exploitative BOTs Act"
     }
   ],
   "other_identifiers": [
@@ -80,6 +80,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "date": "2026-07-13T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:21Z"
+      }
+    },
     {
       "description": "Motion to reconsider laid on the table Agreed to without objection.",
       "date": "2026-06-29T23:02:09+00:00",
@@ -221,6 +231,21 @@
   ],
   "versions": [
     {
+      "note": "Referred in Senate",
+      "links": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7757rfs/xml/BILLS-119hr7757rfs.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr7757rfs/pdf/BILLS-119hr7757rfs.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "2026-07-13",
+      "classification": ""
+    },
+    {
       "note": "Engrossed in House",
       "links": [
         {
@@ -278,7 +303,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:35Z",
+    "logs_latest_update": "2026-07-21T08:33:21Z",
     "text_extraction_latest_update": "2026-07-14T20:40:37.856337Z"
   }
 }

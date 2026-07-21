@@ -15,15 +15,15 @@
     },
     {
       "note": "",
-      "title": "To increase the supply of housing in America, and for other purposes."
-    },
-    {
-      "note": "",
       "title": "Housing for the 21st Century Act"
     },
     {
       "note": "",
       "title": "To increase the supply of housing in America, and for other purposes"
+    },
+    {
+      "note": "",
+      "title": "To increase the supply of housing in America, and for other purposes."
     }
   ],
   "other_identifiers": [
@@ -32,6 +32,28 @@
     }
   ],
   "actions": [
+    {
+      "description": "Became Public Law No: 119-101.",
+      "date": "2026-07-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:19Z"
+      }
+    },
+    {
+      "description": "Sent to Archivist of the United States unsigned.",
+      "date": "2026-07-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:19Z"
+      }
+    },
     {
       "description": "Presented to President.",
       "date": "2026-06-29T04:00:00+00:00",
@@ -2228,6 +2250,17 @@
       "classification": ""
     },
     {
+      "note": "CBO: Estimated Budgetary Effects of H.R. 6644, the 21st Century ROAD to Housing Act",
+      "links": [
+        {
+          "url": "https://www.cbo.gov/publication/62570",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "H. Rept. 119-457",
       "links": [
         {
@@ -2239,7 +2272,16 @@
       "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "US Public Law",
+      "citation": "119-101",
+      "citation_type": "final",
+      "effective": null,
+      "expires": null,
+      "url": "https://www.congress.gov/119/plaws/publ101/PLAW-119publ101.pdf"
+    }
+  ],
   "sources": [
     {
       "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6644.xml",
@@ -2295,7 +2337,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:48Z",
+    "logs_latest_update": "2026-07-21T08:33:19Z",
     "text_extraction_latest_update": "2026-07-14T19:33:57.693747Z"
   }
 }

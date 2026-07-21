@@ -11,11 +11,11 @@
   "other_titles": [
     {
       "note": "",
-      "title": "Safeguarding America\u2019s Food Economy and Controlling Agricultural Threats to Livestock and Enterprises Act"
+      "title": "To direct the Secretary of Agriculture and the Secretary of the Interior to enter into a memorandum of understanding or other interagency agreement, to carry out, and coordinate on, activities to prevent, control, and eradicate New World screwworm in wildlife and non-livestock species of animals on certain Federal lands, and for other purposes."
     },
     {
       "note": "",
-      "title": "To direct the Secretary of Agriculture and the Secretary of the Interior to enter into a memorandum of understanding or other interagency agreement, to carry out, and coordinate on, activities to prevent, control, and eradicate New World screwworm in wildlife and non-livestock species of animals on certain Federal lands, and for other purposes."
+      "title": "Safeguarding America\u2019s Food Economy and Controlling Agricultural Threats to Livestock and Enterprises Act"
     }
   ],
   "other_identifiers": [
@@ -24,6 +24,16 @@
     }
   ],
   "actions": [
+    {
+      "description": "Referred to the Subcommittee on Water, Wildlife and Fisheries.",
+      "date": "2026-07-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:19Z"
+      }
+    },
     {
       "description": "Referred to the Subcommittee on Livestock, Dairy, and Poultry.",
       "date": "2026-03-20T04:00:00+00:00",
@@ -125,6 +135,22 @@
       "organization_id": null
     },
     {
+      "name": "August Pfluger",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"August Pfluger\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Troy Downing",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Troy Downing\"}",
+      "organization_id": null
+    },
+    {
       "name": "Ronny Jackson",
       "classification": "primary",
       "entity_type": "person",
@@ -172,7 +198,9 @@
       "D000594",
       "H001095",
       "C001120",
-      "C001115"
+      "C001115",
+      "P000048",
+      "D000634"
     ],
     "sponsor_bioguides": [
       "J000304"
@@ -185,7 +213,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:49Z",
+    "logs_latest_update": "2026-07-21T08:33:19Z",
     "text_extraction_latest_update": "2026-07-14T20:40:14.674984Z"
   }
 }

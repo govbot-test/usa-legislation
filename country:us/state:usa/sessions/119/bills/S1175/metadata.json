@@ -21,6 +21,16 @@
   ],
   "actions": [
     {
+      "description": "Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.",
+      "date": "2026-07-16T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:18Z"
+      }
+    },
+    {
       "description": "Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.",
       "date": "2025-12-02T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -185,7 +195,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:39Z",
+    "logs_latest_update": "2026-07-21T08:33:18Z",
     "text_extraction_latest_update": "2026-07-14T20:56:06.932900Z"
   }
 }

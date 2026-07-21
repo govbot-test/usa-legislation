@@ -25,6 +25,16 @@
   ],
   "actions": [
     {
+      "description": "Referred to the Subcommittee on Oversight, Investigations, and Accountability.",
+      "date": "2026-07-07T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:21Z"
+      }
+    },
+    {
       "description": "Referred to the Committee on Ways and Means, and in addition to the Committees on Oversight and Government Reform, House Administration, Education and Workforce, Agriculture, Foreign Affairs, Homeland Security, Armed Services, Veterans' Affairs, Science, Space, and Technology, Natural Resources, Financial Services, Appropriations, the Budget, Energy and Commerce, Intelligence (Permanent Select), Rules, Ethics, the Judiciary, Small Business, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "date": "2026-06-18T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -138,7 +148,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:45Z",
+    "logs_latest_update": "2026-07-21T08:33:21Z",
     "text_extraction_latest_update": "2026-07-14T20:32:07.784102Z"
   }
 }

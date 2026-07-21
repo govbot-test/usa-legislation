@@ -16,6 +16,16 @@
   ],
   "actions": [
     {
+      "description": "VACATING PROCEEDINGS - Mr. Steil asked unanimous consent that the ordering of a recorded vote on the question of reconsideration of the vote on adoption on H. Res. 1398 be vacated to the end that the motion to reconsider be laid on the table. Agreed to without objection.",
+      "date": "2026-07-13T21:23:12+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:20Z"
+      }
+    },
+    {
       "description": "POSTPONED PROCEEDINGS - The Chair put the question on motion to reconsider and by voice vote, announced the ayes had prevailed. Mr. McGovern demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.",
       "date": "2026-06-30T18:16:45+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -202,7 +212,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:49Z",
+    "logs_latest_update": "2026-07-21T08:33:20Z",
     "text_extraction_latest_update": "2026-07-14T19:07:02.998978Z"
   }
 }

@@ -81,6 +81,16 @@
       }
     },
     {
+      "description": "Subcommittee Consideration and Mark-up Session Held",
+      "date": "2026-05-14T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T08:33:23Z"
+      }
+    },
+    {
       "description": "Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.",
       "date": "2026-02-10T05:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -207,7 +217,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T13:14:51Z",
+    "logs_latest_update": "2026-07-21T08:33:23Z",
     "text_extraction_latest_update": "2026-07-14T20:55:44.700621Z"
   }
 }
